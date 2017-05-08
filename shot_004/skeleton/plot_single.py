@@ -141,4 +141,4 @@ plt.ylabel('DIAMETER (nm)',fontsize=fs)
 plt.tight_layout()
 
 plt.savefig("all.png", format='png', bbox_extra_artists=(lgd,), bbox_inches='tight')
-plt.show()
+#plt.show()

@@ -48,3 +48,9 @@ ordering_axis                -1
 !activation_threshold         2.d-6
 
 primary_siphon          frank  perfect 0.8
+
+add_sink edge111
+set_sink edge111 dimensions 1
+set_sink edge111 density 1.0d-5
+set_sink edge111 oriented F
+set_sink edge111 bias        int   1.2d0

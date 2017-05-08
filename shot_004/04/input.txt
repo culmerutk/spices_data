@@ -27,9 +27,9 @@ initial_limits   defect      -500 5000
 verbose_solver               T
 
 react_bias int vac 1.0d0
-react_bias int int 1.0d0
-react_bias int frank 1.0d0
-react_bias int perfect 1.0d0
+react_bias int int 1.2d0
+react_bias int frank 1.2d0
+react_bias int perfect 1.2d0
 
 !use a grouping scheme
 !compression_style vac       defect 3 1.d0 100

@@ -26,7 +26,7 @@ initial_limits   defect      -500 5000
 !dump solver information
 verbose_solver               T
 
-react_bias int vac 1.0d0
+react_bias int vac 1.5d0
 react_bias int int 1.0d0
 react_bias int frank 1.0d0
 react_bias int perfect 1.0d0
