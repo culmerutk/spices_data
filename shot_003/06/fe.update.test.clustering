@@ -1,0 +1,36 @@
+damage_bins 				4
+produced_species			28
+conserves_mass           T
+!ENERGIES 			0.d3 	 5.d3	1.d4 	2.d4
+!With the flipped fit lines
+array
+survival_efficiency 		0.4d0		    0.25d0		   	.134d0		  	0.12d0
+45	frank	0.000d0		0.000d0		0.013d0		0.024d0
+40	frank	0.000d0		0.000d0		0.015d0		0.025d0
+35	frank	0.000d0		0.000d0		0.016d0		0.027d0
+30	frank	0.000d0		0.000d0		0.018d0		0.029d0
+25	frank	0.000d0		0.000d0		0.021d0		0.032d0
+20	frank	0.000d0		0.021d0		0.024d0		0.035d0
+16	frank	0.000d0		0.026d0		0.029d0		0.040d0
+12	frank	0.000d0		0.033d0		0.036d0		0.046d0
+9	frank	0.000d0		0.042d0		0.044d0		0.053d0
+8	frank	0.040d0		0.047d0		0.049d0		0.056d0
+7	frank	0.054d0		0.053d0		0.054d0		0.060d0
+6	frank	0.063d0		0.061d0		0.060d0		0.065d0
+5	frank	0.076d0		0.071d0		0.069d0		0.071d0
+4	int	    0.094d0		0.086d0		0.082d0		0.079d0
+3	int	    0.124d0		0.111d0		0.101d0		0.091d0
+2	int	    0.185d0		0.158d0		0.137d0		0.112d0
+1	int	    0.364d0		0.291d0		0.232d0		0.155d0
+-1	vac 	0.673d0		0.611d0		0.537d0		0.375d0
+-2	vac	    0.174d0		0.181d0		0.190d0		0.187d0
+-3	vac 	0.079d0		0.089d0		0.103d0		0.125d0
+-4	vac	    0.045d0		0.054d0		0.067d0		0.094d0
+-5	vac	    0.029d0		0.036d0		0.048d0		0.075d0
+-9	faulted	0.000d0		0.013d0		0.020d0		0.042d0
+-12	faulted	0.000d0		0.008d0		0.013d0		0.031d0
+-15	faulted	0.000d0		0.005d0		0.009d0		0.025d0
+-20	faulted	0.000d0		0.003d0		0.006d0		0.019d0
+-25	faulted	0.000d0		0.000d0		0.004d0		0.015d0
+-30	faulted	0.000d0		0.000d0		0.003d0		0.012d0
+end

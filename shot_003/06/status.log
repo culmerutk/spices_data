@@ -1,0 +1,231 @@
+Initializing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.001
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.043
+    --> Equation mapping ...............     0.003
+    --> Source association .............     0.076
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.123
+    --> Products .......................     0.967
+    --> Reactions ......................     0.748
+    --> Leaks ..........................     0.015
+    --> Emissions ......................     0.159
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.000
+==> Kinetics reconstruction ..............     1.890
+    --> Reaction Block .................     0.016
+    --> Stamp ..........................     0.002
+    --> Jacobian .......................     0.027
+==> Matrix construction ..................     0.045
+Total time elapsed:      2.059
+    clusters     :   401
+    equations    :   413
+    3d reactions : 84557
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 600
+    1d emissions : 0
+  Preconditioner : 252079
+Axis 01 upper boundary enchroachment detected
+Expanded from 1000 to 6000
+Resizing...
+==> Cluster identification................     0.000
+    --> Domain assignment ..............     0.002
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.040
+    --> Equation mapping ...............     0.003
+    --> Source association .............     0.076
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.121
+    --> Products .......................     1.525
+    --> Reactions ......................     1.607
+    --> Leaks ..........................     0.017
+    --> Emissions ......................     0.175
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............     3.326
+    --> Reaction Block .................     0.018
+    --> Stamp ..........................     0.002
+    --> Jacobian .......................     0.030
+==> Matrix construction ..................     0.050
+Total time elapsed:      3.497
+    clusters     :    419
+    equations    :    449
+    3d reactions : 101153
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 600
+    1d emissions : 0
+  Preconditioner : 269647
+Axis 01 upper boundary enchroachment detected
+Expanded from 6000 to 36000
+Resizing...
+==> Cluster identification................     0.000
+    --> Domain assignment ..............     0.001
+    --> Equation construction ..........     0.001
+    --> Equation ordering ..............     0.043
+    --> Equation mapping ...............     0.002
+    --> Source association .............     0.104
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.151
+    --> Products .......................     5.046
+    --> Reactions ......................     6.773
+    --> Leaks ..........................     0.019
+    --> Emissions ......................     0.209
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    12.049
+    --> Reaction Block .................     0.019
+    --> Stamp ..........................     0.003
+    --> Jacobian .......................     0.042
+==> Matrix construction ..................     0.064
+Total time elapsed:     12.266
+    clusters     :    449
+    equations    :    509
+    3d reactions : 129756
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 600
+    1d emissions : 0
+  Preconditioner : 298927
+Axis 01 lower boundary enchroachment detected
+Expanded from -100 to -600
+Resizing...
+==> Cluster identification................     0.000
+    --> Domain assignment ..............     0.002
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.044
+    --> Equation mapping ...............     0.002
+    --> Source association .............     0.104
+    --> Anchoring ......................     0.001
+==> Cluster list build ...................     0.153
+    --> Products .......................     5.308
+    --> Reactions ......................     7.161
+    --> Leaks ..........................     0.023
+    --> Emissions ......................     0.230
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    12.724
+    --> Reaction Block .................     0.024
+    --> Stamp ..........................     0.004
+    --> Jacobian .......................     0.054
+==> Matrix construction ..................     0.082
+Total time elapsed:     12.959
+    clusters     :    461
+    equations    :    533
+    3d reactions : 149343
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 836
+    1d emissions : 0
+  Preconditioner : 312367
+Axis 01 lower boundary enchroachment detected
+Expanded from -600 to -3600
+Resizing...
+==> Cluster identification................     0.000
+    --> Domain assignment ..............     0.002
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.038
+    --> Equation mapping ...............     0.003
+    --> Source association .............     0.106
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.149
+    --> Products .......................     5.281
+    --> Reactions ......................     7.242
+    --> Leaks ..........................     0.018
+    --> Emissions ......................     0.229
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    12.772
+    --> Reaction Block .................     0.023
+    --> Stamp ..........................     0.003
+    --> Jacobian .......................     0.054
+==> Matrix construction ..................     0.080
+Total time elapsed:     13.002
+    clusters     :    475
+    equations    :    561
+    3d reactions : 163196
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 1116
+    1d emissions : 0
+  Preconditioner : 326535
+Axis 01 lower boundary was reached and expansion was accelerated
+Expanded from -3600 to -39600
+Axis 01 upper boundary was reached and expansion was accelerated
+Expanded from 36000 to 396000
+Resizing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.001
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.055
+    --> Equation mapping ...............     0.003
+    --> Source association .............     0.140
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.199
+    --> Products .......................    44.098
+    --> Reactions ......................    64.745
+    --> Leaks ..........................     0.025
+    --> Emissions ......................     0.457
+    --> Transforms .....................     0.002
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............   109.328
+    --> Reaction Block .................     0.038
+    --> Stamp ..........................     0.004
+    --> Jacobian .......................     0.090
+==> Matrix construction ..................     0.132
+Total time elapsed:    109.661
+    clusters     :    593
+    equations    :    797
+    3d reactions : 279181
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 1876
+    1d emissions : 0
+  Preconditioner : 443071
+Axis 01 lower boundary enchroachment detected
+Expanded from -39600 to -100000
+Resizing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.001
+    --> Equation construction ..........     0.001
+    --> Equation ordering ..............     0.054
+    --> Equation mapping ...............     0.003
+    --> Source association .............     0.152
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.211
+    --> Products .......................    49.926
+    --> Reactions ......................    73.900
+    --> Leaks ..........................     0.026
+    --> Emissions ......................     0.670
+    --> Transforms .....................     0.002
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............   124.525
+    --> Reaction Block .................     0.043
+    --> Stamp ..........................     0.003
+    --> Jacobian .......................     0.098
+==> Matrix construction ..................     0.144
+Total time elapsed:    124.882
+    clusters     :    617
+    equations    :    845
+    3d reactions : 303937
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 2356
+    1d emissions : 0
+  Preconditioner : 467359

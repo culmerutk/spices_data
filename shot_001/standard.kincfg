@@ -1,0 +1,45 @@
+!declare component axis
+components defect
+
+!declare vacancy and interstitial type groups
+groups 4
+void void.grpcfg
+int  int.grpcfg
+frank  frank.grpcfg
+perfect  perfect.grpcfg
+complete
+
+kinetic_system symmetric_3d
+
+!declare the reactions
+react_class void void 1 void
+react_class void int  3 void recombine int
+react_class void frank 2 int frank
+react_class void perfect 4 void recombine int perfect
+
+react_class int  void 3 void recombine int
+react_class int int 2 int frank
+react_class int frank 1 frank
+react_class int perfect 1 perfect
+
+react_class frank void 2 int frank
+react_class frank int 1 frank
+react_class frank perfect 1 frank
+
+react_class perfect void 3 void recombine perfect
+react_class perfect int 1 perfect
+react_class perfect frank 1 frank
+react_class perfect perfect 1 perfect
+
+emit_class void void 1 void
+capillary void void 1.5 2.2
+
+!set the reaction distances
+recombination_distance 0.37
+core_radius            0.37
+
+!Create a dislocation sink with 5% bias
+add_sink edge
+set_sink edge dimensions 1
+set_sink edge density    1.d-4
+set_sink edge bias       int 1.05

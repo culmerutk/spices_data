@@ -1,0 +1,18 @@
+!declare component axis
+components defect
+
+!declare vacancy and interstitial type groups
+groups 2
+vac vac.grpcfg
+int  int.grpcfg
+complete
+
+kinetic_system symmetric_3d
+
+!declare the reactions
+react_class vac int 1 recombine
+react_class int vac 1 recombine
+
+!set the reaction distances
+recombination_distance 0.36
+core_radius            0.36
