@@ -3,3 +3,4 @@
 #$ -V
 #$ -cwd
 spices
+python plot_single.py
