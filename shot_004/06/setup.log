@@ -1,0 +1,312 @@
+Reading secondary input from standard.kincfg
+INPUT: Loading option 'components' from standard.kincfg
++--------------------------------------+
+| Cluster Group Configuration Log      |
++--------------------------------------+
+Monomer size for vac set to  -1
+loaded vac geometry in abridged format
+loaded vac prefactor_exponent in abridged format
+loaded vac mobile in abridged format
+loaded vac detrap in abridged format
+loaded vac dimensionality in abridged format
+loaded vac migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded vac jump_distance in abridged format
+loaded vac included in verbose format
+loaded void geometry in abridged format
+loaded void prefactor_exponent in abridged format
+loaded void mobile in abridged format
+loaded void detrap in abridged format
+loaded void dimensionality in abridged format
+loaded void migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded void jump_distance in abridged format
+loaded void included in verbose format
+loaded faulted geometry in abridged format
+loaded faulted prefactor_exponent in abridged format
+loaded faulted mobile in abridged format
+loaded faulted detrap in abridged format
+loaded faulted dimensionality in abridged format
+loaded faulted migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded faulted jump_distance in abridged format
+burgers vector magnitude set to   0.57700000E+00
+loaded faulted burgers_magnitude in abridged format
+loaded faulted included in verbose format
+ORIENTATIONS: Adding orientation vector of   1  1  1  1  1  1 for group faulted
+loaded faulted add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1 -1  1  1 -1  1 for group faulted
+loaded faulted add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of  -1  1  1 -1  1  1 for group faulted
+loaded faulted add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1  1 -1  1  1 -1 for group faulted
+loaded faulted add_orientation in abridged format
+Monomer size for int set to  1
+loaded int geometry in abridged format
+loaded int prefactor_exponent in abridged format
+loaded int mobile in abridged format
+loaded int detrap in abridged format
+loaded int dimensionality in abridged format
+loaded int migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded int jump_distance in abridged format
+loaded int included in verbose format
+loaded frank geometry in abridged format
+loaded frank prefactor_exponent in abridged format
+loaded frank mobile in abridged format
+loaded frank detrap in abridged format
+loaded frank dimensionality in abridged format
+loaded frank migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded frank jump_distance in abridged format
+burgers vector magnitude set to   0.57700000E+00
+loaded frank burgers_magnitude in abridged format
+loaded frank included in verbose format
+ORIENTATIONS: Adding orientation vector of   1  1  1  1  1  1 for group frank
+loaded frank add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1 -1  1  1 -1  1 for group frank
+loaded frank add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of  -1  1  1 -1  1  1 for group frank
+loaded frank add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1  1 -1  1  1 -1 for group frank
+loaded frank add_orientation in abridged format
+loaded perfect geometry in abridged format
+loaded perfect prefactor_exponent in abridged format
+loaded perfect detrap in abridged format
+loaded perfect dimensionality in abridged format
+loaded perfect migration_energy in abridged format
+jump distance rescaled to   0.70700000E+00 lattice parameters
+loaded perfect jump_distance in abridged format
+burgers vector magnitude set to   0.70700000E+00
+loaded perfect burgers_magnitude in abridged format
+loaded perfect included in verbose format
+loaded perfect mobile in verbose format
+ORIENTATIONS: Adding orientation vector of   1  1  0  1  1  0 for group perfect
+loaded perfect add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1  0  1  1  0  1 for group perfect
+loaded perfect add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   0  1  1  0  1  1 for group perfect
+loaded perfect add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1 -1  0  1 -1  0 for group perfect
+loaded perfect add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   1  0 -1  1  0 -1 for group perfect
+loaded perfect add_orientation in abridged format
+ORIENTATIONS: Adding orientation vector of   0  1 -1  0  1 -1 for group perfect
+loaded perfect add_orientation in abridged format
+INPUT: Loading option 'groups' from standard.kincfg
+INPUT: Loading option 'kinetic_system' from standard.kincfg
+Defining vac+vac reaction order to vac void
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining vac+void reaction order to void
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining vac+faulted reaction order to faulted
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining vac+int reaction order to vac int recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining vac+frank reaction order to vac int frank recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining vac+perfect reaction order to vac int perfect recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+vac reaction order to vac int recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+void reaction order to void vac int recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+faulted reaction order to faulted vac int recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+int reaction order to int frank
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+frank reaction order to frank
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining int+perfect reaction order to perfect
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+vac reaction order to vac int perfect recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+void reaction order to void vac int perfect recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+faulted reaction order to faulted vac int perfect recombine
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+int reaction order to perfect
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+frank reaction order to frank
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining perfect+perfect reaction order to perfect
+INPUT: Loading option 'react_class' from standard.kincfg
+Defining void-vac monomer emission target order to void vac
+INPUT: Loading option 'emit_class' from standard.kincfg
+Specifying capillary law constants for the emission of vac monomers from void at   0.1500E+01   0.3416E+01
+INPUT: Loading option 'capillary' from standard.kincfg
+Defining vac-vac monomer emission target order to vac
+INPUT: Loading option 'emit_class' from standard.kincfg
+Specifying capillary law constants for the emission of vac monomers from vac at   0.1500E+01   0.3416E+01
+INPUT: Loading option 'capillary' from standard.kincfg
+Defining faulted-vac monomer emission target order to faulted vac
+INPUT: Loading option 'emit_class' from standard.kincfg
+Specifying capillary law constants for the emission of vac monomers from faulted at   0.1500E+01   0.2052E+01
+INPUT: Loading option 'capillary' from standard.kincfg
+INPUT: Loading option 'recombination_distance' from standard.kincfg
+INPUT: Loading option 'core_radius' from standard.kincfg
+Reading secondary input from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'compute' from dump.cfg
+INPUT: Loading option 'dump' from dump.cfg
+INPUT: Loading option 'dump' from dump.cfg
+INPUT: Loading option 'dump' from dump.cfg
+INPUT: Loading option 'dump' from dump.cfg
+INPUT: Loading option 'temperature' from input.txt
+INPUT: Loading option 'damage_file' from input.txt
+INPUT: Loading option 'partition_file' from input.txt
+INPUT: Loading option 'mesh_points' from input.txt
+INPUT: Loading option 'node_spacing' from input.txt
+INPUT: Loading option 'foil_thickness' from input.txt
+thermal monomer production enabled with a formation energy of   0.15000000E+01
+loaded vac formation_energy in abridged format
+INPUT: Loading option 'assign' from input.txt
+INPUT: Loading option 'lattice_paramter' from input.txt
+INPUT: Loading option 'atoms_per_cell' from input.txt
+INPUT: Loading option 'dose_rate_scale' from input.txt
+INPUT: Loading option 'total_time' from input.txt
+Cluster size limits for defect component were set to the range (-1000000,1000000)
+INPUT: Loading option 'component_limits' from input.txt
+INPUT: Loading option 'initial_limits' from input.txt
+INPUT: Loading option 'verbose_solver' from input.txt
+Defining int+vac reaction bias to   1.0000E+00
+INPUT: Loading option 'react_bias' from input.txt
+Defining int+int reaction bias to   1.0000E+00
+INPUT: Loading option 'react_bias' from input.txt
+Defining int+frank reaction bias to   1.0000E+00
+INPUT: Loading option 'react_bias' from input.txt
+Defining int+perfect reaction bias to   1.0000E+00
+INPUT: Loading option 'react_bias' from input.txt
+domain spacing set to to order 3
+domain spacing scaled by   0.10000000E+01
+unitary domains enforced below 400 members
+INPUT: Loading option 'compression_style' from input.txt
+domain spacing set to to order 3
+domain spacing scaled by   0.10000000E+01
+unitary domains enforced below 100 members
+INPUT: Loading option 'compression_style' from input.txt
+domain spacing set to to order 3
+domain spacing scaled by   0.10000000E+01
+unitary domains enforced below 100 members
+INPUT: Loading option 'compression_style' from input.txt
+domain spacing set to to order 3
+domain spacing scaled by   0.10000000E+01
+unitary domains enforced below 100 members
+INPUT: Loading option 'compression_style' from input.txt
+INPUT: Loading option 'preconditioner_fill' from input.txt
+INPUT: Loading option 'dual_sparsity' from input.txt
+INPUT: Loading option 'ordering_axis' from input.txt
+INPUT: Loading option 'primary_siphon' from input.txt
+lattice parameter:   0.36000000E+00
+atomic density:      0.85733882E+02
+burgers vector:      0.31176915E+00
++--------------------------------------+
+| Primary Damage Configuration Log     |
++--------------------------------------+
+Reading profile #1 spatial distribution from: 1MeVKr.800H.damage
+  Profile #1 distribution option interpolation_order set to 6
+  Profile #1 distribution option interpolant_range set to   1.00000000E+02
+  Profile #1 distribution option damage_bins set to 4
+Reading profile #1 clustering partition from: fe.update.test.clustering
+  Profile #1 partition option produced_species set to 28
+  Profile #1 partition option conserves_mass set to T
+Damage rate table in units of defects per volume time
+               x               1               2               3               4
+  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00
+  2.44717419E+00  6.45281427E-03  7.43690244E-03  6.81991415E-03  6.25851044E-02
+  9.54915028E+00  6.62663604E-03  7.58209277E-03  7.01338167E-03  6.22782276E-02
+  2.06107374E+01  6.87154231E-03  7.81521047E-03  7.30322811E-03  6.26757065E-02
+  3.45491503E+01  7.17156203E-03  8.15232054E-03  7.68477785E-03  6.43536354E-02
+  5.00000000E+01  7.53035106E-03  8.60989878E-03  8.16382012E-03  6.72297142E-02
+  6.54508497E+01  7.93524473E-03  9.16071096E-03  8.71456843E-03  7.06322532E-02
+  7.93892626E+01  8.33819515E-03  9.72316383E-03  9.26425859E-03  7.37466782E-02
+  9.04508497E+01  8.67455938E-03  1.01970641E-02  9.72249891E-03  7.60357511E-02
+  9.75528258E+01  8.89320672E-03  1.05062432E-02  1.00200308E-02  7.73526176E-02
+  1.00000000E+02  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00
+Splitting cluster size 00045 source between frank and perfect
+Splitting cluster size 00040 source between frank and perfect
+Splitting cluster size 00035 source between frank and perfect
+Splitting cluster size 00030 source between frank and perfect
+Splitting cluster size 00025 source between frank and perfect
+Splitting cluster size 00020 source between frank and perfect
+Splitting cluster size 00016 source between frank and perfect
+Splitting cluster size 00012 source between frank and perfect
+Splitting cluster size 00009 source between frank and perfect
+Splitting cluster size 00008 source between frank and perfect
+Splitting cluster size 00007 source between frank and perfect
+Splitting cluster size 00006 source between frank and perfect
+Splitting cluster size 00005 source between frank and perfect
+Cluster equations with source terms
+    group 5, composition  45
+    group 6, composition  45
+    group 5, composition  40
+    group 6, composition  40
+    group 5, composition  35
+    group 6, composition  35
+    group 5, composition  30
+    group 6, composition  30
+    group 5, composition  25
+    group 6, composition  25
+    group 5, composition  20
+    group 6, composition  20
+    group 5, composition  16
+    group 6, composition  16
+    group 5, composition  12
+    group 6, composition  12
+    group 5, composition   9
+    group 6, composition   9
+    group 5, composition   8
+    group 6, composition   8
+    group 5, composition   7
+    group 6, composition   7
+    group 5, composition   6
+    group 6, composition   6
+    group 5, composition   5
+    group 6, composition   5
+    group 4, composition   4
+    group 4, composition   3
+    group 4, composition   2
+    group 4, composition   1
+    group 1, composition  -1
+    group 1, composition  -2
+    group 1, composition  -3
+    group 1, composition  -4
+    group 1, composition  -5
+    group 3, composition  -9
+    group 3, composition -12
+    group 3, composition -15
+    group 3, composition -20
+    group 3, composition -25
+    group 3, composition -30
+Dose Rate Information
+    Average DPA rate   7.61101747E-08
+    Maximum DPA rate   9.03451317E-08
+    Leaked fraction    0.00000000E+00
+Detailed Source Information
++-----------------+-------------------------------------+
+|      depth      |                    defect           |
++-----------------+-------------------------------------+
+|  0.00000000E+00 |  0.00000000E+00    0.00000000E+00   |
+|  2.44717419E+00 |  6.91444928E-08    6.91444928E-08   |
+|  9.54915028E+00 |  6.96547050E-08    6.96547050E-08   |
+|  2.06107374E+01 |  7.09596066E-08    7.09596066E-08   |
+|  3.45491503E+01 |  7.34146511E-08    7.34146511E-08   |
+|  5.00000000E+01 |  7.70009243E-08    7.70009243E-08   |
+|  6.54508497E+01 |  8.12028023E-08    8.12028023E-08   |
+|  7.93892626E+01 |  8.52295537E-08    8.52295537E-08   |
+|  9.04508497E+01 |  8.83959560E-08    8.83959560E-08   |
+|  9.75528258E+01 |  9.03451317E-08    9.03451317E-08   |
+|  1.00000000E+02 |  0.00000000E+00    0.00000000E+00   |
++-----------------+-------------------------------------+
