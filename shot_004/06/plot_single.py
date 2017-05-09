@@ -14,7 +14,7 @@ for index in range(size):
 
 index = 1
 while index < size:
-    time_density.append(float(splitlines[index][0])*5E-4)
+    time_density.append(float(splitlines[index][0])*5E-7)
     int_density.append(float(splitlines[index][1])*1E25)
     frank_density.append(float(splitlines[index][2])*1E25)
     perfect_density.append(float(splitlines[index][3])*1E25)
@@ -37,7 +37,7 @@ for index in range(size):
 
 index = 1
 while index < size:
-    time_diameter.append(float(splitlines[index][0])*5E-4)
+    time_diameter.append(float(splitlines[index][0])*5E-7)
     frank_diameter.append(float(splitlines[index][1])*2.0)
     perfect_diameter.append(float(splitlines[index][2])*2.0)
     faulted_diameter.append(float(splitlines[index][3])*2.0)
@@ -56,7 +56,7 @@ for index in range(size):
 
 index = 1
 while index < size:
-    loop_time.append(float(splitlines[index][0])*5E-4)
+    loop_time.append(float(splitlines[index][0])*5E-7)
     loop_density.append(float(splitlines[index][1])*1E25)
     loop_diameter.append(float(splitlines[index][2])*2.0)
     index = index + 1
@@ -73,7 +73,7 @@ for index in range(size):
 
 index = 1
 while index < size:
-    visible_void_time.append(float(splitlines[index][0])*5E-4)
+    visible_void_time.append(float(splitlines[index][0])*5E-7)
     visible_void_density.append(float(splitlines[index][1])*1E25)
     visible_void_diameter.append(float(splitlines[index][2])*2.0)
     index = index + 1
