@@ -1,0 +1,50 @@
+file                         standard.kincfg
+file                         dump.cfg
+temperature                  713
+
+!set up primary damage
+damage_file                  1MeVKr.800H.damage
+partition_file               fe.update.test.clustering
+
+mesh_points                  11
+node_spacing                 chebyshev
+foil_thickness               1.d2
+assign vac formation_energy  1.5
+
+lattice_paramter 		     0.360d0
+atoms_per_cell               4
+
+!set to 0.460807413 @ 5E-4 dpa/s
+dose_rate_scale 0.460807413
+!run to 10 dpa = 20,000 seconds @ 5E-4 dpa/s
+total_time                   20.0d3
+
+!set up the phase space size
+component_limits defect      -1000000 1000000
+initial_limits   defect      -200000 5000
+
+!dump solver information
+verbose_solver               T
+
+react_bias int vac 1.0d0
+react_bias int int 1.0d0
+react_bias int frank 1.0d0
+react_bias int perfect 1.0d0
+
+!use a grouping scheme
+!compression_style vac       defect 3 1.d0 100
+compression_style void       defect 3 1.d0 400
+compression_style faulted   defect 3 1.d0 100
+!compression_style int        defect 3 1.d0 100
+compression_style frank      defect 3 1.d0 100
+compression_style perfect      defect 3 1.d0 100
+
+!configure the solver
+preconditioner_fill          -1
+dual_sparsity                T
+ordering_axis                -1
+
+!Determine how fast to expand the phase space
+!activation_threshold         2.d-6
+
+primary_siphon          frank  perfect 0.8
