@@ -48,6 +48,6 @@ core_radius            0.36
 
 add_sink edge111
 set_sink edge111 dimensions 1
-set_sink edge111 density 1.0d-3
+set_sink edge111 density 1.0d-2
 set_sink edge111 oriented F
 set_sink edge111 bias        int   1.1d0

@@ -149,7 +149,7 @@ INPUT: Loading option 'core_radius' from standard.kincfg
 INPUT: Loading option 'add_sink' from standard.kincfg
 SINKS: edge111 dimensions set to 1
 INPUT: Loading option 'set_sink' from standard.kincfg
-SINKS: edge111 density set to   1.0000E-03
+SINKS: edge111 density set to   1.0000E-02
 INPUT: Loading option 'set_sink' from standard.kincfg
 SINKS: edge111 oriented set to F
 INPUT: Loading option 'set_sink' from standard.kincfg
