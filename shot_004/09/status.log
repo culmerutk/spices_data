@@ -1,0 +1,97 @@
+Initializing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.004
+    --> Equation construction ..........     0.001
+    --> Equation ordering ..............     0.028
+    --> Equation mapping ...............     0.005
+    --> Source association .............     0.049
+    --> Anchoring ......................     0.002
+==> Cluster list build ...................     0.089
+    --> Products .......................     8.334
+    --> Reactions ......................    12.366
+    --> Leaks ..........................     0.018
+    --> Emissions ......................     0.355
+    --> Transforms .....................     0.002
+    --> Sinks ..........................     0.001
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    21.079
+    --> Reaction Block .................     0.018
+    --> Stamp ..........................     0.003
+    --> Jacobian .......................     0.117
+==> Matrix construction ..................     0.138
+Total time elapsed:     21.311
+    clusters     :    825
+    equations    :    962
+    3d reactions : 302957
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 3672
+    1d emissions : 0
+  Preconditioner : 643525
+Axis 01 lower boundary was reached and expansion was accelerated
+Expanded from -200000 to -1000000
+Resizing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.010
+    --> Equation construction ..........     0.002
+    --> Equation ordering ..............     0.019
+    --> Equation mapping ...............     0.004
+    --> Source association .............     0.059
+    --> Anchoring ......................     0.001
+==> Cluster list build ...................     0.095
+    --> Products .......................    36.375
+    --> Reactions ......................    56.619
+    --> Leaks ..........................     0.021
+    --> Emissions ......................     1.321
+    --> Transforms .....................     0.002
+    --> Sinks ..........................     0.001
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    94.341
+    --> Reaction Block .................     0.022
+    --> Stamp ..........................     0.004
+    --> Jacobian .......................     0.150
+==> Matrix construction ..................     0.176
+Total time elapsed:     94.616
+    clusters     :    907
+    equations    :   1126
+    3d reactions : 387798
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 5310
+    1d emissions : 0
+  Preconditioner : 726509
+Axis 01 upper boundary was reached and expansion was accelerated
+Expanded from 5000 to 55000
+Resizing...
+==> Cluster identification................     0.001
+    --> Domain assignment ..............     0.005
+    --> Equation construction ..........     0.004
+    --> Equation ordering ..............     0.024
+    --> Equation mapping ...............     0.008
+    --> Source association .............     0.063
+    --> Anchoring ......................     0.002
+==> Cluster list build ...................     0.106
+    --> Products .......................    38.434
+    --> Reactions ......................    59.746
+    --> Leaks ..........................     0.022
+    --> Emissions ......................     1.333
+    --> Transforms .....................     0.003
+    --> Sinks ..........................     0.001
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............    99.541
+    --> Reaction Block .................     0.024
+    --> Stamp ..........................     0.004
+    --> Jacobian .......................     0.160
+==> Matrix construction ..................     0.188
+Total time elapsed:     99.840
+    clusters     :    949
+    equations    :   1210
+    3d reactions : 430758
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 5310
+    1d emissions : 0
+  Preconditioner : 769013
