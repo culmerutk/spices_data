@@ -1,18 +1,7 @@
 geometry loop
-prefactor_exponent -1
 mobile F
-detrap F
-dimensionality 3
-migration_energy 1.3
-jump_distance 0.707
-burgers_magnitude 0.577d0
+burgers_magnitude 0.577
 array included
   -6     T
   -5     F
 end included
-
-
-add_orientation    1  1  1      1  1  1
-add_orientation    1 -1  1      1 -1  1
-add_orientation   -1  1  1     -1  1  1
-add_orientation    1  1 -1      1  1 -1

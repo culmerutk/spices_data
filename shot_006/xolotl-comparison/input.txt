@@ -9,7 +9,7 @@ partition_file               fe.update.test.clustering
 mesh_points                  11
 node_spacing                 chebyshev
 foil_thickness               1.d2
-assign vac formation_energy  1.5
+!assign vac formation_energy  1.5
 
 lattice_paramter 		     0.360d0
 atoms_per_cell               4

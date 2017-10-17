@@ -1,25 +1,25 @@
 Initializing...
-==> Cluster identification................     0.004
+==> Cluster identification................     0.005
     --> Domain assignment ..............     0.008
     --> Equation construction ..........     0.000
-    --> Equation ordering ..............     0.527
-    --> Equation mapping ...............     0.012
-    --> Source association .............     0.521
-    --> Anchoring ......................     0.001
-==> Cluster list build ...................     1.069
-    --> Products .......................     7.758
-    --> Reactions ......................     6.056
-    --> Leaks ..........................     0.104
-    --> Emissions ......................     1.025
-    --> Transforms .....................     0.008
-    --> Sinks ..........................     0.000
-    --> Scale Factors ..................     0.003
-==> Kinetics reconstruction ..............    14.955
-    --> Reaction Block .................     0.183
-    --> Stamp ..........................     0.025
-    --> Jacobian .......................     0.353
-==> Matrix construction ..................     0.561
-Total time elapsed:     16.592
+    --> Equation ordering ..............     0.536
+    --> Equation mapping ...............     0.014
+    --> Source association .............     0.566
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     1.124
+    --> Products .......................     8.138
+    --> Reactions ......................     7.222
+    --> Leaks ..........................     0.119
+    --> Emissions ......................     1.176
+    --> Transforms .....................     0.009
+    --> Sinks ..........................     0.001
+    --> Scale Factors ..................     0.004
+==> Kinetics reconstruction ..............    16.670
+    --> Reaction Block .................     0.191
+    --> Stamp ..........................     0.023
+    --> Jacobian .......................     0.398
+==> Matrix construction ..................     0.612
+Total time elapsed:     18.416
     clusters     :   3991
     equations    :   3991
     3d reactions : 871283

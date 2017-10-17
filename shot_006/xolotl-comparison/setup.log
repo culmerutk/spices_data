@@ -5,75 +5,30 @@ INPUT: Loading option 'components' from standard.kincfg
 +--------------------------------------+
 Monomer size for vac set to  -1
 loaded vac geometry in abridged format
-loaded vac prefactor_exponent in abridged format
-loaded vac mobile in abridged format
-loaded vac detrap in abridged format
-loaded vac dimensionality in abridged format
 loaded vac migration_energy in abridged format
 jump distance rescaled to   0.70700000E+00 lattice parameters
 loaded vac jump_distance in abridged format
 loaded vac included in verbose format
 loaded void geometry in abridged format
-loaded void prefactor_exponent in abridged format
 loaded void mobile in abridged format
-loaded void detrap in abridged format
-loaded void dimensionality in abridged format
-loaded void migration_energy in abridged format
-jump distance rescaled to   0.70700000E+00 lattice parameters
-loaded void jump_distance in abridged format
 loaded void included in verbose format
 loaded faulted geometry in abridged format
-loaded faulted prefactor_exponent in abridged format
 loaded faulted mobile in abridged format
-loaded faulted detrap in abridged format
-loaded faulted dimensionality in abridged format
-loaded faulted migration_energy in abridged format
-jump distance rescaled to   0.70700000E+00 lattice parameters
-loaded faulted jump_distance in abridged format
 burgers vector magnitude set to   0.57700000E+00
 loaded faulted burgers_magnitude in abridged format
 loaded faulted included in verbose format
-ORIENTATIONS: Adding orientation vector of   1  1  1  1  1  1 for group faulted
-loaded faulted add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1 -1  1  1 -1  1 for group faulted
-loaded faulted add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of  -1  1  1 -1  1  1 for group faulted
-loaded faulted add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1  1 -1  1  1 -1 for group faulted
-loaded faulted add_orientation in abridged format
 Monomer size for int set to  1
 loaded int geometry in abridged format
-loaded int prefactor_exponent in abridged format
-loaded int mobile in abridged format
-loaded int detrap in abridged format
-loaded int dimensionality in abridged format
 loaded int migration_energy in abridged format
 jump distance rescaled to   0.70700000E+00 lattice parameters
 loaded int jump_distance in abridged format
 loaded int included in verbose format
 loaded frank geometry in abridged format
-loaded frank prefactor_exponent in abridged format
 loaded frank mobile in abridged format
-loaded frank detrap in abridged format
-loaded frank dimensionality in abridged format
-loaded frank migration_energy in abridged format
-jump distance rescaled to   0.70700000E+00 lattice parameters
-loaded frank jump_distance in abridged format
 burgers vector magnitude set to   0.57700000E+00
 loaded frank burgers_magnitude in abridged format
 loaded frank included in verbose format
-ORIENTATIONS: Adding orientation vector of   1  1  1  1  1  1 for group frank
-loaded frank add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1 -1  1  1 -1  1 for group frank
-loaded frank add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of  -1  1  1 -1  1  1 for group frank
-loaded frank add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1  1 -1  1  1 -1 for group frank
-loaded frank add_orientation in abridged format
 loaded perfect geometry in abridged format
-loaded perfect prefactor_exponent in abridged format
-loaded perfect detrap in abridged format
-loaded perfect dimensionality in abridged format
 loaded perfect migration_energy in abridged format
 jump distance rescaled to   0.70700000E+00 lattice parameters
 loaded perfect jump_distance in abridged format
@@ -81,18 +36,6 @@ burgers vector magnitude set to   0.70700000E+00
 loaded perfect burgers_magnitude in abridged format
 loaded perfect included in verbose format
 loaded perfect mobile in verbose format
-ORIENTATIONS: Adding orientation vector of   1  1  0  1  1  0 for group perfect
-loaded perfect add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1  0  1  1  0  1 for group perfect
-loaded perfect add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   0  1  1  0  1  1 for group perfect
-loaded perfect add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1 -1  0  1 -1  0 for group perfect
-loaded perfect add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   1  0 -1  1  0 -1 for group perfect
-loaded perfect add_orientation in abridged format
-ORIENTATIONS: Adding orientation vector of   0  1 -1  0  1 -1 for group perfect
-loaded perfect add_orientation in abridged format
 INPUT: Loading option 'groups' from standard.kincfg
 INPUT: Loading option 'kinetic_system' from standard.kincfg
 Defining vac+vac reaction order to vac void
@@ -170,9 +113,6 @@ INPUT: Loading option 'partition_file' from input.txt
 INPUT: Loading option 'mesh_points' from input.txt
 INPUT: Loading option 'node_spacing' from input.txt
 INPUT: Loading option 'foil_thickness' from input.txt
-thermal monomer production enabled with a formation energy of   0.15000000E+01
-loaded vac formation_energy in abridged format
-INPUT: Loading option 'assign' from input.txt
 INPUT: Loading option 'lattice_paramter' from input.txt
 INPUT: Loading option 'atoms_per_cell' from input.txt
 INPUT: Loading option 'dose_rate_scale' from input.txt

@@ -1,10 +1,5 @@
 geometry sphere
-prefactor_exponent -1
 mobile F
-detrap F
-dimensionality 3
-migration_energy 1.2
-jump_distance 0.707
 array included
   -6     T
   -5     F
