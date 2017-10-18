@@ -1,25 +1,25 @@
 Initializing...
-==> Cluster identification................     0.005
+==> Cluster identification................     0.003
     --> Domain assignment ..............     0.008
     --> Equation construction ..........     0.000
-    --> Equation ordering ..............     0.536
-    --> Equation mapping ...............     0.014
-    --> Source association .............     0.566
-    --> Anchoring ......................     0.000
-==> Cluster list build ...................     1.124
-    --> Products .......................     8.138
-    --> Reactions ......................     7.222
-    --> Leaks ..........................     0.119
-    --> Emissions ......................     1.176
-    --> Transforms .....................     0.009
-    --> Sinks ..........................     0.001
+    --> Equation ordering ..............     0.532
+    --> Equation mapping ...............     0.011
+    --> Source association .............     0.556
+    --> Anchoring ......................     0.001
+==> Cluster list build ...................     1.108
+    --> Products .......................     8.556
+    --> Reactions ......................     7.006
+    --> Leaks ..........................     0.111
+    --> Emissions ......................     1.104
+    --> Transforms .....................     0.008
+    --> Sinks ..........................     0.000
     --> Scale Factors ..................     0.004
-==> Kinetics reconstruction ..............    16.670
-    --> Reaction Block .................     0.191
-    --> Stamp ..........................     0.023
-    --> Jacobian .......................     0.398
-==> Matrix construction ..................     0.612
-Total time elapsed:     18.416
+==> Kinetics reconstruction ..............    16.789
+    --> Reaction Block .................     0.169
+    --> Stamp ..........................     0.020
+    --> Jacobian .......................     0.328
+==> Matrix construction ..................     0.518
+Total time elapsed:     18.420
     clusters     :   3991
     equations    :   3991
     3d reactions : 871283
