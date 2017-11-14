@@ -1,7 +1,0 @@
-geometry loop
-mobile F
-burgers_magnitude 0.577
-array included
-  -6     T
-  -5     F
-end included
