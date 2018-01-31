@@ -1,0 +1,8 @@
+# input_method 		interpolate_by_bin
+interpolation_order     1
+interpolant_range   	200.00000000000000     
+damage_bins 		1
+!create a uniform damage distribution of ~1 DPA/s
+array
+           1   8.4600000000000000E+001   0.0000000000000000E+000 
+end

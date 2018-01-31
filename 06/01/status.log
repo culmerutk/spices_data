@@ -1,0 +1,31 @@
+Initializing...
+==> Cluster identification................     0.000
+    --> Domain assignment ..............     0.001
+    --> Equation construction ..........     0.000
+    --> Equation ordering ..............     0.061
+    --> Equation mapping ...............     0.002
+    --> Source association .............     0.069
+    --> Anchoring ......................     0.000
+==> Cluster list build ...................     0.133
+    --> Products .......................     1.017
+    --> Reactions ......................     0.823
+    --> Leaks ..........................     0.041
+    --> Emissions ......................     0.140
+    --> Transforms .....................     0.001
+    --> Sinks ..........................     0.000
+    --> Scale Factors ..................     0.001
+==> Kinetics reconstruction ..............     2.022
+    --> Reaction Block .................     0.046
+    --> Stamp ..........................     0.008
+    --> Jacobian .......................     0.124
+==> Matrix construction ..................     0.177
+Total time elapsed:      2.334
+    clusters     :   1991
+    equations    :   1991
+    3d reactions : 427283
+    1d reactions : 0
+    3d leaks     : 0
+    1d leaks     : 0
+    3d emissions : 3000
+    1d emissions : 0
+  Preconditioner : 1346251

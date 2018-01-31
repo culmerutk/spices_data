@@ -1,0 +1,11 @@
+Simulation completed in :   2.82178794E+02 s
+Resize time             :   1.95258370E+01 s
+   Cluster list build   :   2.12159000E-01 s
+   Determine kinetics   :   1.90795340E+01 s
+   Stamp construction   :   6.22000014E-03 s
+   Jacobian build       :   2.27636000E-01 s
+Minimizer time          :   2.19189248E+02 s
+   Preconditioner build :   2.91085170E+01 s
+   JFNK vectors         :   1.89419577E+02 s
+   Backsolving          :   2.11846850E+01 s
+Compute handles         :   5.03000000E-01 s

@@ -1,0 +1,12 @@
+geometry loop
+migration_energy 0.5
+jump_distance 0.707
+burgers_magnitude 0.707
+array included
+  4     F
+  5     T
+end included
+array mobile
+  69  T
+  70  F
+end mobile

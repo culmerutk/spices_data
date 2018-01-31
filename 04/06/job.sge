@@ -1,0 +1,5 @@
+#$ -N Shot_004_06
+#$ -q medium*
+#$ -V
+#$ -cwd
+spices

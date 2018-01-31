@@ -1,5 +1,0 @@
-#$ -N Job
-#$ -q medium*
-#$ -V
-#$ -cwd
-spices

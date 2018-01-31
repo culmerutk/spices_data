@@ -1,0 +1,10 @@
+damage_bins 				1
+produced_species			2
+conserves_mass           T
+!ENERGIES 			0.d3 	 5.d3	1.d4 	2.d4
+!With the flipped fit lines
+array
+survival_efficiency 		1.0d0
+1	int	    1.0d0
+-1	vac 	1.0d0
+end

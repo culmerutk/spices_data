@@ -1,0 +1,6 @@
+#$ -N Job
+#$ -q medium*
+#$ -l mem=4G
+#$ -V
+#$ -cwd
+spices

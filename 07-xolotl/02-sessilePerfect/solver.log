@@ -1,0 +1,3171 @@
+Stepping:   1.00000000E-09
+--residual--   0   0  4.47441876E-10
+netwon/GMRES   1   2  5.88496422E-22  4.47407684E-19  2.41037775E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   1.00000000E-09
+--residual--   0   0  4.47407684E-10
+netwon/GMRES   1   2  5.87656805E-22  4.47373750E-19  2.40182615E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-09
+--residual--   0   0  8.94747501E-10
+netwon/GMRES   1   2  4.80357044E-21  1.78922718E-18  9.53940973E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-09
+--residual--   0   0  8.94613590E-10
+netwon/GMRES   1   2  4.79572274E-21  1.78896339E-18  9.47203268E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-09
+--residual--   0   0  8.94481693E-10
+netwon/GMRES   1   2  4.78757286E-21  1.78870356E-18  9.40516959E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-09
+--residual--   0   0  8.94351779E-10
+netwon/GMRES   1   2  4.77856460E-21  1.78844764E-18  9.33881665E-10
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   5.00000000E-09
+--residual--   0   0  2.23555955E-09
+netwon/GMRES   1   2  9.66393614E-20  1.11739288E-17  5.73502248E-09
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   5.00000000E-09
+--residual--   0   0  2.23478577E-09
+netwon/GMRES   1   2  9.65068254E-20  1.11702035E-17  5.63520471E-09
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   1.00000000E-08
+--residual--   0   0  4.46808138E-09
+netwon/GMRES   1   2  1.76804804E-18  4.46529504E-17  2.17716556E-08
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   1.00000000E-08
+--residual--   0   0  4.46529504E-09
+netwon/GMRES   1   2  1.76857878E-18  4.46271093E-17  2.10310367E-08
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-08
+--residual--   0   0  8.92542185E-09
+netwon/GMRES   1   2  4.75632916E-17  1.78327549E-16  7.86203476E-08
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-08
+--residual--   0   0  8.91637744E-09
+netwon/GMRES   1   2  4.75371086E-17  1.78171788E-16  7.35118548E-08
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   2.00000000E-08
+--residual--   0   0  8.90858942E-09
+netwon/GMRES   1   2  4.75096030E-17  1.78037753E-16  6.87712674E-08
+Update computed in 1 newton steps using 3 function evaluations
+Stepping:   5.00000000E-08
+--residual--   0   0  2.22547191E-08
+netwon/GMRES   1   3  6.62716682E-17  1.11121342E-15  3.67679092E-07
+Update computed in 1 newton steps using 4 function evaluations
+Stepping:   5.00000000E-08
+--residual--   0   0  2.22242684E-08
+netwon/GMRES   1   3  6.51612821E-17  1.11014896E-15  3.15736849E-07
+Update computed in 1 newton steps using 4 function evaluations
+Stepping:   1.00000000E-07
+--residual--   0   0  4.44059585E-08
+netwon/GMRES   1   3  4.89840755E-16  4.43585496E-15  9.64064644E-07
+Update computed in 1 newton steps using 4 function evaluations
+Stepping:   1.00000000E-07
+--residual--   0   0  4.43585493E-08
+netwon/GMRES   1   3  4.80987197E-16  4.43279966E-15  7.51603627E-07
+Update computed in 1 newton steps using 4 function evaluations
+Stepping:   2.00000000E-07
+--residual--   0   0  8.86559925E-08
+netwon/GMRES   1   4  3.91249931E-15  1.77082103E-14  2.06637772E-06
+Update computed in 1 newton steps using 5 function evaluations
+Stepping:   2.00000000E-07
+--residual--   0   0  8.85410492E-08
+netwon/GMRES   1   4  3.81774823E-15  1.76675387E-14  1.56221147E-06
+Update computed in 1 newton steps using 5 function evaluations
+Stepping:   2.00000000E-07
+--residual--   0   0  8.83376912E-08
+netwon/GMRES   1   4  3.73420836E-15  1.76029300E-14  1.28665226E-06
+Update computed in 1 newton steps using 5 function evaluations
+Stepping:   5.00000000E-07
+--residual--   0   0  2.20036619E-07
+netwon/GMRES   1   5  5.54829369E-14  1.08283597E-13  6.24364863E-06
+netwon/GMRES   2   5  7.99038898E-23  2.71610540E-20  6.24365679E-06
+Update computed in 2 newton steps using 11 function evaluations
+Stepping:   5.00000000E-07
+--residual--   0   0  2.16567164E-07
+netwon/GMRES   1   5  5.30861318E-14  1.05603689E-13  5.28009584E-06
+netwon/GMRES   2   5  7.12895224E-23  2.60550134E-20  5.28010280E-06
+Update computed in 2 newton steps using 11 function evaluations
+Stepping:   1.00000000E-06
+--residual--   0   0  4.22414697E-07
+netwon/GMRES   1   6  3.89892145E-13  3.93006001E-13  1.66236488E-05
+netwon/GMRES   2   7  2.67740223E-22  3.77861525E-19  1.66236951E-05
+Update computed in 2 newton steps using 14 function evaluations
+Stepping:   1.00000000E-06
+--residual--   0   0  3.93005800E-07
+netwon/GMRES   1   6  3.58736527E-13  3.59644472E-13  1.35045240E-05
+netwon/GMRES   2   6  2.38482093E-21  3.48393961E-19  1.35045743E-05
+Update computed in 2 newton steps using 13 function evaluations
+Stepping:   2.00000000E-06
+--residual--   0   0  7.19288582E-07
+netwon/GMRES   1   9  2.42682765E-12  1.18796871E-12  3.80952106E-05
+netwon/GMRES   2   9  3.59977998E-21  4.59609421E-18  3.80956906E-05
+Update computed in 2 newton steps using 19 function evaluations
+Stepping:   2.00000000E-06
+--residual--   0   0  5.93983253E-07
+netwon/GMRES   1   9  2.04928465E-12  9.94213685E-13  2.82576965E-05
+netwon/GMRES   2   9  2.61322092E-21  3.88521998E-18  2.82582440E-05
+Update computed in 2 newton steps using 19 function evaluations
+Stepping:   2.00000000E-06
+--residual--   0   0  4.97105905E-07
+netwon/GMRES   1   9  1.73469159E-12  8.48957244E-13  2.19173926E-05
+netwon/GMRES   2   9  1.84988225E-21  3.29176799E-18  2.19179587E-05
+Update computed in 2 newton steps using 19 function evaluations
+Stepping:   5.00000000E-06
+--residual--   0   0  1.06119456E-06
+netwon/GMRES   1  14  1.85617915E-11  3.82938287E-12  8.54157016E-05
+netwon/GMRES   2  14  1.63197074E-19  8.18880378E-17  8.54232215E-05
+Update computed in 2 newton steps using 29 function evaluations
+Stepping:   5.00000000E-06
+--residual--   0   0  7.65869466E-07
+netwon/GMRES   1  14  1.31850042E-11  2.98284488E-12  5.93642529E-05
+netwon/GMRES   2  14  1.38829254E-19  5.83478279E-17  5.93704354E-05
+Update computed in 2 newton steps using 29 function evaluations
+Stepping:   1.00000000E-05
+--residual--   0   0  1.19312731E-06
+netwon/GMRES   1  22  6.04617492E-11  8.19970600E-12  1.40673992E-04
+netwon/GMRES   2  23  8.44568240E-19  4.80496440E-16  1.40704397E-04
+Update computed in 2 newton steps using 46 function evaluations
+Stepping:   1.00000000E-05
+--residual--   0   0  8.19949457E-07
+netwon/GMRES   1  22  3.76419851E-11  6.21451664E-12  9.19815237E-05
+netwon/GMRES   2  23  4.37216631E-19  3.01078284E-16  9.20023343E-05
+Update computed in 2 newton steps using 46 function evaluations
+Stepping:   1.00000000E-05
+--residual--   0   0  6.21437361E-07
+netwon/GMRES   1  22  2.48082091E-11  4.99085774E-12  6.35609021E-05
+netwon/GMRES   2  23  2.75718203E-19  2.00090368E-16  6.35757013E-05
+Update computed in 2 newton steps using 46 function evaluations
+Stepping:   1.00000000E-05
+--residual--   0   0  4.99075899E-07
+netwon/GMRES   1  21  1.70381999E-11  4.17175460E-12  4.55932563E-05
+netwon/GMRES   2  23  1.98948354E-19  1.38931739E-16  4.56041027E-05
+Update computed in 2 newton steps using 45 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  8.34336989E-07
+netwon/GMRES   1  22  7.48898625E-11  1.27088794E-11  1.07921262E-04
+netwon/GMRES   2  24  2.84709910E-18  1.08217833E-15  1.07966443E-04
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  6.35417647E-07
+netwon/GMRES   1  22  4.46451313E-11  1.04057112E-11  6.81663100E-05
+netwon/GMRES   2  24  1.23158816E-18  6.80746739E-16  6.81953052E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  5.20269664E-07
+netwon/GMRES   1  22  2.88687543E-11  8.93245772E-12  4.56076464E-05
+netwon/GMRES   2  24  8.47680727E-19  4.62894366E-16  4.56272536E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  4.46612950E-07
+netwon/GMRES   1  22  2.02386669E-11  7.91800287E-12  3.21053156E-05
+netwon/GMRES   2  24  5.67956075E-19  3.36098831E-16  3.21191826E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  3.95893723E-07
+netwon/GMRES   1  22  1.51964383E-11  7.17766073E-12  2.35721903E-05
+netwon/GMRES   2  24  2.88438978E-19  2.56584420E-16  2.35823864E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  3.58878768E-07
+netwon/GMRES   1  22  1.19745555E-11  6.61142376E-12  1.78820732E-05
+netwon/GMRES   2  24  3.08252896E-19  2.02830965E-16  1.78898163E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   2.00000000E-05
+--residual--   0   0  3.30568282E-07
+netwon/GMRES   1  22  9.71890849E-12  6.16153951E-12  1.38998260E-05
+netwon/GMRES   2  24  2.10541421E-19  1.64069607E-16  1.39058580E-05
+Update computed in 2 newton steps using 47 function evaluations
+Stepping:   5.00000000E-05
+--residual--   0   0  7.70187398E-07
+netwon/GMRES   1  24  9.97580768E-11  3.34485561E-11  5.29927766E-05
+netwon/GMRES   2  27  3.03818427E-18  3.41260727E-15  5.30409058E-05
+Update computed in 2 newton steps using 52 function evaluations
+Stepping:   5.00000000E-05
+--residual--   0   0  6.68958783E-07
+netwon/GMRES   1  23  6.78218646E-11  2.99126823E-11  3.36821689E-05
+netwon/GMRES   2  27  1.42622453E-18  2.28587342E-15  3.37130560E-05
+Update computed in 2 newton steps using 51 function evaluations
+Stepping:   1.00000000E-04
+--residual--   0   0  1.19649508E-06
+netwon/GMRES   1  30  2.91056319E-10  1.00513957E-10  6.58155456E-05
+netwon/GMRES   2  33  1.76596625E-17  1.44722561E-14  6.59116985E-05
+Update computed in 2 newton steps using 64 function evaluations
+Stepping:   1.00000000E-04
+--residual--   0   0  1.00512750E-06
+netwon/GMRES   1  30  1.65700967E-10  8.76067216E-11  3.35123936E-05
+netwon/GMRES   2  33  3.75408118E-18  7.45259231E-15  3.35584824E-05
+Update computed in 2 newton steps using 64 function evaluations
+Stepping:   1.00000000E-04
+--residual--   0   0  8.76063916E-07
+netwon/GMRES   1  30  1.06018099E-10  7.81096528E-11  1.75326185E-05
+netwon/GMRES   2  33  2.07676725E-18  3.87405709E-15  1.75521741E-05
+Update computed in 2 newton steps using 64 function evaluations
+Stepping:   2.00000000E-04
+--residual--   0   0  1.56219230E-06
+netwon/GMRES   1  32  6.18637717E-10  2.59193925E-10  2.58767829E-05
+netwon/GMRES   2  34  1.06297699E-16  1.89032806E-14  2.58698592E-05
+Update computed in 2 newton steps using 67 function evaluations
+Stepping:   2.00000000E-04
+--residual--   0   0  1.29597536E-06
+netwon/GMRES   1  33  5.92818996E-10  2.22937997E-10  1.05215825E-05
+netwon/GMRES   2  34  1.20278467E-16  1.96676211E-14  1.04679170E-05
+Update computed in 2 newton steps using 68 function evaluations
+Stepping:   5.00000000E-04
+--residual--   0   0  2.78674015E-06
+netwon/GMRES   1  32  9.26053845E-09  1.04505852E-09  2.96961073E-05
+netwon/GMRES   2  34  2.87104783E-14  4.49358196E-13  2.91080298E-05
+netwon/GMRES   3  34  1.15552655E-19  1.98948433E-18  2.91080314E-05
+Update computed in 3 newton steps using 101 function evaluations
+Stepping:   5.00000000E-04
+--residual--   0   0  2.09017896E-06
+netwon/GMRES   1  32  8.93403139E-09  8.42902117E-10  2.51998612E-05
+netwon/GMRES   2  34  2.58510321E-14  4.28845963E-13  2.48054108E-05
+netwon/GMRES   3  35  5.59792713E-20  1.72487587E-18  2.48054118E-05
+Update computed in 3 newton steps using 102 function evaluations
+Stepping:   1.00000000E-03
+--residual--   0   0  3.37168709E-06
+netwon/GMRES   1  32  6.83696648E-08  2.46051546E-09  8.95566937E-05
+netwon/GMRES   2  34  1.29818748E-12  4.02777534E-12  8.70146282E-05
+netwon/GMRES   3  34  1.59235171E-19  1.11339179E-16  8.70146718E-05
+Update computed in 3 newton steps using 101 function evaluations
+Stepping:   1.00000000E-03
+--residual--   0   0  2.46056299E-06
+netwon/GMRES   1  32  6.32186619E-08  1.95874386E-09  7.84609873E-05
+netwon/GMRES   2  34  9.94917156E-13  3.46476554E-12  7.64055176E-05
+netwon/GMRES   3  35  1.78025651E-19  7.90714264E-17  7.64055463E-05
+Update computed in 3 newton steps using 102 function evaluations
+Stepping:   1.00000000E-03
+--residual--   0   0  1.95861813E-06
+netwon/GMRES   1  33  5.87389381E-08  1.64261414E-09  6.86199495E-05
+netwon/GMRES   2  35  7.73882424E-13  2.99620546E-12  6.69161695E-05
+netwon/GMRES   3  36  1.28295712E-19  5.72132500E-17  6.69161890E-05
+Update computed in 3 newton steps using 105 function evaluations
+Stepping:   1.00000000E-03
+--residual--   0   0  1.64237311E-06
+netwon/GMRES   1  33  5.48482729E-08  1.42610442E-09  5.98524392E-05
+netwon/GMRES   2  35  6.11255984E-13  2.60751170E-12  5.84428136E-05
+netwon/GMRES   3  36  1.81388502E-19  4.20965532E-17  5.84428269E-05
+Update computed in 3 newton steps using 105 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  2.85159375E-06
+netwon/GMRES   1  34  4.09289321E-07  4.59909364E-09  1.90862014E-04
+netwon/GMRES   2  36  2.70749424E-11  2.35916524E-11  1.82426113E-04
+netwon/GMRES   3  36  8.05749458E-19  2.56823214E-15  1.82426600E-04
+Update computed in 3 newton steps using 107 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  2.29714751E-06
+netwon/GMRES   1  33  3.64551638E-07  3.91523467E-09  1.47413143E-04
+netwon/GMRES   2  35  1.81494794E-11  1.79339421E-11  1.41626149E-04
+netwon/GMRES   3  35  3.12887320E-19  1.48931709E-15  1.41626376E-04
+Update computed in 3 newton steps using 104 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  1.95537308E-06
+netwon/GMRES   1  32  3.28464291E-07  3.44722066E-09  1.16296023E-04
+netwon/GMRES   2  34  1.25988826E-11  1.40875890E-11  1.12173808E-04
+netwon/GMRES   3  34  2.77643258E-19  9.02330411E-16  1.12173917E-04
+Update computed in 3 newton steps using 101 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  1.72163862E-06
+netwon/GMRES   1  30  2.98837492E-07  3.10357005E-09  9.37528994E-05
+netwon/GMRES   2  33  9.01102293E-12  1.13970728E-11  9.07667526E-05
+netwon/GMRES   3  34  1.70126484E-19  5.69747939E-16  9.07668037E-05
+Update computed in 3 newton steps using 98 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  1.55009809E-06
+netwon/GMRES   1  29  2.74069657E-07  2.83834858E-09  7.70936131E-05
+netwon/GMRES   2  31  6.60782050E-12  9.44971723E-12  7.49031429E-05
+netwon/GMRES   3  33  2.45746467E-19  3.73350422E-16  7.49031648E-05
+Update computed in 3 newton steps using 94 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  1.41774755E-06
+netwon/GMRES   1  27  2.53047879E-07  2.62584074E-09  6.45164956E-05
+netwon/GMRES   2  31  4.94879152E-12  7.99393656E-12  6.28964186E-05
+netwon/GMRES   3  32  3.42327337E-19  2.52695600E-16  6.28964257E-05
+Update computed in 3 newton steps using 91 function evaluations
+Stepping:   2.00000000E-03
+--residual--   0   0  1.31171938E-06
+netwon/GMRES   1  26  2.34973388E-07  2.45050354E-09  5.48276220E-05
+netwon/GMRES   2  31  3.77401974E-12  6.87388807E-12  5.36250876E-05
+netwon/GMRES   3  31  2.78808481E-19  1.75965817E-16  5.36250875E-05
+Update computed in 3 newton steps using 89 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  3.06060548E-06
+netwon/GMRES   1  27  3.38903599E-06  1.32332995E-08  2.57075860E-04
+netwon/GMRES   2  31  5.73264357E-10  1.16404268E-10  2.44106391E-04
+netwon/GMRES   3  31  3.56353942E-17  4.08944290E-14  2.44105953E-04
+Update computed in 3 newton steps using 90 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  2.63793346E-06
+netwon/GMRES   1  26  2.90485413E-06  1.17035380E-08  1.89780317E-04
+netwon/GMRES   2  30  3.28653923E-10  8.21150813E-11  1.83554710E-04
+netwon/GMRES   3  29  1.57297505E-17  1.98702282E-14  1.83553864E-04
+Update computed in 3 newton steps using 86 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  2.33497536E-06
+netwon/GMRES   1  25  2.53635459E-06  1.05427726E-08  1.47167770E-04
+netwon/GMRES   2  29  1.99457738E-10  6.16146232E-11  1.44216386E-04
+netwon/GMRES   3  28  6.52960361E-18  1.06607738E-14  1.44215659E-04
+Update computed in 3 newton steps using 83 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  2.10474462E-06
+netwon/GMRES   1  24  2.24618047E-06  9.62706251E-09  1.18964824E-04
+netwon/GMRES   2  27  1.26622136E-10  4.83961640E-11  1.17856487E-04
+netwon/GMRES   3  27  3.63686803E-18  6.21392778E-15  1.17855929E-04
+Update computed in 3 newton steps using 79 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.92286080E-06
+netwon/GMRES   1  23  2.01122081E-06  8.88408929E-09  9.93385214E-05
+netwon/GMRES   2  27  8.33360455E-11  3.93159773E-11  9.92719115E-05
+netwon/GMRES   3  27  1.24313818E-18  3.87641059E-15  9.92714965E-05
+Update computed in 3 newton steps using 78 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.77510820E-06
+netwon/GMRES   1  23  1.81665898E-06  8.26768769E-09  8.50424494E-05
+netwon/GMRES   2  27  5.64920143E-11  3.27547854E-11  8.55543462E-05
+netwon/GMRES   3  26  1.39426139E-18  2.55343791E-15  8.55540394E-05
+Update computed in 3 newton steps using 77 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.65240251E-06
+netwon/GMRES   1  23  1.65257184E-06  7.74653592E-09  7.41879020E-05
+netwon/GMRES   2  26  3.92482424E-11  2.78194389E-11  7.50059709E-05
+netwon/GMRES   3  25  1.38636905E-18  1.75545069E-15  7.50057434E-05
+Update computed in 3 newton steps using 75 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.54857008E-06
+netwon/GMRES   1  22  1.51207582E-06  7.29852513E-09  6.56363783E-05
+netwon/GMRES   2  25  2.78395282E-11  2.39865535E-11  6.65992800E-05
+netwon/GMRES   3  25  6.80793763E-19  1.24779809E-15  6.65991102E-05
+Update computed in 3 newton steps using 73 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.45924621E-06
+netwon/GMRES   1  22  1.39025130E-06  6.90766281E-09  5.86827219E-05
+netwon/GMRES   2  25  2.00973918E-11  2.09329548E-11  5.96950594E-05
+netwon/GMRES   3  25  6.19377736E-19  9.10353084E-16  5.96949315E-05
+Update computed in 3 newton steps using 73 function evaluations
+Stepping:   5.00000000E-03
+--residual--   0   0  1.38126934E-06
+netwon/GMRES   1  22  1.28348933E-06  6.56219950E-09  5.28798969E-05
+netwon/GMRES   2  24  1.47287179E-11  1.84496654E-11  5.38861383E-05
+netwon/GMRES   3  24  6.37223449E-19  6.78115324E-16  5.38860412E-05
+Update computed in 3 newton steps using 71 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  2.62462867E-06
+netwon/GMRES   1  22  9.29467019E-06  2.38414793E-08  1.69531968E-04
+netwon/GMRES   2  24  5.99347569E-10  1.47264047E-10  1.74771220E-04
+netwon/GMRES   3  24  1.59069868E-17  4.90747009E-14  1.74767680E-04
+Update computed in 3 newton steps using 71 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  2.38410642E-06
+netwon/GMRES   1  22  8.04543050E-06  2.18580513E-08  1.41986531E-04
+netwon/GMRES   2  24  3.44604521E-10  1.17623859E-10  1.47113474E-04
+netwon/GMRES   3  24  4.50399499E-18  2.98871780E-14  1.47111305E-04
+Update computed in 3 newton steps using 71 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  2.18636121E-06
+netwon/GMRES   1  21  7.03009569E-06  2.01888337E-08  1.20320206E-04
+netwon/GMRES   2  24  2.04050024E-10  9.60583506E-11  1.24778149E-04
+netwon/GMRES   3  23  5.99968444E-18  1.89431259E-14  1.24776785E-04
+Update computed in 3 newton steps using 69 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  2.01971274E-06
+netwon/GMRES   1  21  6.18949367E-06  1.87577315E-08  1.03137349E-04
+netwon/GMRES   2  24  1.23329294E-10  7.98580187E-11  1.06956309E-04
+netwon/GMRES   3  23  2.73923370E-18  1.24100673E-14  1.06955428E-04
+Update computed in 3 newton steps using 69 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  1.87670611E-06
+netwon/GMRES   1  21  5.48333663E-06  1.75140598E-08  8.93029795E-05
+netwon/GMRES   2  23  7.54578811E-11  6.73792778E-11  9.25623385E-05
+netwon/GMRES   3  23  1.61774200E-18  8.36530456E-15  9.25617561E-05
+Update computed in 3 newton steps using 68 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  1.75235423E-06
+netwon/GMRES   1  21  4.88320961E-06  1.64220250E-08  7.80498361E-05
+netwon/GMRES   2  23  4.63495051E-11  5.75661907E-11  8.08367714E-05
+netwon/GMRES   3  23  9.02720886E-19  5.78399010E-15  8.08363779E-05
+Update computed in 3 newton steps using 68 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  1.64312124E-06
+netwon/GMRES   1  21  4.36836892E-06  1.54551183E-08  6.88249871E-05
+netwon/GMRES   2  23  2.83210370E-11  4.97116064E-11  7.12194657E-05
+netwon/GMRES   3  23  1.03529830E-18  4.09338512E-15  7.12191947E-05
+Update computed in 3 newton steps using 68 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  1.54637973E-06
+netwon/GMRES   1  21  3.92322748E-06  1.45930076E-08  6.12127303E-05
+netwon/GMRES   2  23  1.70304819E-11  4.33272598E-11  6.32831548E-05
+netwon/GMRES   3  23  8.21423138E-19  2.96057628E-15  6.32829646E-05
+Update computed in 3 newton steps using 68 function evaluations
+Stepping:   1.00000000E-02
+--residual--   0   0  1.46010923E-06
+netwon/GMRES   1  22  3.53578787E-06  1.38197056E-08  5.48918052E-05
+netwon/GMRES   2  23  9.96117572E-12  3.80676606E-11  5.66948764E-05
+netwon/GMRES   3  23  9.52565641E-19  2.18558511E-15  5.66947405E-05
+Update computed in 3 newton steps using 69 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  2.76543587E-06
+netwon/GMRES   1  22  2.43284122E-05  4.97508511E-08  1.71225719E-04
+netwon/GMRES   2  23  2.70296604E-10  3.13642940E-10  1.80765749E-04
+netwon/GMRES   3  24  3.05794264E-18  1.53048527E-13  1.80761339E-04
+Update computed in 3 newton steps using 70 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  2.49130130E-06
+netwon/GMRES   1  23  2.00791928E-05  4.52829168E-08  1.45204045E-04
+netwon/GMRES   2  24  1.61344656E-10  2.50772008E-10  1.53170838E-04
+netwon/GMRES   3  24  3.28226337E-18  9.32864403E-14  1.53168326E-04
+Update computed in 3 newton steps using 72 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  2.26736206E-06
+netwon/GMRES   1  24  1.67305078E-05  4.15578728E-08  1.25477265E-04
+netwon/GMRES   2  25  1.86002538E-10  2.04909529E-10  1.32023960E-04
+netwon/GMRES   3  25  2.14243504E-18  5.97265544E-14  1.32022441E-04
+Update computed in 3 newton steps using 75 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  2.08064601E-06
+netwon/GMRES   1  26  1.40523219E-05  3.83986112E-08  1.10084638E-04
+netwon/GMRES   2  27  1.89629180E-10  1.70082925E-10  1.15550457E-04
+netwon/GMRES   3  28  1.45199779E-18  3.95823500E-14  1.15549496E-04
+Update computed in 3 newton steps using 82 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.92228749E-06
+netwon/GMRES   1  26  1.18833159E-05  3.56782787E-08  9.76790201E-05
+netwon/GMRES   2  27  1.75081215E-10  1.42788942E-10  1.02295347E-04
+netwon/GMRES   3  28  2.07814314E-18  2.68950782E-14  1.02294716E-04
+Update computed in 3 newton steps using 82 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.78593241E-06
+netwon/GMRES   1  25  1.01075479E-05  3.33049756E-08  8.74546817E-05
+netwon/GMRES   2  26  1.53458439E-10  1.20940189E-10  9.13895946E-05
+netwon/GMRES   3  27  1.97958240E-18  1.86308965E-14  9.13891689E-05
+Update computed in 3 newton steps using 79 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.66697772E-06
+netwon/GMRES   1  24  8.63993527E-06  3.12122221E-08  7.89302876E-05
+netwon/GMRES   2  25  1.30636009E-10  1.03230503E-10  8.23136794E-05
+netwon/GMRES   3  26  1.50943215E-18  1.31293972E-14  8.23133843E-05
+Update computed in 3 newton steps using 76 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.56209410E-06
+netwon/GMRES   1  24  7.41692613E-06  2.93516038E-08  7.17885056E-05
+netwon/GMRES   2  25  1.09310457E-10  8.87524047E-11  7.47233172E-05
+netwon/GMRES   3  26  1.26944585E-18  9.39319651E-15  7.47231074E-05
+Update computed in 3 newton steps using 76 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.46885603E-06
+netwon/GMRES   1  24  6.39031454E-06  2.76866655E-08  6.57795528E-05
+netwon/GMRES   2  25  9.04916072E-11  7.68063222E-11  6.83462959E-05
+netwon/GMRES   3  26  1.49542536E-18  6.80485496E-15  6.83461432E-05
+Update computed in 3 newton steps using 76 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.38543533E-06
+netwon/GMRES   1  23  5.52302682E-06  2.61885379E-08  6.06867356E-05
+netwon/GMRES   2  24  7.44021174E-11  6.68372676E-11  6.29469459E-05
+netwon/GMRES   3  25  2.38194656E-18  4.97664666E-15  6.29468329E-05
+Update computed in 3 newton steps using 73 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.31038287E-06
+netwon/GMRES   1  22  4.78619716E-06  2.48335373E-08  5.63285506E-05
+netwon/GMRES   2  23  6.08758752E-11  5.84222305E-11  5.83291953E-05
+netwon/GMRES   3  24  1.53116927E-18  3.66692365E-15  5.83291106E-05
+Update computed in 3 newton steps using 70 function evaluations
+Stepping:   2.00000000E-02
+--residual--   0   0  1.24250943E-06
+netwon/GMRES   1  20  4.15708829E-06  2.36021828E-08  5.25658806E-05
+netwon/GMRES   2  21  4.96730102E-11  5.12547473E-11  5.43439150E-05
+netwon/GMRES   3  23  1.01548352E-18  2.71679038E-15  5.43438510E-05
+Update computed in 3 newton steps using 65 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  2.95209267E-06
+netwon/GMRES   1  20  4.91897605E-05  1.30101690E-07  2.55785598E-04
+netwon/GMRES   2  20  7.74295779E-09  1.15471018E-09  2.74536212E-04
+netwon/GMRES   3  23  1.03807836E-16  6.68386856E-13  2.74530508E-04
+Update computed in 3 newton steps using 64 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  2.60781552E-06
+netwon/GMRES   1  15  3.51816932E-05  1.16528708E-07  2.24888769E-04
+netwon/GMRES   2  17  4.58650348E-09  8.76071698E-10  2.39514623E-04
+netwon/GMRES   3  19  4.73874461E-17  3.33829849E-13  2.39511584E-04
+Update computed in 3 newton steps using 52 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  2.33501315E-06
+netwon/GMRES   1  14  2.53189268E-05  1.05519848E-07  2.00867417E-04
+netwon/GMRES   2  15  2.70216962E-09  6.74553416E-10  2.12321845E-04
+netwon/GMRES   3  17  1.94483633E-17  1.72002891E-13  2.12320172E-04
+Update computed in 3 newton steps using 47 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  2.11392207E-06
+netwon/GMRES   1  13  1.82864364E-05  9.64557230E-08  1.81534428E-04
+netwon/GMRES   2  14  1.58461298E-09  5.25165461E-10  1.90583104E-04
+netwon/GMRES   3  16  1.06242915E-17  9.10533613E-14  1.90582161E-04
+Update computed in 3 newton steps using 44 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.93199072E-06
+netwon/GMRES   1  12  1.32288818E-05  8.89090677E-08  1.65595145E-04
+netwon/GMRES   2  13  9.24895271E-10  4.12172412E-10  1.72787838E-04
+netwon/GMRES   3  14  1.07637182E-17  4.93309596E-14  1.72787296E-04
+Update computed in 3 newton steps using 40 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.78057187E-06
+netwon/GMRES   1  12  9.57193570E-06  8.25686891E-08  1.52203026E-04
+netwon/GMRES   2  12  5.37179485E-10  3.25284304E-10  1.57943020E-04
+netwon/GMRES   3  14  5.13853405E-18  2.71956893E-14  1.57942705E-04
+Update computed in 3 newton steps using 39 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.65338139E-06
+netwon/GMRES   1  12  6.92004367E-06  7.71991823E-08  1.40759367E-04
+netwon/GMRES   2  11  3.10484202E-10  2.57460356E-10  1.45346237E-04
+netwon/GMRES   3  14  5.38561857E-18  1.51707539E-14  1.45346052E-04
+Update computed in 3 newton steps using 38 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.54567504E-06
+netwon/GMRES   1  12  4.99534132E-06  7.26166301E-08  1.30821727E-04
+netwon/GMRES   2  11  1.78375831E-10  2.03826506E-10  1.34481671E-04
+netwon/GMRES   3  13  5.03506324E-18  8.52122952E-15  1.34481563E-04
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.45375356E-06
+netwon/GMRES   1  11  3.59965702E-06  6.86740139E-08  1.22062179E-04
+netwon/GMRES   2  11  1.01910007E-10  1.60967478E-10  1.24969476E-04
+netwon/GMRES   3  13  3.64279813E-18  4.79452620E-15  1.24969413E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.37466493E-06
+netwon/GMRES   1  12  2.59004010E-06  6.52530614E-08  1.14243259E-04
+netwon/GMRES   2  11  5.78114762E-11  1.26454190E-10  1.16535051E-04
+netwon/GMRES   3  12  4.82082839E-18  2.69103643E-15  1.16535015E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.30603739E-06
+netwon/GMRES   1  12  1.86251912E-06  6.22588220E-08  1.07194632E-04
+netwon/GMRES   2  11  3.25110209E-11  9.85209606E-11  1.08980895E-04
+netwon/GMRES   3  12  4.30874577E-18  1.49941372E-15  1.08980875E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.24596836E-06
+netwon/GMRES   1  12  1.34099900E-06  5.96153383E-08  1.00791554E-04
+netwon/GMRES   2  11  1.80746224E-11  7.58535368E-11  1.02161819E-04
+netwon/GMRES   3  13  3.75728634E-18  8.24592328E-16  1.02161807E-04
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.19293646E-06
+netwon/GMRES   1  12  9.69537591E-07  5.72616968E-08  9.49391020E-05
+netwon/GMRES   2  11  9.89609038E-12  5.74530131E-11  9.59670587E-05
+netwon/GMRES   3  12  5.08503347E-18  4.44170452E-16  9.59670524E-05
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.14572165E-06
+netwon/GMRES   1  12  7.06878327E-07  5.51490020E-08  8.95637878E-05
+netwon/GMRES   2  11  5.30374202E-12  4.25510609E-11  9.03105115E-05
+netwon/GMRES   3  12  4.84251247E-18  2.31917927E-16  9.03105083E-05
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.10334441E-06
+netwon/GMRES   1  12  5.22571221E-07  5.32381555E-08  8.46081650E-05
+netwon/GMRES   2  12  2.75250038E-12  3.05617734E-11  8.51244613E-05
+netwon/GMRES   3  12  3.67944978E-18  1.15874563E-16  8.51244597E-05
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.06502116E-06
+netwon/GMRES   1  12  3.94247806E-07  5.14980169E-08  8.00264063E-05
+netwon/GMRES   2  12  1.36421284E-12  2.10698152E-11  8.03545952E-05
+netwon/GMRES   3  12  3.55806539E-18  5.38817353E-17  8.03545945E-05
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  1.03012747E-06
+netwon/GMRES   1  12  3.05733005E-07  4.99037221E-08  7.57806539E-05
+netwon/GMRES   2  12  6.42393857E-13  1.38828380E-11  7.59559873E-05
+netwon/GMRES   3  13  4.90848381E-18  2.23440171E-17  7.59559870E-05
+Update computed in 3 newton steps using 38 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  9.98164438E-07
+netwon/GMRES   1  12  2.45691966E-07  4.84352089E-08  7.18386087E-05
+netwon/GMRES   2  13  3.27045381E-13  9.22412850E-12  7.18904270E-05
+netwon/GMRES   3  13  4.21955951E-18  7.80933399E-18  7.18904269E-05
+Update computed in 3 newton steps using 39 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  9.68729252E-07
+netwon/GMRES   1  12  2.06492428E-07  4.70760843E-08  6.81723040E-05
+netwon/GMRES   2  13  2.64069418E-13  7.74860377E-12  6.81249928E-05
+netwon/GMRES   3  13  3.35597870E-18  3.98453492E-18  6.81249927E-05
+Update computed in 3 newton steps using 39 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  9.41492580E-07
+netwon/GMRES   1  11  1.83040718E-07  4.58128399E-08  6.47574441E-05
+netwon/GMRES   2  12  2.82965551E-13  8.89998217E-12  6.46312343E-05
+netwon/GMRES   3  13  4.18840983E-18  5.40343233E-18  6.46312343E-05
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  9.16182887E-07
+netwon/GMRES   1  11  1.71616536E-07  4.46342919E-08  6.15728196E-05
+netwon/GMRES   2  12  3.02244686E-13  1.09054639E-11  6.13844596E-05
+netwon/GMRES   3  13  3.55081158E-18  7.36295777E-18  6.13844595E-05
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   5.00000000E-02
+--residual--   0   0  8.92575255E-07
+netwon/GMRES   1  11  1.69057955E-07  4.35311291E-08  5.85996987E-05
+netwon/GMRES   2  12  3.13926732E-13  1.28483680E-11  5.83630212E-05
+netwon/GMRES   3  13  3.83818339E-18  9.54237820E-18  5.83630210E-05
+Update computed in 3 newton steps using 37 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.74096468E-06
+netwon/GMRES   1  11  1.43444230E-06  1.65745590E-07  2.13033103E-04
+netwon/GMRES   2  12  2.06024286E-11  2.54108287E-10  2.10635260E-04
+netwon/GMRES   3  12  9.02386346E-18  2.47686771E-15  2.10635240E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.65612348E-06
+netwon/GMRES   1  11  1.57459270E-06  1.58303055E-07  1.93086053E-04
+netwon/GMRES   2  12  2.28176229E-11  2.77591883E-10  1.90440612E-04
+netwon/GMRES   3  12  9.22928001E-18  3.02075396E-15  1.90440586E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.58152545E-06
+netwon/GMRES   1  11  1.71829913E-06  1.51683241E-07  1.75834145E-04
+netwon/GMRES   2  12  2.46832607E-11  2.86904120E-10  1.73093623E-04
+netwon/GMRES   3  12  8.41657452E-18  3.32728105E-15  1.73093594E-04
+Update computed in 3 newton steps using 36 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.51523968E-06
+netwon/GMRES   1  11  1.84048245E-06  1.45743506E-07  1.60806786E-04
+netwon/GMRES   2  11  2.59990080E-11  2.86576260E-10  1.58070956E-04
+netwon/GMRES   3  12  8.35540930E-18  3.43273909E-15  1.58070926E-04
+Update computed in 3 newton steps using 35 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.45581491E-06
+netwon/GMRES   1  11  1.93319453E-06  1.40373931E-07  1.47637008E-04
+netwon/GMRES   2  11  2.67527292E-11  2.79963710E-10  1.44969454E-04
+netwon/GMRES   3  12  9.21562294E-18  3.38691353E-15  1.44969424E-04
+Update computed in 3 newton steps using 35 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.40213349E-06
+netwon/GMRES   1  11  1.99632649E-06  1.35487831E-07  1.36032859E-04
+netwon/GMRES   2  11  2.70129512E-11  2.69438369E-10  1.33472392E-04
+netwon/GMRES   3  12  8.20561462E-18  3.24114089E-15  1.33472363E-04
+Update computed in 3 newton steps using 35 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.35331490E-06
+netwon/GMRES   1  11  2.03309419E-06  1.31015817E-07  1.25758769E-04
+netwon/GMRES   2  11  2.68741500E-11  2.56645026E-10  1.23327325E-04
+netwon/GMRES   3  12  6.39790952E-18  3.03453061E-15  1.23327298E-04
+Update computed in 3 newton steps using 35 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.30865525E-06
+netwon/GMRES   1  11  2.04785456E-06  1.26901604E-07  1.16622071E-04
+netwon/GMRES   2  11  2.64293562E-11  2.42708702E-10  1.14330201E-04
+netwon/GMRES   3  11  1.16728848E-17  2.79588777E-15  1.14330176E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.26758440E-06
+netwon/GMRES   1  11  2.04505668E-06  1.23098920E-07  1.08463444E-04
+netwon/GMRES   2  11  2.57610003E-11  2.28387434E-10  1.06314130E-04
+netwon/GMRES   3  11  1.02429652E-17  2.54542076E-15  1.06314108E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.22963444E-06
+netwon/GMRES   1  11  2.02876398E-06  1.19569339E-07  1.01150083E-04
+netwon/GMRES   2  11  2.49383358E-11  2.14181735E-10  9.91413877E-05
+netwon/GMRES   3  11  9.97905234E-18  2.29669206E-15  9.91413671E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.19441743E-06
+netwon/GMRES   1  11  2.00246934E-06  1.16280705E-07  9.45705157E-05
+netwon/GMRES   2  11  2.40174818E-11  2.00412177E-10  9.26974141E-05
+netwon/GMRES   3  11  8.78915178E-18  2.05833771E-15  9.26973956E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.16160930E-06
+netwon/GMRES   1  11  1.96905931E-06  1.13205906E-07  8.86305746E-05
+netwon/GMRES   2  11  2.30425415E-11  1.87274228E-10  8.68862195E-05
+netwon/GMRES   3  11  1.01544901E-17  1.83545582E-15  8.68862030E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.13093726E-06
+netwon/GMRES   1  11  1.93085093E-06  1.10321910E-07  8.32502917E-05
+netwon/GMRES   2  11  2.20471302E-11  1.74877040E-10  8.16268722E-05
+netwon/GMRES   3  11  8.83732398E-18  1.63066851E-15  8.16268576E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.10216993E-06
+netwon/GMRES   1  11  1.88965980E-06  1.07609031E-07  7.83614627E-05
+netwon/GMRES   2  11  2.10560487E-11  1.63270884E-10  7.68507823E-05
+netwon/GMRES   3  11  9.36388591E-18  1.44491856E-15  7.68507694E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.07510983E-06
+netwon/GMRES   1  11  1.84687761E-06  1.05050346E-07  7.39056901E-05
+netwon/GMRES   2  11  2.00868622E-11  1.52466523E-10  7.24995467E-05
+netwon/GMRES   3  11  1.02779266E-17  1.27804950E-15  7.24995353E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.04958743E-06
+netwon/GMRES   1  11  1.80354769E-06  1.02631229E-07  6.98327889E-05
+netwon/GMRES   2  11  1.91514261E-11  1.42448850E-10  6.85232177E-05
+netwon/GMRES   3  11  9.92730458E-18  1.12922113E-15  6.85232077E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.02545637E-06
+netwon/GMRES   1  11  1.76043332E-06  1.00338969E-07  6.60994865E-05
+netwon/GMRES   2  11  1.82571448E-11  1.33186467E-10  6.48789071E-05
+netwon/GMRES   3  11  5.97044814E-18  9.97200543E-16  6.48788982E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  1.00258960E-06
+netwon/GMRES   1  11  1.71807675E-06  9.81624599E-08  6.26683552E-05
+netwon/GMRES   2  11  1.74081010E-11  1.24638352E-10  6.15296529E-05
+netwon/GMRES   3  11  6.27101408E-18  8.80561928E-16  6.15296451E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   1.00000000E-01
+--residual--   0   0  9.80876227E-07
+netwon/GMRES   1  11  1.67684865E-06  9.60919562E-08  5.95069260E-05
+netwon/GMRES   2  11  1.66059389E-11  1.16758457E-10  5.84434895E-05
+netwon/GMRES   3  11  1.18822825E-17  7.77817743E-16  5.84434826E-05
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.92043797E-06
+netwon/GMRES   1  11  1.30326003E-05  3.69051958E-07  2.21775062E-04
+netwon/GMRES   2  11  1.06402346E-09  1.68158088E-09  2.14020383E-04
+netwon/GMRES   3  11  8.63573298E-17  1.19714312E-13  2.14019860E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.84053457E-06
+netwon/GMRES   1  11  1.24909548E-05  3.54426743E-07  2.00543494E-04
+netwon/GMRES   2  11  9.63021886E-10  1.47668543E-09  1.93747675E-04
+netwon/GMRES   3  11  6.68591749E-17  9.40416719E-14  1.93747264E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.76795726E-06
+netwon/GMRES   1  11  1.19711122E-05  3.41065999E-07  1.82334719E-04
+netwon/GMRES   2  11  8.72904173E-10  1.30171381E-09  1.76355572E-04
+netwon/GMRES   3  11  4.58019404E-17  7.40269360E-14  1.76355248E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.70162834E-06
+netwon/GMRES   1  11  1.14838588E-05  3.28794551E-07  1.66585777E-04
+netwon/GMRES   2  11  7.93587710E-10  1.15251291E-09  1.61302702E-04
+netwon/GMRES   3  11  3.91579250E-17  5.85103643E-14  1.61302447E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.64068016E-06
+netwon/GMRES   1  11  1.10322809E-05  3.17470181E-07  1.52857939E-04
+netwon/GMRES   2  11  7.24141939E-10  1.02511531E-09  1.48169099E-04
+netwon/GMRES   3  11  3.44338960E-17  4.64923910E-14  1.48168896E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.58441057E-06
+netwon/GMRES   1  11  1.06155387E-05  3.06976071E-07  1.40807697E-04
+netwon/GMRES   2  11  6.63362560E-10  9.16008839E-10  1.36627802E-04
+netwon/GMRES   3  11  3.11585405E-17  3.71667148E-14  1.36627641E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.53224392E-06
+netwon/GMRES   1  11  1.02309958E-05  2.97215212E-07  1.30163133E-04
+netwon/GMRES   2  11  6.10042178E-10  8.22200860E-10  1.26420948E-04
+netwon/GMRES   3  11  2.21068725E-17  2.99045271E-14  1.26420819E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.48370267E-06
+netwon/GMRES   1  11  9.87537811E-06  2.88106237E-07  1.20706684E-04
+netwon/GMRES   2  11  5.63084057E-10  7.41192075E-10  1.17342677E-04
+netwon/GMRES   3  11  2.71243936E-17  2.42238849E-14  1.17342573E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.43838634E-06
+netwon/GMRES   1  11  9.54537083E-06  2.79580258E-07  1.12262478E-04
+netwon/GMRES   2  11  5.21538131E-10  6.70916171E-10  1.09226766E-04
+netwon/GMRES   3  11  2.30588594E-17  1.97583878E-14  1.09226682E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.39595587E-06
+netwon/GMRES   1  10  9.23789485E-06  2.71578459E-07  1.04686945E-04
+netwon/GMRES   2  11  4.84600460E-10  6.09670289E-10  1.01937581E-04
+netwon/GMRES   3  10  4.76254186E-17  1.62301483E-14  1.01937513E-04
+Update computed in 3 newton steps using 32 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.35612166E-06
+netwon/GMRES   1  10  8.95022878E-06  2.64050240E-07  9.78618475E-05
+netwon/GMRES   2  11  4.51600294E-10  5.56058162E-10  9.53633753E-05
+netwon/GMRES   3  10  4.11032298E-17  1.34283618E-14  9.53633193E-05
+Update computed in 3 newton steps using 32 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.31863440E-06
+netwon/GMRES   1  10  8.68000732E-06  2.56951752E-07  9.16889363E-05
+netwon/GMRES   2  10  4.22070222E-10  5.08923777E-10  8.94112687E-05
+netwon/GMRES   3  10  3.10193195E-17  1.11914764E-14  8.94112227E-05
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.28327793E-06
+netwon/GMRES   1  10  8.42521380E-06  2.50244757E-07  8.60859658E-05
+netwon/GMRES   2  10  3.95345107E-10  4.67312924E-10  8.40034408E-05
+netwon/GMRES   3  10  2.23154758E-17  9.39901837E-15  8.40034028E-05
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.24986363E-06
+netwon/GMRES   1  10  8.18413727E-06  2.43895714E-07  8.09835853E-05
+netwon/GMRES   2  10  3.71146527E-10  4.30433432E-10  7.90742098E-05
+netwon/GMRES   3  10  2.33242789E-17  7.95510087E-15  7.90741784E-05
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.21822593E-06
+netwon/GMRES   1  10  7.95532943E-06  2.37875043E-07  7.63229305E-05
+netwon/GMRES   2  10  3.49148740E-10  3.97624747E-10  7.45677679E-05
+netwon/GMRES   3  10  2.33510539E-17  6.78682202E-15  7.45677418E-05
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.18821870E-06
+netwon/GMRES   1  10  7.73756337E-06  2.32156527E-07  7.20537339E-05
+netwon/GMRES   2  10  3.29077594E-10  3.68333538E-10  7.04364060E-05
+netwon/GMRES   3  10  2.23592798E-17  5.83748874E-15  7.04363842E-05
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.15971237E-06
+netwon/GMRES   1  10  7.52979701E-06  2.26716828E-07  6.81328282E-05
+netwon/GMRES   2  10  3.10701102E-10  3.42094143E-10  6.66391081E-05
+netwon/GMRES   3   9  4.27046962E-17  5.06275252E-15  6.66390898E-05
+Update computed in 3 newton steps using 30 function evaluations
+Stepping:   2.00000000E-01
+--residual--   0   0  1.13259151E-06
+netwon/GMRES   1  10  7.33114164E-06  2.21535081E-07  6.45229504E-05
+netwon/GMRES   2  10  2.93821953E-10  3.18512898E-10  6.31404293E-05
+netwon/GMRES   3   9  3.31405613E-17  4.42772583E-15  6.31404139E-05
+Update computed in 3 newton steps using 30 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.76688217E-06
+netwon/GMRES   1  11  1.12190748E-04  1.31135928E-06  3.72335956E-04
+netwon/GMRES   2  11  4.73670748E-08  1.04129451E-08  3.53307527E-04
+netwon/GMRES   3  11  2.49652207E-15  2.78530018E-12  3.53302898E-04
+Update computed in 3 newton steps using 34 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.61127830E-06
+netwon/GMRES   1  10  1.05579917E-04  1.24140144E-06  3.25447635E-04
+netwon/GMRES   2  11  4.15755485E-08  8.69605860E-09  3.09606004E-04
+netwon/GMRES   3  11  1.38616864E-15  1.95654026E-12  3.09602761E-04
+Update computed in 3 newton steps using 33 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.47310894E-06
+netwon/GMRES   1  10  9.92521294E-05  1.17890586E-06  2.87065514E-04
+netwon/GMRES   2  10  3.65106614E-08  7.31521178E-09  2.73779717E-04
+netwon/GMRES   3  10  2.50617115E-15  1.39141555E-12  2.73777426E-04
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.34955994E-06
+netwon/GMRES   1  10  9.33903146E-05  1.12270528E-06  2.55188751E-04
+netwon/GMRES   2  10  3.22054716E-08  6.21540221E-09  2.43947357E-04
+netwon/GMRES   3  10  1.51746547E-15  1.01026231E-12  2.43945713E-04
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.23833366E-06
+netwon/GMRES   1  10  8.79898869E-05  1.07185649E-06  2.28397742E-04
+netwon/GMRES   2  10  2.85423076E-08  5.33315819E-09  2.18803758E-04
+netwon/GMRES   3  10  9.48157143E-16  7.50104938E-13  2.18802560E-04
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.13759749E-06
+netwon/GMRES   1  10  8.30094725E-05  1.02560017E-06  2.05653086E-04
+netwon/GMRES   2  10  2.54013970E-08  4.61763795E-09  1.97400285E-04
+netwon/GMRES   3  10  5.89886963E-16  5.69422613E-13  1.97399397E-04
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  2.04587845E-06
+netwon/GMRES   1  10  7.84061602E-05  9.83319622E-07  1.86173385E-04
+netwon/GMRES   2  10  2.26858855E-08  4.03082956E-09  1.79023572E-04
+netwon/GMRES   3  10  3.84159048E-16  4.41645495E-13  1.79022906E-04
+Update computed in 3 newton steps using 31 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.96197841E-06
+netwon/GMRES   1  10  7.41421092E-05  9.44508252E-07  1.69359591E-04
+netwon/GMRES   2  10  2.03207328E-08  3.54454083E-09  1.63125359E-04
+netwon/GMRES   3   9  1.04390287E-15  3.49656733E-13  1.63124852E-04
+Update computed in 3 newton steps using 30 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.88491101E-06
+netwon/GMRES   1  10  7.01847646E-05  9.08745280E-07  1.54745211E-04
+netwon/GMRES   2   9  1.82476814E-08  3.13768764E-09  1.49277431E-04
+netwon/GMRES   3   9  6.58498753E-16  2.82249518E-13  1.49277041E-04
+Update computed in 3 newton steps using 29 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.81385521E-06
+netwon/GMRES   1  10  6.65059790E-05  8.75677671E-07  1.41962145E-04
+netwon/GMRES   2   9  1.64212294E-08  2.79430820E-09  1.37140898E-04
+netwon/GMRES   3   9  4.41546754E-16  2.31981610E-13  1.37140595E-04
+Update computed in 3 newton steps using 29 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.74812082E-06
+netwon/GMRES   1   9  6.30811641E-05  8.45006564E-07  1.30716558E-04
+netwon/GMRES   2   9  1.48048693E-08  2.50216934E-09  1.26444485E-04
+netwon/GMRES   3   9  2.98369901E-16  1.93813191E-13  1.26444247E-04
+Update computed in 3 newton steps using 28 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.68712253E-06
+netwon/GMRES   1   9  5.98886153E-05  8.16476919E-07  1.20771450E-04
+netwon/GMRES   2   9  1.33691584E-08  2.25178175E-09  1.16968827E-04
+netwon/GMRES   3   9  2.00613182E-16  1.64302241E-13  1.16968638E-04
+Update computed in 3 newton steps using 28 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.63036007E-06
+netwon/GMRES   1   9  5.69090380E-05  7.89869525E-07  1.11933891E-04
+netwon/GMRES   2   9  1.20899584E-08  2.03571236E-09  1.08534911E-04
+netwon/GMRES   3   9  1.69139664E-16  1.41069664E-13  1.08534761E-04
+Update computed in 3 newton steps using 28 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.57740284E-06
+netwon/GMRES   1   9  5.41251550E-05  7.64994742E-07  1.04045486E-04
+netwon/GMRES   2   9  1.09472221E-08  1.84807735E-09  1.00995434E-04
+netwon/GMRES   3   9  1.21284096E-16  1.22454638E-13  1.00995313E-04
+Update computed in 3 newton steps using 28 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.52787788E-06
+netwon/GMRES   1   9  5.15214188E-05  7.41687544E-07  9.69751803E-05
+netwon/GMRES   2   9  9.92411342E-09  1.68417837E-09  9.42282642E-05
+netwon/GMRES   3   8  6.11551340E-16  1.07286894E-13  9.42281659E-05
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.48146025E-06
+netwon/GMRES   1   9  4.90837807E-05  7.19803555E-07  9.06137750E-05
+netwon/GMRES   2   9  9.00635165E-09  1.54023233E-09  8.81314311E-05
+netwon/GMRES   3   8  4.27173072E-16  9.47337360E-14  8.81313509E-05
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.43786538E-06
+netwon/GMRES   1   9  4.67995022E-05  6.99215847E-07  8.48696817E-05
+netwon/GMRES   2   9  8.18171770E-09  1.41316953E-09  8.26192509E-05
+netwon/GMRES   3   8  2.84848274E-16  8.41963530E-14  8.26191851E-05
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.39684287E-06
+netwon/GMRES   1   9  4.46570007E-05  6.79812324E-07  7.96656181E-05
+netwon/GMRES   2   9  7.43967689E-09  1.30048094E-09  7.76192946E-05
+netwon/GMRES   3   8  2.22880147E-16  7.52390508E-14  7.76192403E-05
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.35817139E-06
+netwon/GMRES   1   9  4.26457190E-05  6.61493583E-07  7.49360051E-05
+netwon/GMRES   2   8  6.77104019E-09  1.20010188E-09  7.30699989E-05
+netwon/GMRES   3   8  1.44385590E-16  6.75397578E-14  7.30699538E-05
+Update computed in 3 newton steps using 26 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.32165451E-06
+netwon/GMRES   1   9  4.07560143E-05  6.44171132E-07  7.06249031E-05
+netwon/GMRES   2   8  6.16793914E-09  1.11032225E-09  6.89187658E-05
+netwon/GMRES   3   8  1.32950017E-16  6.08608688E-14  6.89187282E-05
+Update computed in 3 newton steps using 26 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.28711727E-06
+netwon/GMRES   1   8  3.89790634E-05  6.27765914E-07  6.66843607E-05
+netwon/GMRES   2   8  5.62331518E-09  1.02971723E-09  6.51204403E-05
+netwon/GMRES   3   8  1.10459596E-16  5.50188367E-14  6.51204088E-05
+Update computed in 3 newton steps using 25 function evaluations
+Stepping:   5.00000000E-01
+--residual--   0   0  1.25440323E-06
+netwon/GMRES   1   8  3.73067816E-05  6.12207065E-07  6.30730848E-05
+netwon/GMRES   2   8  5.13101296E-09  9.57092147E-10  6.16360818E-05
+netwon/GMRES   3   8  9.11148989E-17  4.98736113E-14  6.16360553E-05
+Update computed in 3 newton steps using 25 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  2.44674417E-06
+netwon/GMRES   1   9  2.85727575E-04  2.33639943E-06  2.35884446E-04
+netwon/GMRES   2   9  1.71139246E-07  1.18081594E-08  2.25519701E-04
+netwon/GMRES   3   8  4.99989670E-15  2.66570222E-12  2.25517935E-04
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  2.32948811E-06
+netwon/GMRES   1   9  2.62683021E-04  2.22934000E-06  2.11889993E-04
+netwon/GMRES   2   9  1.42815990E-07  1.01645053E-08  2.03083673E-04
+netwon/GMRES   3   8  2.75808375E-15  2.06843171E-12  2.03082380E-04
+Update computed in 3 newton steps using 27 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  2.22337461E-06
+netwon/GMRES   1   9  2.42015805E-04  2.13216489E-06  1.91578947E-04
+netwon/GMRES   2   8  1.19204043E-07  8.79481774E-09  1.84022906E-04
+netwon/GMRES   3   8  1.55969072E-15  1.62365841E-12  1.84021945E-04
+Update computed in 3 newton steps using 26 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  2.12699426E-06
+netwon/GMRES   1   8  2.23555891E-04  2.04357562E-06  1.74171717E-04
+netwon/GMRES   2   8  9.98040625E-08  7.66484667E-09  1.67638822E-04
+netwon/GMRES   3   8  9.27995516E-16  1.29365276E-12  1.67638099E-04
+Update computed in 3 newton steps using 25 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  2.03906494E-06
+netwon/GMRES   1   8  2.07026344E-04  1.96247420E-06  1.59130252E-04
+netwon/GMRES   2   8  8.38370181E-08  6.72510694E-09  1.53442894E-04
+netwon/GMRES   3   8  5.78800232E-16  1.04419220E-12  1.53442342E-04
+Update computed in 3 newton steps using 25 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.95851509E-06
+netwon/GMRES   1   8  1.92181324E-04  1.88794249E-06  1.46040133E-04
+netwon/GMRES   2   8  7.06543257E-08  5.93668402E-09  1.41057639E-04
+netwon/GMRES   3   8  3.55249245E-16  8.52207373E-13  1.41057213E-04
+Update computed in 3 newton steps using 25 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.88444784E-06
+netwon/GMRES   1   8  1.78810230E-04  1.81920768E-06  1.34574418E-04
+netwon/GMRES   2   8  5.97358018E-08  5.26988070E-09  1.30184186E-04
+netwon/GMRES   3   7  1.69612783E-15  7.02120458E-13  1.30183854E-04
+Update computed in 3 newton steps using 24 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.81610693E-06
+netwon/GMRES   1   8  1.66732619E-04  1.75561446E-06  1.24472085E-04
+netwon/GMRES   2   7  5.06641959E-08  4.70181961E-09  1.20583128E-04
+netwon/GMRES   3   7  1.00900933E-15  5.83241814E-13  1.20582866E-04
+Update computed in 3 newton steps using 23 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.75284993E-06
+netwon/GMRES   1   8  1.55793464E-04  1.69660321E-06  1.15522670E-04
+netwon/GMRES   2   7  4.31037462E-08  4.21466678E-09  1.12060828E-04
+netwon/GMRES   3   7  6.12335064E-16  4.87874365E-13  1.12060620E-04
+Update computed in 3 newton steps using 23 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.69412740E-06
+netwon/GMRES   1   8  1.45859193E-04  1.64169305E-06  1.07554943E-04
+netwon/GMRES   2   7  3.67834552E-08  3.79436402E-09  1.04459292E-04
+netwon/GMRES   3   7  3.90859181E-16  4.10650684E-13  1.04459125E-04
+Update computed in 3 newton steps using 23 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.63946657E-06
+netwon/GMRES   1   8  1.36814413E-04  1.59046838E-06  1.00428441E-04
+netwon/GMRES   2   7  3.14839354E-08  3.42971752E-09  9.76485589E-05
+netwon/GMRES   3   7  3.19017250E-16  3.47570185E-13  9.76484239E-05
+Update computed in 3 newton steps using 23 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.58845834E-06
+netwon/GMRES   1   8  1.28559162E-04  1.54256806E-06  9.40270548E-05
+netwon/GMRES   2   7  2.70270685E-08  3.11173137E-09  9.15209258E-05
+netwon/GMRES   3   7  2.04277026E-16  2.95648122E-13  9.15208159E-05
+Update computed in 3 newton steps using 23 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.54074682E-06
+netwon/GMRES   1   7  1.21006625E-04  1.49767675E-06  8.82541287E-05
+netwon/GMRES   2   7  2.32678353E-08  2.83311485E-09  8.59865159E-05
+netwon/GMRES   3   7  1.92147590E-16  2.52622730E-13  8.59864257E-05
+Update computed in 3 newton steps using 22 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.49602097E-06
+netwon/GMRES   1   7  1.14081198E-04  1.45551785E-06  8.30286678E-05
+netwon/GMRES   2   7  2.00878340E-08  2.58791158E-09  8.09698441E-05
+netwon/GMRES   3   7  1.28165878E-16  2.16756148E-13  8.09697696E-05
+Update computed in 3 newton steps using 22 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.45400770E-06
+netwon/GMRES   1   7  1.07716875E-04  1.41584771E-06  7.82823870E-05
+netwon/GMRES   2   7  1.73901314E-08  2.37122230E-09  7.64071313E-05
+netwon/GMRES   3   7  1.17184497E-16  1.86696731E-13  7.64070694E-05
+Update computed in 3 newton steps using 22 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.41446624E-06
+netwon/GMRES   1   7  1.01855875E-04  1.37845085E-06  7.39573847E-05
+netwon/GMRES   2   7  1.50951499E-08  2.17898914E-09  7.22441872E-05
+netwon/GMRES   3   7  1.59131996E-16  1.61381743E-13  7.22441354E-05
+Update computed in 3 newton steps using 22 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.37718353E-06
+netwon/GMRES   1   7  9.64474868E-05  1.34313598E-06  7.00043011E-05
+netwon/GMRES   2   7  1.31373820E-08  2.00783076E-09  6.84347259E-05
+netwon/GMRES   3   6  4.28229853E-16  1.39967633E-13  6.84346824E-05
+Update computed in 3 newton steps using 21 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.34197028E-06
+netwon/GMRES   1   7  9.14470900E-05  1.30973272E-06  6.63808464E-05
+netwon/GMRES   2   6  1.14625469E-08  1.85491347E-09  6.49390188E-05
+netwon/GMRES   3   6  3.22061765E-16  1.21767437E-13  6.49389821E-05
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.30865780E-06
+netwon/GMRES   1   7  8.68153235E-05  1.27808879E-06  6.30506163E-05
+netwon/GMRES   2   6  1.00263489E-08  1.71784978E-09  6.17228070E-05
+netwon/GMRES   3   6  3.21292366E-16  1.06262864E-13  6.17227758E-05
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   1.00000000E+00
+--residual--   0   0  1.27709522E-06
+netwon/GMRES   1   7  8.25173790E-05  1.24806768E-06  5.99821338E-05
+netwon/GMRES   2   6  8.79139202E-09  1.59461839E-09  5.87564194E-05
+netwon/GMRES   3   6  3.10079932E-16  9.29964535E-14  5.87563927E-05
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.49429449E-06
+netwon/GMRES   1   7  6.23672266E-04  4.77546246E-06  2.26239739E-04
+netwon/GMRES   2   7  2.47467337E-07  2.02719218E-08  2.17150086E-04
+netwon/GMRES   3   7  7.00547370E-16  4.42419330E-12  2.17148572E-04
+Update computed in 3 newton steps using 22 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.38145268E-06
+netwon/GMRES   1   7  5.66735708E-04  4.56931580E-06  2.05616815E-04
+netwon/GMRES   2   7  1.92605911E-07  1.74983447E-08  1.97823794E-04
+netwon/GMRES   3   6  4.34216714E-15  3.33565659E-12  1.97822672E-04
+Update computed in 3 newton steps using 21 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.27920613E-06
+netwon/GMRES   1   7  5.17058660E-04  4.38188791E-06  1.87917884E-04
+netwon/GMRES   2   6  1.51057062E-07  1.52096459E-08  1.81166898E-04
+netwon/GMRES   3   6  2.46972275E-15  2.54430438E-12  1.81166054E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.18618119E-06
+netwon/GMRES   1   7  4.73483920E-04  4.21071333E-06  1.72578162E-04
+netwon/GMRES   2   6  1.19463042E-07  1.33183257E-08  1.66687043E-04
+netwon/GMRES   3   6  1.61709320E-15  1.96569374E-12  1.66686399E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.10116811E-06
+netwon/GMRES   1   7  4.35061182E-04  4.05373140E-06  1.59184955E-04
+netwon/GMRES   2   6  9.52252597E-08  1.17408737E-08  1.54010317E-04
+netwon/GMRES   3   6  1.02061274E-15  1.53621709E-12  1.54009819E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  2.02315971E-06
+netwon/GMRES   1   7  4.01017291E-04  3.90921812E-06  1.47413436E-04
+netwon/GMRES   2   6  7.64729915E-08  1.04138314E-08  1.42840866E-04
+netwon/GMRES   3   6  6.57581764E-16  1.21319435E-12  1.42840477E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.95131182E-06
+netwon/GMRES   1   7  3.70718317E-04  3.77571987E-06  1.37004610E-04
+netwon/GMRES   2   6  6.18478052E-08  9.28863511E-09  1.32941876E-04
+netwon/GMRES   3   6  5.84734084E-16  9.67305871E-13  1.32941569E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.88491144E-06
+netwon/GMRES   1   7  3.43640568E-04  3.65200213E-06  1.27749839E-04
+netwon/GMRES   2   6  5.03541457E-08  8.32767540E-09  1.24121895E-04
+netwon/GMRES   3   6  3.33385721E-16  7.78070728E-13  1.24121650E-04
+Update computed in 3 newton steps using 20 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.82335209E-06
+netwon/GMRES   1   6  3.19348395E-04  3.53700943E-06  1.19479462E-04
+netwon/GMRES   2   6  4.12559103E-08  7.50150731E-09  1.16224728E-04
+netwon/GMRES   3   6  2.97445359E-16  6.30963924E-13  1.16224532E-04
+Update computed in 3 newton steps using 19 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.76611457E-06
+netwon/GMRES   1   6  2.97477063E-04  3.42983393E-06  1.12054320E-04
+netwon/GMRES   2   6  3.40042052E-08  6.78684771E-09  1.09121866E-04
+netwon/GMRES   3   6  3.34662378E-16  5.15541285E-13  1.09121707E-04
+Update computed in 3 newton steps using 19 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.71275175E-06
+netwon/GMRES   1   6  2.77719321E-04  3.32969029E-06  1.05359351E-04
+netwon/GMRES   2   6  2.81864048E-08  6.16511608E-09  1.02706752E-04
+netwon/GMRES   3   6  5.34988622E-16  4.24197878E-13  1.02706622E-04
+Update computed in 3 newton steps using 19 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.66287643E-06
+netwon/GMRES   1   6  2.59814909E-04  3.23589564E-06  9.92987224E-05
+netwon/GMRES   2   6  2.34899133E-08  5.62135882E-09  9.68903971E-05
+netwon/GMRES   3   6  2.97916616E-16  3.51331409E-13  9.68902900E-05
+Update computed in 3 newton steps using 19 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.61615161E-06
+netwon/GMRES   1   6  2.43542193E-04  3.14785332E-06  9.37920637E-05
+netwon/GMRES   2   6  1.96761547E-08  5.14344620E-09  9.15979849E-05
+netwon/GMRES   3   6  3.48957518E-16  2.92770478E-13  9.15978962E-05
+Update computed in 3 newton steps using 19 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.57228258E-06
+netwon/GMRES   1   6  2.28711501E-04  3.06503961E-06  8.87715447E-05
+netwon/GMRES   2   5  1.65624086E-08  4.72146672E-09  8.67662238E-05
+netwon/GMRES   3   6  3.81174785E-16  2.45415168E-13  8.67661499E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.53101046E-06
+netwon/GMRES   1   6  2.15159760E-04  2.98699292E-06  8.41795787E-05
+netwon/GMRES   2   5  1.40052723E-08  4.34726584E-09  8.23412611E-05
+netwon/GMRES   3   6  4.32133406E-16  2.06797113E-13  8.23411992E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.49210692E-06
+netwon/GMRES   1   6  2.02746152E-04  2.91330477E-06  7.99670040E-05
+netwon/GMRES   2   5  1.18951182E-08  4.01409124E-09  7.82770270E-05
+netwon/GMRES   3   6  3.30197917E-16  1.75148646E-13  7.82769749E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.45536977E-06
+netwon/GMRES   1   6  1.91348576E-04  2.84361236E-06  7.60916339E-05
+netwon/GMRES   2   5  1.01453081E-08  3.71631795E-09  7.45339103E-05
+netwon/GMRES   3   6  4.15000340E-16  1.49061294E-13  7.45338662E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.42061934E-06
+netwon/GMRES   1   6  1.80860751E-04  2.77759232E-06  7.25170907E-05
+netwon/GMRES   2   5  8.68754053E-09  3.44923354E-09  7.10776905E-05
+netwon/GMRES   3   6  5.66268959E-16  1.27440033E-13  7.10776529E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.38769539E-06
+netwon/GMRES   1   6  1.71189825E-04  2.71495551E-06  6.92118623E-05
+netwon/GMRES   2   5  7.46766366E-09  3.20886882E-09  6.78786718E-05
+netwon/GMRES   3   6  3.03737673E-16  1.09427421E-13  6.78786397E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.35645456E-06
+netwon/GMRES   1   6  1.62254399E-04  2.65544254E-06  6.61485342E-05
+netwon/GMRES   2   5  6.44250883E-09  2.99186378E-09  6.49109769E-05
+netwon/GMRES   3   6  3.08991927E-16  9.43474996E-14  6.49109493E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   2.00000000E+00
+--residual--   0   0  1.32676823E-06
+netwon/GMRES   1   6  1.53982877E-04  2.59882009E-06  6.33031593E-05
+netwon/GMRES   2   5  5.57748315E-09  2.79536043E-09  6.21519657E-05
+netwon/GMRES   3   6  3.58665633E-16  8.16639780E-14  6.21519418E-05
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  3.24630149E-06
+netwon/GMRES   1   6  2.25077031E-03  1.54584733E-05  3.74041417E-04
+netwon/GMRES   2   6  4.40197446E-07  9.20540623E-08  3.56932954E-04
+netwon/GMRES   3   6  1.61871158E-15  2.92761775E-11  3.56928134E-04
+netwon/GMRES   4   6  2.81122400E-16  3.82846360E-19  3.56928134E-04
+Update computed in 4 newton steps using 25 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  3.07987958E-06
+netwon/GMRES   1   6  1.99294346E-03  1.47091931E-05  3.36189746E-04
+netwon/GMRES   2   6  3.15364888E-07  7.75404229E-08  3.21808662E-04
+netwon/GMRES   3   6  1.68354191E-15  2.06298720E-11  3.21805249E-04
+netwon/GMRES   4   6  2.80658747E-16  2.00728199E-19  3.21805249E-04
+Update computed in 4 newton steps using 25 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.93177188E-06
+netwon/GMRES   1   6  1.77602068E-03  1.40387972E-05  3.04312786E-04
+netwon/GMRES   2   6  2.29848709E-07  6.60289579E-08  2.92071529E-04
+netwon/GMRES   3   6  1.36372911E-15  1.48370286E-11  2.92069064E-04
+netwon/GMRES   4   6  2.16788363E-16  1.12536442E-19  2.92069064E-04
+Update computed in 4 newton steps using 25 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.79910161E-06
+netwon/GMRES   1   6  1.59191452E-03  1.34351004E-05  2.77171276E-04
+netwon/GMRES   2   5  1.70208220E-07  5.67874092E-08  2.66650746E-04
+netwon/GMRES   3   6  8.68403607E-16  1.08758384E-11  2.66648933E-04
+netwon/GMRES   4   6  2.19465854E-16  6.77978249E-20  2.66648933E-04
+Update computed in 4 newton steps using 24 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.67950908E-06
+netwon/GMRES   1   6  1.43441967E-03  1.28883210E-05  2.53837084E-04
+netwon/GMRES   2   5  1.27880524E-07  4.92705187E-08  2.44717892E-04
+netwon/GMRES   3   6  1.16611493E-15  8.10784576E-12  2.44716536E-04
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.57109751E-06
+netwon/GMRES   1   6  1.29871503E-03  1.23905267E-05  2.33602981E-04
+netwon/GMRES   2   5  9.73557175E-08  4.30850525E-08  2.25637866E-04
+netwon/GMRES   3   6  1.08293369E-15  6.13715486E-12  2.25636837E-04
+Update computed in 3 newton steps using 18 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.47232429E-06
+netwon/GMRES   1   6  1.18101271E-03  1.19352138E-05  2.15921836E-04
+netwon/GMRES   2   5  7.50184763E-08  3.79420898E-08  2.08916754E-04
+netwon/GMRES   3   5  2.03187407E-15  4.70993108E-12  2.08915963E-04
+Update computed in 3 newton steps using 17 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.38192139E-06
+netwon/GMRES   1   6  1.07830548E-03  1.15169964E-05  2.00364555E-04
+netwon/GMRES   2   5  5.84518215E-08  3.36257983E-08  1.94165358E-04
+netwon/GMRES   3   5  1.45273574E-15  3.66016879E-12  1.94164743E-04
+Update computed in 3 newton steps using 17 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.29883650E-06
+netwon/GMRES   1   6  9.88182899E-04  1.11313746E-05  1.86590439E-04
+netwon/GMRES   2   5  4.60121620E-08  2.99725472E-08  1.81073318E-04
+netwon/GMRES   3   5  1.66066106E-15  2.87707324E-12  1.81072833E-04
+Update computed in 3 newton steps using 17 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.22218871E-06
+netwon/GMRES   1   6  9.08695618E-04  1.07745575E-05  1.74325933E-04
+netwon/GMRES   2   5  3.65641366E-08  2.68566218E-08  1.69390443E-04
+netwon/GMRES   3   5  1.31544775E-15  2.28532057E-12  1.69390059E-04
+Update computed in 3 newton steps using 17 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.15123476E-06
+netwon/GMRES   1   5  8.38254199E-04  1.04433283E-05  1.63349150E-04
+netwon/GMRES   2   5  2.93119844E-08  2.41802658E-08  1.58913055E-04
+netwon/GMRES   3   5  1.15505287E-15  1.83283160E-12  1.58912746E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.08534295E-06
+netwon/GMRES   1   5  7.75552750E-04  1.01349384E-05  1.53478429E-04
+netwon/GMRES   2   5  2.36904039E-08  2.18666232E-08  1.49473831E-04
+netwon/GMRES   3   5  9.07714643E-16  1.48303737E-12  1.49473581E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  2.02397288E-06
+netwon/GMRES   1   5  7.19510737E-04  9.84702477E-06  1.44563778E-04
+netwon/GMRES   2   5  1.92927524E-08  1.98546566E-08  1.40934184E-04
+netwon/GMRES   3   5  1.20669616E-15  1.20989182E-12  1.40933980E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.96665941E-06
+netwon/GMRES   1   5  6.69228181E-04  9.57754397E-06  1.36480377E-04
+netwon/GMRES   2   5  1.58230831E-08  1.80954399E-08  1.33178446E-04
+netwon/GMRES   3   5  1.27655170E-15  9.94598006E-13  1.33178279E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.91299987E-06
+netwon/GMRES   1   5  6.23950862E-04  9.32471960E-06  1.29123606E-04
+netwon/GMRES   2   5  1.30636511E-08  1.65494174E-08  1.26109402E-04
+netwon/GMRES   3   5  9.06027307E-16  8.23424029E-13  1.26109264E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.86264392E-06
+netwon/GMRES   1   5  5.83043067E-04  9.08699968E-06  1.22405185E-04
+netwon/GMRES   2   5  1.08526096E-08  1.51843543E-08  1.19644813E-04
+netwon/GMRES   3   5  8.19022462E-16  6.86223963E-13  1.19644698E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.81528520E-06
+netwon/GMRES   1   5  5.45966070E-04  8.86302203E-06  1.16250163E-04
+netwon/GMRES   2   5  9.06850309E-09  1.39737873E-08  1.13714690E-04
+netwon/GMRES   3   5  9.12254237E-16  5.75421738E-13  1.13714593E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.77065461E-06
+netwon/GMRES   1   5  5.12261017E-04  8.65158590E-06  1.10594539E-04
+netwon/GMRES   2   5  7.61936463E-09  1.28958415E-08  1.08259132E-04
+netwon/GMRES   3   5  9.50852757E-16  4.85304217E-13  1.08259051E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.72851480E-06
+netwon/GMRES   1   5  4.81535213E-04  8.45162857E-06  1.05383364E-04
+netwon/GMRES   2   5  6.43496570E-09  1.19323185E-08  1.03226608E-04
+netwon/GMRES   3   5  1.25094375E-15  4.11523066E-13  1.03226539E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.68865554E-06
+netwon/GMRES   1   5  4.53451068E-04  8.26220588E-06  1.00569230E-04
+netwon/GMRES   2   5  5.46124904E-09  1.10679876E-08  9.85725656E-05
+netwon/GMRES   3   5  1.11640147E-15  3.50740019E-13  9.85725068E-05
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.65088998E-06
+netwon/GMRES   1   5  4.27717129E-04  8.08247608E-06  9.61110383E-05
+netwon/GMRES   2   5  4.65629067E-09  1.02900296E-08  9.42583121E-05
+netwon/GMRES   3   5  1.07076780E-15  3.00371211E-13  9.42582618E-05
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.61505141E-06
+netwon/GMRES   1   5  4.04080761E-04  7.91168613E-06  9.19730026E-05
+netwon/GMRES   2   5  3.98734331E-09  9.58759833E-09  9.02500977E-05
+netwon/GMRES   3   5  7.98591963E-16  2.58401403E-13  9.02500544E-05
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.58099064E-06
+netwon/GMRES   1   5  3.82322139E-04  7.74916028E-06  8.81238352E-05
+netwon/GMRES   2   5  3.42865674E-09  8.95147059E-09  8.65183651E-05
+netwon/GMRES   3   5  9.69891191E-16  2.23247389E-13  8.65183278E-05
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.54857374E-06
+netwon/GMRES   1   5  3.62249297E-04  7.59429026E-06  8.45360730E-05
+netwon/GMRES   2   5  2.95985099E-09  8.37376690E-09  8.30371300E-05
+netwon/GMRES   3   5  1.02624891E-15  1.93656863E-13  8.30370976E-05
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.51768008E-06
+netwon/GMRES   1   5  3.43694019E-04  7.44652707E-06  8.11855219E-05
+netwon/GMRES   2   4  2.56526652E-09  7.84772671E-09  7.97834662E-05
+netwon/GMRES   3   5  1.15369445E-15  1.67819420E-13  7.97834383E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.48820075E-06
+netwon/GMRES   1   5  3.26508416E-04  7.30537378E-06  7.80507927E-05
+netwon/GMRES   2   4  2.23068960E-09  7.36752132E-09  7.67370781E-05
+netwon/GMRES   3   5  9.99467462E-16  1.46666648E-13  7.67370537E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.46003715E-06
+netwon/GMRES   1   5  3.10562070E-04  7.17037953E-06  7.51129142E-05
+netwon/GMRES   2   4  1.94632303E-09  6.92811100E-09  7.38799392E-05
+netwon/GMRES   3   5  1.00190631E-15  1.28625225E-13  7.38799179E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.43309977E-06
+netwon/GMRES   1   5  2.95739620E-04  7.04113422E-06  7.23550066E-05
+netwon/GMRES   2   4  1.70369494E-09  6.52511825E-09  7.11959906E-05
+netwon/GMRES   3   5  8.96928621E-16  1.13175492E-13  7.11959719E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.40730719E-06
+netwon/GMRES   1   5  2.81938743E-04  6.91726398E-06  6.97620071E-05
+netwon/GMRES   2   4  1.49591270E-09  6.15472798E-09  6.86708841E-05
+netwon/GMRES   3   5  1.01290172E-15  9.98944363E-14  6.86708675E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.38258512E-06
+netwon/GMRES   1   5  2.69068428E-04  6.79842720E-06  6.73204358E-05
+netwon/GMRES   2   4  1.31734366E-09  5.81360395E-09  6.62917647E-05
+netwon/GMRES   3   5  8.91165563E-16  8.84359059E-14  6.62917501E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.35886572E-06
+netwon/GMRES   1   5  2.57047515E-04  6.68431113E-06  6.50181972E-05
+netwon/GMRES   2   4  1.16336145E-09  5.49881921E-09  6.40470850E-05
+netwon/GMRES   3   5  1.03956944E-15  7.85153935E-14  6.40470721E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   5.00000000E+00
+--residual--   0   0  1.33608681E-06
+netwon/GMRES   1   5  2.45803455E-04  6.57462884E-06  6.28444106E-05
+netwon/GMRES   2   4  1.03015059E-09  5.20779797E-09  6.19264462E-05
+netwon/GMRES   3   5  8.63971255E-16  6.98978882E-14  6.19264347E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.62838273E-06
+netwon/GMRES   1   5  1.86078058E-03  2.54965207E-05  2.41790899E-04
+netwon/GMRES   2   5  2.89675858E-08  7.53078156E-08  2.34659059E-04
+netwon/GMRES   3   5  2.05578249E-15  7.44535385E-12  2.34658401E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.54433068E-06
+netwon/GMRES   1   5  1.71035678E-03  2.47117689E-05  2.26232147E-04
+netwon/GMRES   2   5  2.31228309E-08  6.75382624E-08  2.19843457E-04
+netwon/GMRES   3   5  1.87779275E-15  5.92860275E-12  2.19842932E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.46637885E-06
+netwon/GMRES   1   5  1.57719979E-03  2.39822131E-05  2.12275644E-04
+netwon/GMRES   2   5  1.86233450E-08  6.08536232E-08  2.06520805E-04
+netwon/GMRES   3   5  1.95919031E-15  4.76530776E-12  2.06520382E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.39387696E-06
+netwon/GMRES   1   5  1.45879437E-03  2.33019918E-05  1.99704252E-04
+netwon/GMRES   2   5  1.51244124E-08  5.50667354E-08  1.94498475E-04
+netwon/GMRES   3   5  2.52213983E-15  3.86359602E-12  1.94498131E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.32625031E-06
+netwon/GMRES   1   5  1.35305907E-03  2.26660596E-05  1.88332922E-04
+netwon/GMRES   2   5  1.23777356E-08  5.00274145E-08  1.83605530E-04
+netwon/GMRES   3   5  2.91413790E-15  3.15763976E-12  1.83605248E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.26300371E-06
+netwon/GMRES   1   5  1.25826312E-03  2.20700501E-05  1.78007022E-04
+netwon/GMRES   2   5  1.02026485E-08  4.56154406E-08  1.73698636E-04
+netwon/GMRES   3   5  1.65395760E-15  2.59985576E-12  1.73698404E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.20370804E-06
+netwon/GMRES   1   5  1.17295925E-03  2.15101638E-05  1.68596591E-04
+netwon/GMRES   2   5  8.46612212E-09  4.17335326E-08  1.64656988E-04
+netwon/GMRES   3   5  2.36244061E-15  2.15539024E-12  1.64656795E-04
+Update computed in 3 newton steps using 16 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.14798948E-06
+netwon/GMRES   1   5  1.09593033E-03  2.09830775E-05  1.59991727E-04
+netwon/GMRES   2   4  7.07354777E-09  3.83022965E-08  1.56378165E-04
+netwon/GMRES   3   5  1.74724316E-15  1.79168746E-12  1.56378005E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.09552080E-06
+netwon/GMRES   1   5  1.02614716E-03  2.04858714E-05  1.52098941E-04
+netwon/GMRES   2   4  5.94092523E-09  3.52564141E-08  1.48774842E-04
+netwon/GMRES   3   5  2.85105989E-15  1.50397666E-12  1.48774707E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  2.04601422E-06
+netwon/GMRES   1   5  9.62734890E-04  2.00159691E-05  1.44838254E-04
+netwon/GMRES   2   4  5.01713606E-09  3.25418190E-08  1.41772151E-04
+netwon/GMRES   3   5  2.69063156E-15  1.26960015E-12  1.41772037E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.99921558E-06
+netwon/GMRES   1   5  9.04946219E-04  1.95710875E-05  1.38140888E-04
+netwon/GMRES   2   4  4.25893553E-09  3.01134442E-08  1.35305579E-04
+netwon/GMRES   3   5  2.53000357E-15  1.07742999E-12  1.35305482E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.95489953E-06
+netwon/GMRES   1   5  8.52139777E-04  1.91491963E-05  1.31947407E-04
+netwon/GMRES   2   4  3.63295824E-09  2.79335081E-08  1.29319266E-04
+netwon/GMRES   3   5  1.87828636E-15  9.18904074E-13  1.29319184E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.91286551E-06
+netwon/GMRES   1   5  8.03762690E-04  1.87484829E-05  1.26206205E-04
+netwon/GMRES   2   4  3.11326196E-09  2.59701599E-08  1.23764629E-04
+netwon/GMRES   3   5  2.08144586E-15  7.87381416E-13  1.23764558E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.87293438E-06
+netwon/GMRES   1   5  7.59336372E-04  1.83673244E-05  1.20872287E-04
+netwon/GMRES   2   4  2.67952329E-09  2.41964092E-08  1.18599233E-04
+netwon/GMRES   3   5  3.01375346E-15  6.77671847E-13  1.18599172E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.83494564E-06
+netwon/GMRES   1   5  7.18444902E-04  1.80042627E-05  1.15906259E-04
+netwon/GMRES   2   4  2.31571895E-09  2.25892717E-08  1.13785865E-04
+netwon/GMRES   3   5  2.64451014E-15  5.85690257E-13  1.13785812E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.79875499E-06
+netwon/GMRES   1   5  6.80725459E-04  1.76579837E-05  1.11273495E-04
+netwon/GMRES   2   4  2.00913130E-09  2.11290848E-08  1.09291771E-04
+netwon/GMRES   3   5  2.91720464E-15  5.08199506E-13  1.09291726E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.76423239E-06
+netwon/GMRES   1   5  6.45860418E-04  1.73273002E-05  1.06943458E-04
+netwon/GMRES   2   4  1.74960146E-09  1.97989537E-08  1.05088018E-04
+netwon/GMRES   3   5  2.91967465E-15  4.42617991E-13  1.05087978E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.73126023E-06
+netwon/GMRES   1   5  6.13570774E-04  1.70111366E-05  1.02889115E-04
+netwon/GMRES   2   4  1.52896867E-09  1.85843024E-08  1.01148962E-04
+netwon/GMRES   3   5  2.72705575E-15  3.86874707E-13  1.01148927E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.69973195E-06
+netwon/GMRES   1   5  5.83610661E-04  1.67085157E-05  9.90864658E-05
+netwon/GMRES   2   4  1.34064568E-09  1.74725062E-08  9.74518014E-05
+netwon/GMRES   3   5  1.92236432E-15  3.39298486E-13  9.74517709E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.66955069E-06
+netwon/GMRES   1   5  5.55762751E-04  1.64185480E-05  9.55141310E-05
+netwon/GMRES   2   4  1.17927884E-09  1.64525902E-08  9.39762039E-05
+netwon/GMRES   3   5  2.18933971E-15  2.98533620E-13  9.39761771E-05
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.64062824E-06
+netwon/GMRES   1   5  5.29834379E-04  1.61404216E-05  9.21530136E-05
+netwon/GMRES   2   4  1.04050030E-09  1.55149799E-08  9.07039841E-05
+netwon/GMRES   3   4  2.19171743E-15  2.63474584E-13  9.07039604E-05
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.61288408E-06
+netwon/GMRES   1   5  5.05654269E-04  1.58733939E-05  8.89860071E-05
+netwon/GMRES   2   4  9.20727360E-10  1.46512949E-08  8.76188337E-05
+netwon/GMRES   3   4  2.70913107E-15  2.33215486E-13  8.76188127E-05
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.58624454E-06
+netwon/GMRES   1   4  4.83069737E-04  1.56167845E-05  8.59977470E-05
+netwon/GMRES   2   4  8.17010670E-10  1.38541759E-08  8.47060899E-05
+netwon/GMRES   3   4  1.90564148E-15  2.07010472E-13  8.47060713E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.56064207E-06
+netwon/GMRES   1   4  4.61944396E-04  1.53699685E-05  8.31743997E-05
+netwon/GMRES   2   4  7.26910492E-10  1.31171430E-08  8.19525364E-05
+netwon/GMRES   3   4  2.52148355E-15  1.84242694E-13  8.19525199E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.53601464E-06
+netwon/GMRES   1   4  4.42156016E-04  1.51323711E-05  8.05034789E-05
+netwon/GMRES   2   4  6.48396321E-10  1.24344706E-08  7.93462332E-05
+netwon/GMRES   3   4  2.57121256E-15  1.64399955E-13  7.93462184E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.51230517E-06
+netwon/GMRES   1   4  4.23594869E-04  1.49034624E-05  7.79736893E-05
+netwon/GMRES   2   4  5.79779227E-10  1.18010882E-08  7.68763682E-05
+netwon/GMRES   3   4  2.85415027E-15  1.47055052E-13  7.68763550E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.48946101E-06
+netwon/GMRES   1   4  4.06162208E-04  1.46827531E-05  7.55747904E-05
+netwon/GMRES   2   4  5.19638269E-10  1.12124926E-08  7.45331304E-05
+netwon/GMRES   3   4  1.98417432E-15  1.31850401E-13  7.45331186E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.46743357E-06
+netwon/GMRES   1   4  3.89768986E-04  1.44697908E-05  7.32974782E-05
+netwon/GMRES   2   4  4.66788095E-10  1.06646744E-08  7.23075984E-05
+netwon/GMRES   3   4  2.72789717E-15  1.18485431E-13  7.23075877E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.44617788E-06
+netwon/GMRES   1   4  3.74334730E-04  1.42641565E-05  7.11332831E-05
+netwon/GMRES   2   4  4.20220525E-10  1.01540554E-08  7.01916434E-05
+netwon/GMRES   3   4  2.03721016E-15  1.06706815E-13  7.01916339E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.42565229E-06
+netwon/GMRES   1   4  3.59786577E-04  1.40654613E-05  6.90744795E-05
+netwon/GMRES   2   4  3.79086118E-10  9.67743447E-09  6.81778456E-05
+netwon/GMRES   3   4  1.99699775E-15  9.63000683E-14  6.81778370E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.40581814E-06
+netwon/GMRES   1   4  3.46058425E-04  1.38733440E-05  6.71140080E-05
+netwon/GMRES   2   4  3.42663499E-10  9.23194172E-09  6.62594191E-05
+netwon/GMRES   3   4  3.05935488E-15  8.70831137E-14  6.62594113E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.38663953E-06
+netwon/GMRES   1   4  3.33090198E-04  1.36874687E-05  6.52454063E-05
+netwon/GMRES   2   4  3.10337861E-10  8.81499849E-09  6.44301475E-05
+netwon/GMRES   3   4  2.60336053E-15  7.89009123E-14  6.44301404E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.36808302E-06
+netwon/GMRES   1   4  3.20827199E-04  1.35075221E-05  6.34627483E-05
+netwon/GMRES   2   4  2.81584652E-10  8.42428311E-09  6.26843262E-05
+netwon/GMRES   3   4  2.34488595E-15  7.16209538E-14  6.26843198E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   1.00000000E+01
+--residual--   0   0  1.35011748E-06
+netwon/GMRES   1   4  3.09219547E-04  1.33332123E-05  6.17605910E-05
+netwon/GMRES   2   4  2.55954727E-10  8.05770110E-09  6.10167120E-05
+netwon/GMRES   3   4  2.38574111E-15  6.51297132E-14  6.10167062E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.66542768E-06
+netwon/GMRES   1   5  2.36020846E-03  5.20462762E-05  2.39584980E-04
+netwon/GMRES   2   4  1.02815035E-08  1.21374710E-07  2.33736769E-04
+netwon/GMRES   3   5  5.32577972E-15  7.51137492E-12  2.33736427E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.59782397E-06
+netwon/GMRES   1   5  2.20039513E-03  5.07673334E-05  2.27048056E-04
+netwon/GMRES   2   4  8.65118533E-09  1.11011968E-07  2.21700510E-04
+netwon/GMRES   3   5  4.43832122E-15  6.22979666E-12  2.21700226E-04
+Update computed in 3 newton steps using 15 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.53424233E-06
+netwon/GMRES   1   5  2.05603509E-03  4.95625057E-05  2.15579360E-04
+netwon/GMRES   2   4  7.32253075E-09  1.01856847E-07  2.10672061E-04
+netwon/GMRES   3   4  6.02517977E-15  5.20017457E-12  2.10671823E-04
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.47432577E-06
+netwon/GMRES   1   5  1.92521933E-03  4.84252297E-05  2.05057958E-04
+netwon/GMRES   2   4  6.23201581E-09  9.37326959E-08  2.00541625E-04
+netwon/GMRES   3   4  6.51695999E-15  4.36675848E-12  2.00541426E-04
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.41775181E-06
+netwon/GMRES   1   5  1.80631960E-03  4.73497139E-05  1.95377494E-04
+netwon/GMRES   2   4  5.33114811E-09  8.64939877E-08  1.91209755E-04
+netwon/GMRES   3   4  6.49468858E-15  3.68747230E-12  1.91209586E-04
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.36423562E-06
+netwon/GMRES   1   5  1.69794261E-03  4.63308263E-05  1.86446442E-04
+netwon/GMRES   2   4  4.58246624E-09  8.00198528E-08  1.82590665E-04
+netwon/GMRES   3   4  4.84977826E-15  3.13022942E-12  1.82590522E-04
+Update computed in 3 newton steps using 14 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.31352456E-06
+netwon/GMRES   1   4  1.59889128E-03  4.53640010E-05  1.78185710E-04
+netwon/GMRES   2   4  3.95675226E-09  7.42091147E-08  1.74610074E-04
+netwon/GMRES   3   4  5.43953413E-15  2.67033171E-12  1.74609952E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.26539367E-06
+netwon/GMRES   1   4  1.50813309E-03  4.44451616E-05  1.70526642E-04
+netwon/GMRES   2   4  3.43105469E-09  6.89765609E-08  1.67203387E-04
+netwon/GMRES   3   4  4.58242174E-15  2.28861023E-12  1.67203282E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.21964196E-06
+netwon/GMRES   1   4  1.42477361E-03  4.35706556E-05  1.63409385E-04
+netwon/GMRES   2   4  2.98717740E-09  6.42500214E-08  1.60314195E-04
+netwon/GMRES   3   4  4.43445427E-15  1.97007458E-12  1.60314104E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.17608922E-06
+netwon/GMRES   1   4  1.34803527E-03  4.27372007E-05  1.56781551E-04
+netwon/GMRES   2   4  2.61062212E-09  5.99680675E-08  1.53893041E-04
+netwon/GMRES   3   4  4.75715248E-15  1.70291802E-12  1.53892962E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.13457341E-06
+netwon/GMRES   1   4  1.27723953E-03  4.19418378E-05  1.50597100E-04
+netwon/GMRES   2   4  2.28975194E-09  5.60781656E-08  1.47896401E-04
+netwon/GMRES   3   4  5.19368282E-15  1.47777873E-12  1.47896333E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.09494836E-06
+netwon/GMRES   1   4  1.21179220E-03  4.11818921E-05  1.44815431E-04
+netwon/GMRES   2   4  2.01518365E-09  5.25351907E-08  1.42285834E-04
+netwon/GMRES   3   4  4.62520441E-15  1.28718663E-12  1.42285775E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.05708185E-06
+netwon/GMRES   1   4  1.15117121E-03  4.04549390E-05  1.39400612E-04
+netwon/GMRES   2   4  1.77929207E-09  4.93002197E-08  1.37027273E-04
+netwon/GMRES   3   4  4.97729841E-15  1.12514531E-12  1.37027222E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  2.02085400E-06
+netwon/GMRES   1   4  1.09491641E-03  3.97587752E-05  1.34320738E-04
+netwon/GMRES   2   4  1.57585968E-09  4.63395478E-08  1.32090431E-04
+netwon/GMRES   3   4  5.42830600E-15  9.86813883E-13  1.32090386E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.98615580E-06
+netwon/GMRES   1   4  1.04262098E-03  3.90913937E-05  1.29547393E-04
+netwon/GMRES   2   4  1.39978000E-09  4.36238792E-08  1.27448300E-04
+netwon/GMRES   3   4  5.91804545E-15  8.68263412E-13  1.27448260E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.95288791E-06
+netwon/GMRES   1   4  9.93924188E-04  3.84509623E-05  1.25055195E-04
+netwon/GMRES   2   4  1.24685623E-09  4.11276613E-08  1.23076723E-04
+netwon/GMRES   3   4  4.32403497E-15  7.66288479E-13  1.23076688E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.92095961E-06
+netwon/GMRES   1   4  9.48505330E-04  3.78358044E-05  1.20821408E-04
+netwon/GMRES   2   4  1.11360711E-09  3.88285309E-08  1.18954042E-04
+netwon/GMRES   3   4  4.38364334E-15  6.78261358E-13  1.18954011E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.89028785E-06
+netwon/GMRES   1   4  9.06078494E-04  3.72443828E-05  1.16825610E-04
+netwon/GMRES   2   4  9.97126268E-10  3.67068538E-08  1.15060778E-04
+netwon/GMRES   3   4  4.57705851E-15  6.02017865E-13  1.15060751E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.86079647E-06
+netwon/GMRES   1   4  8.66388155E-04  3.66752852E-05  1.13049414E-04
+netwon/GMRES   2   4  8.95012800E-10  3.47453393E-08  1.11379378E-04
+netwon/GMRES   3   4  5.62622674E-15  5.35767605E-13  1.11379353E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.83241545E-06
+netwon/GMRES   1   4  8.29205394E-04  3.61272119E-05  1.09476221E-04
+netwon/GMRES   2   4  8.05229801E-10  3.29287162E-08  1.07893980E-04
+netwon/GMRES   3   4  4.35702671E-15  4.78023211E-13  1.07893958E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.80508035E-06
+netwon/GMRES   1   4  7.94324647E-04  3.55989642E-05  1.06091019E-04
+netwon/GMRES   2   4  7.26071951E-10  3.12434595E-08  1.04590221E-04
+netwon/GMRES   3   4  4.78448439E-15  4.27543955E-13  1.04590201E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.77873171E-06
+netwon/GMRES   1   4  7.61560913E-04  3.50894349E-05  1.02880191E-04
+netwon/GMRES   2   4  6.56093704E-10  2.96775590E-08  1.01455066E-04
+netwon/GMRES   3   4  3.76311606E-15  3.83290704E-13  1.01455048E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.75331461E-06
+netwon/GMRES   1   4  7.30747341E-04  3.45975998E-05  9.98313695E-05
+netwon/GMRES   2   4  5.94080983E-10  2.82203223E-08  9.84766620E-05
+netwon/GMRES   3   4  4.32087834E-15  3.44390312E-13  9.84766461E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.72877821E-06
+netwon/GMRES   1   4  7.01733142E-04  3.41225096E-05  9.69332920E-05
+netwon/GMRES   2   4  5.38998691E-10  2.68622074E-08  9.56442076E-05
+netwon/GMRES   3   4  5.66455768E-15  3.10105979E-13  9.56441933E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.70507539E-06
+netwon/GMRES   1   4  6.74381772E-04  3.36632832E-05  9.41756857E-05
+netwon/GMRES   2   4  4.89941023E-10  2.55946787E-08  9.29478421E-05
+netwon/GMRES   3   4  5.71483892E-15  2.79814431E-13  9.29478292E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.68216241E-06
+netwon/GMRES   1   4  6.48569351E-04  3.32191018E-05  9.15491621E-05
+netwon/GMRES   2   4  4.46166069E-10  2.44100842E-08  9.03785468E-05
+netwon/GMRES   3   4  5.62545039E-15  2.52986023E-13  9.03785352E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.65999859E-06
+netwon/GMRES   1   4  6.24183285E-04  3.27892031E-05  8.90451260E-05
+netwon/GMRES   2   4  4.07016021E-10  2.33015486E-08  8.79280586E-05
+netwon/GMRES   3   4  4.46450699E-15  2.29169796E-13  8.79280481E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.63854608E-06
+netwon/GMRES   1   4  6.01121058E-04  3.23728766E-05  8.66556946E-05
+netwon/GMRES   2   4  3.71931453E-10  2.22628825E-08  8.55887941E-05
+netwon/GMRES   3   4  4.70162583E-15  2.07980310E-13  8.55887845E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.61776957E-06
+netwon/GMRES   1   4  5.79289168E-04  3.19694595E-05  8.43736268E-05
+netwon/GMRES   2   4  3.40420108E-10  2.12885021E-08  8.33537820E-05
+netwon/GMRES   3   4  5.80679533E-15  1.89087251E-13  8.33537733E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.59763613E-06
+netwon/GMRES   1   4  5.58602199E-04  3.15783320E-05  8.21922605E-05
+netwon/GMRES   2   4  3.12073325E-10  2.03733609E-08  8.12166043E-05
+netwon/GMRES   3   4  5.53840541E-15  1.72206819E-13  8.12165964E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.57811495E-06
+netwon/GMRES   1   4  5.38981994E-04  3.11989146E-05  8.01054564E-05
+netwon/GMRES   2   4  2.86522778E-10  1.95128891E-08  7.91713428E-05
+netwon/GMRES   3   4  6.22577415E-15  1.57094396E-13  7.91713355E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.55917722E-06
+netwon/GMRES   1   4  5.20356933E-04  3.08306643E-05  7.81075492E-05
+netwon/GMRES   2   4  2.63449585E-10  1.87029417E-08  7.72125327E-05
+netwon/GMRES   3   4  5.15634127E-15  1.43538563E-13  7.72125261E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.54079594E-06
+netwon/GMRES   1   4  5.02661288E-04  3.04730721E-05  7.61933034E-05
+netwon/GMRES   2   4  2.42575187E-10  1.79397519E-08  7.53351209E-05
+netwon/GMRES   3   4  6.45462021E-15  1.31356334E-13  7.53351149E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.52294581E-06
+netwon/GMRES   1   4  4.85834650E-04  3.01256598E-05  7.43578740E-05
+netwon/GMRES   2   4  2.23664264E-10  1.72198917E-08  7.35344282E-05
+netwon/GMRES   3   4  4.95516141E-15  1.20388661E-13  7.35344226E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.50560303E-06
+netwon/GMRES   1   4  4.69821424E-04  2.97879785E-05  7.25967714E-05
+netwon/GMRES   2   4  2.06500107E-10  1.65402358E-08  7.18061163E-05
+netwon/GMRES   3   4  4.69375943E-15  1.10497267E-13  7.18061112E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.48874529E-06
+netwon/GMRES   1   4  4.54570378E-04  2.94596056E-05  7.09058302E-05
+netwon/GMRES   2   4  1.90894774E-10  1.58979307E-08  7.01461579E-05
+netwon/GMRES   3   4  4.20706942E-15  1.01561358E-13  7.01461533E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.47235154E-06
+netwon/GMRES   1   4  4.40034237E-04  2.91401431E-05  6.92811806E-05
+netwon/GMRES   2   4  1.76692012E-10  1.52903672E-08  6.85508098E-05
+netwon/GMRES   3   4  3.87451604E-15  9.34755118E-14  6.85508055E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.45640201E-06
+netwon/GMRES   1   4  4.26169325E-04  2.88292162E-05  6.77192239E-05
+netwon/GMRES   2   4  1.63741436E-10  1.47151559E-08  6.70165887E-05
+netwon/GMRES   3   4  4.17980177E-15  8.61471342E-14  6.70165848E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.44087802E-06
+netwon/GMRES   1   4  4.12935239E-04  2.85264710E-05  6.62166086E-05
+netwon/GMRES   2   4  1.51920417E-10  1.41701059E-08  6.55402494E-05
+netwon/GMRES   3   4  4.21678808E-15  7.94950314E-14  6.55402458E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.42576197E-06
+netwon/GMRES   1   4  4.00294562E-04  2.82315736E-05  6.47702109E-05
+netwon/GMRES   2   4  1.41107975E-10  1.36532050E-08  6.41187655E-05
+netwon/GMRES   3   4  3.10850300E-15  7.34479070E-14  6.41187621E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   2.00000000E+01
+--residual--   0   0  1.41103723E-06
+netwon/GMRES   1   4  3.88212602E-04  2.79442081E-05  6.33771153E-05
+netwon/GMRES   2   4  1.31210011E-10  1.31626033E-08  6.27493110E-05
+netwon/GMRES   3   4  3.93486691E-15  6.79426565E-14  6.27493080E-05
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.49172020E-06
+netwon/GMRES   1   4  5.79584834E-03  1.70549464E-04  3.85956885E-04
+netwon/GMRES   2   4  2.84243730E-08  5.06168996E-07  3.76122702E-04
+netwon/GMRES   3   4  1.48946432E-14  3.91669765E-11  3.76121987E-04
+netwon/GMRES   4   5  1.97406852E-15  1.43765597E-18  3.76121987E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.40344961E-06
+netwon/GMRES   1   4  5.38738209E-03  1.66375319E-04  3.65321528E-04
+netwon/GMRES   2   4  2.39561355E-08  4.61127997E-07  3.56355477E-04
+netwon/GMRES   3   4  1.81097725E-14  3.22196757E-11  3.56354887E-04
+netwon/GMRES   4   5  2.40424062E-15  1.33323392E-18  3.56354887E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.32059870E-06
+netwon/GMRES   1   4  5.01962400E-03  1.62450655E-04  3.46517906E-04
+netwon/GMRES   2   4  2.03084793E-08  4.21562526E-07  3.38314030E-04
+netwon/GMRES   3   4  1.08685834E-14  2.66899151E-11  3.38313540E-04
+netwon/GMRES   4   5  3.09923511E-15  1.20321114E-18  3.38313540E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.24266480E-06
+netwon/GMRES   1   4  4.68740268E-03  1.58752602E-04  3.29326416E-04
+netwon/GMRES   2   4  1.73093451E-08  3.86634864E-07  3.21796445E-04
+netwon/GMRES   3   4  1.55202821E-14  2.22523844E-11  3.21796037E-04
+netwon/GMRES   4   5  2.34161630E-15  1.03854598E-18  3.21796037E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.16920106E-06
+netwon/GMRES   1   4  4.38632784E-03  1.55261091E-04  3.13558231E-04
+netwon/GMRES   2   4  1.48276467E-08  3.55663908E-07  3.06626685E-04
+netwon/GMRES   3   4  1.28226301E-14  1.86646669E-11  3.06626341E-04
+netwon/GMRES   4   5  2.19055646E-15  1.11821863E-18  3.06626341E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.09981472E-06
+netwon/GMRES   1   4  4.11266072E-03  1.51958419E-04  2.99052093E-04
+netwon/GMRES   2   4  1.27619462E-08  3.28088569E-07  2.92654052E-04
+netwon/GMRES   3   4  2.07672018E-14  1.57438325E-11  2.92653762E-04
+netwon/GMRES   4   5  2.45111111E-15  7.68024549E-19  2.92653762E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  3.03415894E-06
+netwon/GMRES   1   4  3.86320389E-03  1.48828902E-04  2.85669600E-04
+netwon/GMRES   2   4  1.10329873E-08  3.03442667E-07  2.79748945E-04
+netwon/GMRES   3   4  1.72810247E-14  1.33504499E-11  2.79748699E-04
+netwon/GMRES   4   4  2.27168444E-15  1.00499781E-18  2.79748699E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.97192608E-06
+netwon/GMRES   1   4  3.63521072E-03  1.45858592E-04  2.73291365E-04
+netwon/GMRES   2   4  9.57834569E-09  2.81336252E-07  2.67799362E-04
+netwon/GMRES   3   4  1.68020870E-14  1.13772991E-11  2.67799152E-04
+netwon/GMRES   4   5  3.00720686E-15  8.33118460E-19  2.67799152E-04
+Update computed in 4 newton steps using 18 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.91284227E-06
+netwon/GMRES   1   4  3.42631170E-03  1.43035036E-04  2.61813915E-04
+netwon/GMRES   2   4  8.34847996E-09  2.61441202E-07  2.56708055E-04
+netwon/GMRES   3   4  1.58534842E-14  9.74125914E-12  2.56707876E-04
+netwon/GMRES   4   4  2.15467976E-15  1.18021088E-18  2.56707876E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.85666278E-06
+netwon/GMRES   1   4  3.23445412E-03  1.40347078E-04  2.51147160E-04
+netwon/GMRES   2   4  7.30384064E-09  2.43479915E-07  2.46390216E-04
+netwon/GMRES   3   4  1.48916312E-14  8.37739738E-12  2.46390061E-04
+netwon/GMRES   4   4  2.42519846E-15  8.22852807E-19  2.46390061E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.80316818E-06
+netwon/GMRES   1   4  3.05785278E-03  1.37784692E-04  2.41212327E-04
+netwon/GMRES   2   4  6.41264824E-09  2.27216337E-07  2.36771572E-04
+netwon/GMRES   3   4  1.71529467E-14  7.23462808E-12  2.36771439E-04
+netwon/GMRES   4   4  4.10723266E-15  8.44342960E-19  2.36771439E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.75216112E-06
+netwon/GMRES   1   4  2.89494930E-03  1.35338842E-04  2.31940270E-04
+netwon/GMRES   2   4  5.64918946E-09  2.12448795E-07  2.27786827E-04
+netwon/GMRES   3   4  1.74949841E-14  6.27248812E-12  2.27786711E-04
+netwon/GMRES   4   4  2.15989251E-15  7.44615977E-19  2.27786711E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.70346357E-06
+netwon/GMRES   1   4  2.74437846E-03  1.33001356E-04  2.23270056E-04
+netwon/GMRES   2   4  4.99258089E-09  1.99004212E-07  2.19378361E-04
+netwon/GMRES   3   4  1.39892697E-14  5.45872229E-12  2.19378260E-04
+netwon/GMRES   4   4  2.08101831E-15  8.82859139E-19  2.19378260E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.65691448E-06
+netwon/GMRES   1   4  2.60494026E-03  1.30764828E-04  2.15147806E-04
+netwon/GMRES   2   4  4.42574062E-09  1.86733431E-07  2.11495152E-04
+netwon/GMRES   3   4  1.52993468E-14  4.76746521E-12  2.11495064E-04
+netwon/GMRES   4   4  1.87369789E-15  8.11246577E-19  2.11495064E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.61236775E-06
+netwon/GMRES   1   4  2.47557655E-03  1.28622528E-04  2.07525715E-04
+netwon/GMRES   2   4  3.93464751E-09  1.75507392E-07  2.04091873E-04
+netwon/GMRES   3   4  1.35581554E-14  4.17785486E-12  2.04091795E-04
+netwon/GMRES   4   4  2.50065748E-15  8.99001923E-19  2.04091795E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.56969055E-06
+netwon/GMRES   1   4  2.35535137E-03  1.26568323E-04  2.00361236E-04
+netwon/GMRES   2   4  3.50773541E-09  1.65214005E-07  1.97128129E-04
+netwon/GMRES   3   4  1.78890346E-14  3.67297442E-12  1.97128061E-04
+netwon/GMRES   4   4  2.13313322E-15  1.01411135E-18  1.97128061E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.52876177E-06
+netwon/GMRES   1   4  2.24343448E-03  1.24596614E-04  1.93616383E-04
+netwon/GMRES   2   4  3.13541510E-09  1.55755571E-07  1.90567816E-04
+netwon/GMRES   3   4  1.21119844E-14  3.23903464E-12  1.90567756E-04
+netwon/GMRES   4   4  2.44837586E-15  9.02286382E-19  1.90567756E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.48947079E-06
+netwon/GMRES   1   4  2.13908738E-03  1.22702276E-04  1.87257151E-04
+netwon/GMRES   2   4  2.80969285E-09  1.47046639E-07  1.84378574E-04
+netwon/GMRES   3   4  1.31323574E-14  2.86474159E-12  1.84378521E-04
+netwon/GMRES   4   4  2.94850351E-15  9.67671407E-19  1.84378521E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.45171632E-06
+netwon/GMRES   1   4  2.04165138E-03  1.20880611E-04  1.81253011E-04
+netwon/GMRES   2   4  2.52388569E-09  1.39012236E-07  1.78531321E-04
+netwon/GMRES   3   4  1.78396612E-14  2.54080085E-12  1.78531274E-04
+netwon/GMRES   4   4  2.32479943E-15  7.67762145E-19  1.78531274E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.41540543E-06
+netwon/GMRES   1   4  1.95053757E-03  1.19127301E-04  1.75576489E-04
+netwon/GMRES   2   4  2.27239965E-09  1.31586372E-07  1.72999857E-04
+netwon/GMRES   3   4  1.30077768E-14  2.25952883E-12  1.72999815E-04
+netwon/GMRES   4   4  2.46019262E-15  5.92864111E-19  1.72999815E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.38045271E-06
+netwon/GMRES   1   4  1.86521809E-03  1.17438372E-04  1.70202795E-04
+netwon/GMRES   2   4  2.05048808E-09  1.24710798E-07  1.67760517E-04
+netwon/GMRES   3   4  2.06337198E-14  2.01454813E-12  1.67760480E-04
+netwon/GMRES   4   4  2.11116087E-15  8.44654046E-19  1.67760480E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.34677949E-06
+netwon/GMRES   1   4  1.78521872E-03  1.15810157E-04  1.65109513E-04
+netwon/GMRES   2   4  1.85421389E-09  1.18333954E-07  1.62791883E-04
+netwon/GMRES   3   4  9.85216607E-15  1.80054184E-12  1.62791850E-04
+Update computed in 3 newton steps using 13 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.31431318E-06
+netwon/GMRES   1   4  1.71011252E-03  1.14239270E-04  1.60276325E-04
+netwon/GMRES   2   4  1.68012068E-09  1.12410074E-07  1.58074521E-04
+netwon/GMRES   3   4  1.40182428E-14  1.61306217E-12  1.58074491E-04
+netwon/GMRES   4   4  3.04430138E-15  6.87407157E-19  1.58074491E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.28298670E-06
+netwon/GMRES   1   4  1.63951425E-03  1.12722576E-04  1.55684774E-04
+netwon/GMRES   2   4  1.52537726E-09  1.06898434E-07  1.53590766E-04
+netwon/GMRES   3   4  1.02324556E-14  1.44837225E-12  1.53590739E-04
+netwon/GMRES   4   4  2.22209328E-15  6.11943322E-19  1.53590739E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.25273796E-06
+netwon/GMRES   1   4  1.57307562E-03  1.11257172E-04  1.51318064E-04
+netwon/GMRES   2   4  1.38748868E-09  1.01762707E-07  1.49324525E-04
+netwon/GMRES   3   4  1.39886113E-14  1.30332246E-12  1.49324501E-04
+netwon/GMRES   4   4  2.63768034E-15  5.64194425E-19  1.49324501E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.22350939E-06
+netwon/GMRES   1   4  1.51048112E-03  1.09840361E-04  1.47160877E-04
+netwon/GMRES   2   4  1.26436567E-09  9.69704126E-08  1.45261110E-04
+netwon/GMRES   3   4  1.84047970E-14  1.17524862E-12  1.45261088E-04
+netwon/GMRES   4   4  2.46052384E-15  7.53170074E-19  1.45261088E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.19524753E-06
+netwon/GMRES   1   4  1.45144438E-03  1.08469636E-04  1.43199217E-04
+netwon/GMRES   2   4  1.15415726E-09  9.24924414E-08  1.41387090E-04
+netwon/GMRES   3   4  1.67182852E-14  1.06189053E-12  1.41387070E-04
+netwon/GMRES   4   4  2.98541859E-15  5.67652275E-19  1.41387070E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.16790268E-06
+netwon/GMRES   1   4  1.39570504E-03  1.07142664E-04  1.39420274E-04
+netwon/GMRES   2   4  1.05532690E-09  8.83026516E-08  1.37690163E-04
+netwon/GMRES   3   4  1.69463922E-14  9.61323425E-13  1.37690145E-04
+netwon/GMRES   4   4  3.94821690E-15  6.98236982E-19  1.37690145E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.14142854E-06
+netwon/GMRES   1   4  1.34302594E-03  1.05857270E-04  1.35812302E-04
+netwon/GMRES   2   4  9.66546472E-10  8.43775159E-08  1.34159040E-04
+netwon/GMRES   3   4  1.69035388E-14  8.71903325E-13  1.34159024E-04
+netwon/GMRES   4   4  2.25836469E-15  6.07334731E-19  1.34159024E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.11578195E-06
+netwon/GMRES   1   4  1.29319071E-03  1.04611423E-04  1.32364514E-04
+netwon/GMRES   2   4  8.86609980E-10  8.06958181E-08  1.30783347E-04
+netwon/GMRES   3   4  2.21445610E-14  7.92222797E-13  1.30783332E-04
+netwon/GMRES   4   4  3.37994273E-15  8.60648908E-19  1.30783332E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.09092263E-06
+netwon/GMRES   1   4  1.24600164E-03  1.03403226E-04  1.29066986E-04
+netwon/GMRES   2   3  8.13983962E-10  7.72383690E-08  1.27553533E-04
+netwon/GMRES   3   4  1.81656835E-14  7.39108693E-13  1.27553519E-04
+netwon/GMRES   4   4  2.91264493E-15  7.78253346E-19  1.27553519E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.06681290E-06
+netwon/GMRES   1   4  1.20127776E-03  1.02230903E-04  1.25910574E-04
+netwon/GMRES   2   3  7.48809546E-10  7.39878579E-08  1.24460792E-04
+netwon/GMRES   3   4  1.77999202E-14  6.73852754E-13  1.24460780E-04
+netwon/GMRES   4   4  2.95080383E-15  6.63877888E-19  1.24460780E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.04341752E-06
+netwon/GMRES   1   4  1.15885317E-03  1.01092792E-04  1.22886844E-04
+netwon/GMRES   2   3  6.89816184E-10  7.09285279E-08  1.21496996E-04
+netwon/GMRES   3   4  1.80418857E-14  6.15325772E-13  1.21496984E-04
+netwon/GMRES   4   4  2.27388420E-15  8.91339199E-19  1.21496984E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  2.02070345E-06
+netwon/GMRES   1   4  1.11857560E-03  9.99873335E-05  1.19988000E-04
+netwon/GMRES   2   3  6.36327533E-10  6.80460855E-08  1.18654627E-04
+netwon/GMRES   3   4  2.01137345E-14  5.62737992E-13  1.18654616E-04
+netwon/GMRES   4   4  2.65993014E-15  6.49596710E-19  1.18654616E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.99863972E-06
+netwon/GMRES   1   4  1.08030507E-03  9.89130621E-05  1.17206828E-04
+netwon/GMRES   2   3  5.87763417E-10  6.53275248E-08  1.15926726E-04
+netwon/GMRES   3   4  1.95610832E-14  5.15402477E-13  1.15926716E-04
+netwon/GMRES   4   4  2.17959588E-15  8.57577708E-19  1.15926716E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.97719722E-06
+netwon/GMRES   1   4  1.04391272E-03  9.78686021E-05  1.14536647E-04
+netwon/GMRES   2   3  5.43607346E-10  6.27609928E-08  1.13306842E-04
+netwon/GMRES   3   4  1.36663152E-14  4.72722180E-13  1.13306833E-04
+netwon/GMRES   4   4  2.91310036E-15  6.01236653E-19  1.13306833E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.95634862E-06
+netwon/GMRES   1   4  1.00927977E-03  9.68526588E-05  1.11971256E-04
+netwon/GMRES   2   3  5.03388160E-10  6.03356702E-08  1.10788984E-04
+netwon/GMRES   3   4  1.08864179E-14  4.34175292E-13  1.10788976E-04
+netwon/GMRES   4   4  1.79597405E-15  5.13433300E-19  1.10788976E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.93606818E-06
+netwon/GMRES   1   4  9.76296618E-04  9.58640131E-05  1.09504895E-04
+netwon/GMRES   2   3  4.66685558E-10  5.80416664E-08  1.08367588E-04
+netwon/GMRES   3   4  1.21648824E-14  3.99305233E-13  1.08367580E-04
+netwon/GMRES   4   4  2.63028712E-15  9.16925173E-19  1.08367580E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.91633167E-06
+netwon/GMRES   1   4  9.44861963E-04  9.49015159E-05  1.07132209E-04
+netwon/GMRES   2   3  4.33181553E-10  5.58699265E-08  1.06037473E-04
+netwon/GMRES   3   4  1.13920598E-14  3.67712915E-13  1.06037466E-04
+netwon/GMRES   4   4  2.90415607E-15  5.95710240E-19  1.06037466E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.89711624E-06
+netwon/GMRES   1   4  9.14882101E-04  9.39640830E-05  1.04848210E-04
+netwon/GMRES   2   3  4.02515666E-10  5.38121492E-08  1.03793815E-04
+netwon/GMRES   3   4  1.05321181E-14  3.39046606E-13  1.03793809E-04
+netwon/GMRES   4   4  2.01603062E-15  7.70366589E-19  1.03793809E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.87840034E-06
+netwon/GMRES   1   4  8.86270239E-04  9.30506906E-05  1.02648250E-04
+netwon/GMRES   2   3  3.74436888E-10  5.18607137E-08  1.01632113E-04
+netwon/GMRES   3   4  1.44980826E-14  3.12997402E-13  1.01632107E-04
+netwon/GMRES   4   4  2.25853707E-15  5.89469352E-19  1.01632107E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.86016359E-06
+netwon/GMRES   1   4  8.58945899E-04  9.21603712E-05  1.00527990E-04
+netwon/GMRES   2   3  3.48695186E-10  5.00086144E-08  9.95481664E-05
+netwon/GMRES   3   4  1.34805092E-14  2.89292335E-13  9.95481610E-05
+netwon/GMRES   4   4  2.20985759E-15  7.00479486E-19  9.95481610E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.84238676E-06
+netwon/GMRES   1   4  8.32834373E-04  9.12922097E-05  9.84833781E-05
+netwon/GMRES   2   3  3.25052045E-10  4.82494031E-08  9.75380479E-05
+netwon/GMRES   3   4  1.57287329E-14  2.67691301E-13  9.75380430E-05
+netwon/GMRES   4   4  2.10254857E-15  6.97154796E-19  9.75380430E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.82505165E-06
+netwon/GMRES   1   4  8.07866242E-04  9.04453395E-05  9.65106233E-05
+netwon/GMRES   2   3  3.03316043E-10  4.65771373E-08  9.55980840E-05
+netwon/GMRES   3   4  9.88708776E-15  2.47981168E-13  9.55980794E-05
+Update computed in 3 newton steps using 12 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.80814100E-06
+netwon/GMRES   1   4  7.83976930E-04  8.96189400E-05  9.46061785E-05
+netwon/GMRES   2   3  2.83297321E-10  4.49863341E-08  9.37248342E-05
+netwon/GMRES   3   4  1.23404413E-14  2.29972858E-13  9.37248299E-05
+netwon/GMRES   4   4  2.66756868E-15  6.52919853E-19  9.37248299E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.79163850E-06
+netwon/GMRES   1   4  7.61106310E-04  8.88122329E-05  9.27667196E-05
+netwon/GMRES   2   3  2.64878932E-10  4.34719283E-08  9.19150733E-05
+netwon/GMRES   3   4  1.94364214E-14  2.13498632E-13  9.19150694E-05
+netwon/GMRES   4   4  4.19748549E-15  5.79481936E-19  9.19150694E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.77552865E-06
+netwon/GMRES   1   4  7.39198342E-04  8.80244798E-05  9.09891288E-05
+netwon/GMRES   2   3  2.47849836E-10  4.20292356E-08  9.01657755E-05
+netwon/GMRES   3   4  1.53995817E-14  1.98409628E-13  9.01657718E-05
+netwon/GMRES   4   4  2.29676330E-15  4.46159373E-19  9.01657718E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.75979677E-06
+netwon/GMRES   1   4  7.18200743E-04  8.72549796E-05  8.92704797E-05
+netwon/GMRES   2   3  2.32152817E-10  4.06539188E-08  8.84740989E-05
+netwon/GMRES   3   4  1.51573806E-14  1.84572205E-13  8.84740955E-05
+netwon/GMRES   4   4  2.88334538E-15  5.09329097E-19  8.84740955E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.74442888E-06
+netwon/GMRES   1   4  6.98064698E-04  8.65030661E-05  8.76080225E-05
+netwon/GMRES   2   3  2.17617290E-10  3.93419584E-08  8.68373725E-05
+netwon/GMRES   3   4  1.07935382E-14  1.71868466E-13  8.68373693E-05
+netwon/GMRES   4   4  2.60730085E-15  6.17225529E-19  8.68373693E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.72941173E-06
+netwon/GMRES   1   4  6.78744580E-04  8.57681059E-05  8.59991712E-05
+netwon/GMRES   2   3  2.04174970E-10  3.80896247E-08  8.52530833E-05
+netwon/GMRES   3   4  1.39314294E-14  1.60191585E-13  8.52530803E-05
+netwon/GMRES   4   4  1.65625428E-15  5.17220340E-19  8.52530803E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.71473271E-06
+netwon/GMRES   1   4  6.60197712E-04  8.50494962E-05  8.44414921E-05
+netwon/GMRES   2   3  1.91726724E-10  3.68934537E-08  8.37188653E-05
+netwon/GMRES   3   4  1.16146373E-14  1.49447304E-13  8.37188626E-05
+netwon/GMRES   4   4  2.26731923E-15  5.81494297E-19  8.37188626E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.70037981E-06
+netwon/GMRES   1   4  6.42384138E-04  8.43466632E-05  8.29326928E-05
+netwon/GMRES   2   3  1.80175176E-10  3.57502252E-08  8.22324892E-05
+netwon/GMRES   3   4  1.48595329E-14  1.39550400E-13  8.22324866E-05
+netwon/GMRES   4   4  2.34257489E-15  5.32545241E-19  8.22324866E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.68634162E-06
+netwon/GMRES   1   4  6.25266422E-04  8.36590602E-05  8.14706119E-05
+netwon/GMRES   2   3  1.69462241E-10  3.46569423E-08  8.07918524E-05
+netwon/GMRES   3   4  1.22522483E-14  1.30424256E-13  8.07918499E-05
+netwon/GMRES   4   4  2.26047339E-15  6.02012462E-19  8.07918499E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.67260724E-06
+netwon/GMRES   1   4  6.08809459E-04  8.29861662E-05  8.00532107E-05
+netwon/GMRES   2   3  1.59503338E-10  3.36108137E-08  7.93949706E-05
+netwon/GMRES   3   4  1.15986790E-14  1.22000325E-13  7.93949683E-05
+netwon/GMRES   4   4  2.45559913E-15  6.10803063E-19  7.93949683E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.65916629E-06
+netwon/GMRES   1   4  5.92980303E-04  8.23274839E-05  7.86785640E-05
+netwon/GMRES   2   3  1.50251343E-10  3.26092369E-08  7.80399697E-05
+netwon/GMRES   3   4  1.08087770E-14  1.14216799E-13  7.80399676E-05
+netwon/GMRES   4   4  2.79832413E-15  6.97906920E-19  7.80399676E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.64600887E-06
+netwon/GMRES   1   4  5.77748014E-04  8.16825390E-05  7.73448529E-05
+netwon/GMRES   2   3  1.41619480E-10  3.16497835E-08  7.67250784E-05
+netwon/GMRES   3   4  1.56549950E-14  1.07018261E-13  7.67250764E-05
+netwon/GMRES   4   4  2.10376862E-15  6.59685968E-19  7.67250764E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.63312553E-06
+netwon/GMRES   1   4  5.63083512E-04  8.10508785E-05  7.60503576E-05
+netwon/GMRES   2   3  1.33596116E-10  3.07301854E-08  7.54486212E-05
+netwon/GMRES   3   4  1.51769333E-14  1.00354076E-13  7.54486194E-05
+netwon/GMRES   4   4  1.92518185E-15  5.64080272E-19  7.54486194E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.62050725E-06
+netwon/GMRES   1   4  5.48959444E-04  8.04320694E-05  7.47934506E-05
+netwon/GMRES   2   3  1.26110730E-10  2.98483227E-08  7.42090124E-05
+netwon/GMRES   3   4  1.39810529E-14  9.41789379E-14  7.42090107E-05
+netwon/GMRES   4   4  1.70650089E-15  5.28491923E-19  7.42090107E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.60814539E-06
+netwon/GMRES   1   4  5.35350068E-04  7.98256979E-05  7.35725913E-05
+netwon/GMRES   2   3  1.19120338E-10  2.90022120E-08  7.30047499E-05
+netwon/GMRES   3   4  1.53877072E-14  8.84519996E-14  7.30047483E-05
+netwon/GMRES   4   4  1.89631053E-15  5.99628251E-19  7.30047483E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.59603172E-06
+netwon/GMRES   1   4  5.22231135E-04  7.92313682E-05  7.23863196E-05
+netwon/GMRES   2   3  1.12596548E-10  2.81899962E-08  7.18344103E-05
+netwon/GMRES   3   4  1.71534295E-14  8.31356170E-14  7.18344088E-05
+netwon/GMRES   4   4  2.64138562E-15  4.70149631E-19  7.18344088E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.58415835E-06
+netwon/GMRES   1   4  5.09579791E-04  7.86487014E-05  7.12332513E-05
+netwon/GMRES   2   3  1.06497652E-10  2.74099354E-08  7.06966434E-05
+netwon/GMRES   3   4  1.53949651E-14  7.81964344E-14  7.06966420E-05
+netwon/GMRES   4   4  2.67290353E-15  6.56515694E-19  7.06966420E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.57251772E-06
+netwon/GMRES   1   4  4.97374484E-04  7.80773348E-05  7.01120735E-05
+netwon/GMRES   2   3  1.00799260E-10  2.66603979E-08  6.95901682E-05
+netwon/GMRES   3   4  1.82084947E-14  7.36035034E-14  6.95901668E-05
+netwon/GMRES   4   4  2.74671381E-15  4.78880211E-19  6.95901668E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.56110260E-06
+netwon/GMRES   1   4  4.85594872E-04  7.75169210E-05  6.90215394E-05
+netwon/GMRES   2   3  9.54562752E-11  2.59398525E-08  6.85137679E-05
+netwon/GMRES   3   4  1.43867138E-14  6.93294535E-14  6.85137667E-05
+netwon/GMRES   4   4  2.98159351E-15  4.34074415E-19  6.85137667E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.54990608E-06
+netwon/GMRES   1   4  4.74221745E-04  7.69671268E-05  6.79604649E-05
+netwon/GMRES   2   3  9.04553910E-11  2.52468611E-08  6.74662868E-05
+netwon/GMRES   3   4  1.38845575E-14  6.53484567E-14  6.74662856E-05
+netwon/GMRES   4   4  2.52665572E-15  5.73155797E-19  6.74662856E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.53892152E-06
+netwon/GMRES   1   4  4.63236953E-04  7.64276330E-05  6.69277248E-05
+netwon/GMRES   2   3  8.57717627E-11  2.45800723E-08  6.64466260E-05
+netwon/GMRES   3   4  1.61676979E-14  6.16376925E-14  6.64466248E-05
+netwon/GMRES   4   4  2.67139002E-15  5.87689524E-19  6.64466248E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.52814254E-06
+netwon/GMRES   1   4  4.52623334E-04  7.58981332E-05  6.59222486E-05
+netwon/GMRES   2   3  8.13820632E-11  2.39382151E-08  6.54537400E-05
+netwon/GMRES   3   4  1.15398840E-14  5.81759372E-14  6.54537389E-05
+netwon/GMRES   4   4  4.05131575E-15  6.95754181E-19  6.54537389E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.51756304E-06
+netwon/GMRES   1   4  4.42364652E-04  7.53783334E-05  6.49430181E-05
+netwon/GMRES   2   3  7.72441779E-11  2.33200932E-08  6.44866340E-05
+netwon/GMRES   3   4  1.42169076E-14  5.49442826E-14  6.44866330E-05
+netwon/GMRES   4   4  2.22762194E-15  5.43476514E-19  6.44866330E-05
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   5.00000000E+01
+--residual--   0   0  1.50717716E-06
+netwon/GMRES   1   4  4.32445538E-04  7.48679511E-05  6.39890637E-05
+netwon/GMRES   2   3  7.33678954E-11  2.27245802E-08  6.35443605E-05
+netwon/GMRES   3   3  1.35369122E-14  5.19250695E-14  6.35443595E-05
+netwon/GMRES   4   4  1.88859609E-15  5.57516056E-19  6.35443595E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.99395854E-06
+netwon/GMRES   1   4  3.35205527E-03  2.95630507E-04  2.51834184E-04
+netwon/GMRES   2   4  4.49629735E-09  3.62761819E-07  2.48266167E-04
+netwon/GMRES   3   4  4.48628868E-14  6.32728835E-12  2.48266108E-04
+netwon/GMRES   4   4  9.26193368E-15  2.64941847E-18  2.48266108E-04
+Update computed in 4 newton steps using 17 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.95340408E-06
+netwon/GMRES   1   4  3.20806869E-03  2.91704657E-04  2.44422409E-04
+netwon/GMRES   2   3  4.10049975E-09  3.44325764E-07  2.41034977E-04
+netwon/GMRES   3   4  3.33672207E-14  5.69219917E-12  2.41034924E-04
+netwon/GMRES   4   4  3.55919530E-15  2.34949421E-18  2.41034924E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.91428698E-06
+netwon/GMRES   1   4  3.07303528E-03  2.87915591E-04  2.37385957E-04
+netwon/GMRES   2   3  3.71946698E-09  3.27203852E-07  2.34166130E-04
+netwon/GMRES   3   4  4.13004958E-14  5.10331532E-12  2.34166082E-04
+netwon/GMRES   4   4  6.48331577E-15  2.04053887E-18  2.34166082E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.87652803E-06
+netwon/GMRES   1   4  2.94624231E-03  2.84255785E-04  2.30698476E-04
+netwon/GMRES   2   3  3.38040465E-09  3.11275953E-07  2.27634639E-04
+netwon/GMRES   3   4  3.18059361E-14  4.58589754E-12  2.27634596E-04
+netwon/GMRES   4   4  3.81809378E-15  2.17754717E-18  2.27634596E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.84005284E-06
+netwon/GMRES   1   4  2.82704520E-03  2.80718272E-04  2.24335661E-04
+netwon/GMRES   2   3  3.07802780E-09  2.96436015E-07  2.21417226E-04
+netwon/GMRES   3   4  2.76416160E-14  4.13005428E-12  2.21417188E-04
+netwon/GMRES   4   4  4.77875142E-15  1.99889440E-18  2.21417188E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.80479251E-06
+netwon/GMRES   1   4  2.71486012E-03  2.77296593E-04  2.18275367E-04
+netwon/GMRES   2   3  2.80773310E-09  2.82589376E-07  2.15492659E-04
+netwon/GMRES   3   4  2.24651871E-14  3.72742605E-12  2.15492624E-04
+netwon/GMRES   4   4  4.22001845E-15  2.39522535E-18  2.15492624E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.77068312E-06
+netwon/GMRES   1   4  2.60915734E-03  2.73984746E-04  2.12497371E-04
+netwon/GMRES   2   3  2.56561547E-09  2.69651302E-07  2.09841536E-04
+netwon/GMRES   3   4  4.15247028E-14  3.37092148E-12  2.09841505E-04
+netwon/GMRES   4   4  7.05601856E-15  2.20206168E-18  2.09841505E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.73766527E-06
+netwon/GMRES   1   4  2.50945539E-03  2.70777151E-04  2.06983180E-04
+netwon/GMRES   2   3  2.34827048E-09  2.57545786E-07  2.04446099E-04
+netwon/GMRES   3   4  3.94551728E-14  3.05450764E-12  2.04446070E-04
+netwon/GMRES   4   4  6.30792339E-15  1.76061613E-18  2.04446070E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.70568369E-06
+netwon/GMRES   1   4  2.41531601E-03  2.67668609E-04  2.01715844E-04
+netwon/GMRES   2   3  2.15283935E-09  2.46204502E-07  1.99290061E-04
+netwon/GMRES   3   4  4.33798015E-14  2.77303307E-12  1.99290035E-04
+netwon/GMRES   4   4  6.33187953E-15  1.80890565E-18  1.99290035E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.67468689E-06
+netwon/GMRES   1   4  2.32633966E-03  2.64654270E-04  1.96679807E-04
+netwon/GMRES   2   3  1.97672998E-09  2.35565896E-07  1.94358460E-04
+netwon/GMRES   3   4  2.99499048E-14  2.52208847E-12  1.94358437E-04
+netwon/GMRES   4   4  5.29161260E-15  1.99205759E-18  1.94358437E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.64462682E-06
+netwon/GMRES   1   4  2.24216149E-03  2.61729606E-04  1.91860763E-04
+netwon/GMRES   2   3  1.81767983E-09  2.25574409E-07  1.89637533E-04
+netwon/GMRES   3   4  3.85213629E-14  2.29788899E-12  1.89637512E-04
+netwon/GMRES   4   4  7.56549742E-15  1.97386900E-18  1.89637512E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.61545861E-06
+netwon/GMRES   1   4  2.16244792E-03  2.58890383E-04  1.87245540E-04
+netwon/GMRES   2   3  1.67388420E-09  2.16179788E-07  1.85114594E-04
+netwon/GMRES   3   4  3.28921427E-14  2.09717274E-12  1.85114574E-04
+netwon/GMRES   4   4  6.47827473E-15  1.62640461E-18  1.85114574E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.58714028E-06
+netwon/GMRES   1   4  2.08689344E-03  2.56132638E-04  1.82821989E-04
+netwon/GMRES   2   3  1.54359876E-09  2.07336498E-07  1.80777937E-04
+netwon/GMRES   3   4  4.01403712E-14  1.91712544E-12  1.80777919E-04
+netwon/GMRES   4   4  5.48904755E-15  1.76162958E-18  1.80777919E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.55963253E-06
+netwon/GMRES   1   4  2.01521791E-03  2.53452654E-04  1.78578889E-04
+netwon/GMRES   2   3  1.42538871E-09  1.99003208E-07  1.76616742E-04
+netwon/GMRES   3   4  3.03790646E-14  1.75531016E-12  1.76616726E-04
+netwon/GMRES   4   4  4.45116716E-15  2.25381003E-18  1.76616726E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.53289851E-06
+netwon/GMRES   1   4  1.94716407E-03  2.50846948E-04  1.74505862E-04
+netwon/GMRES   2   3  1.31795857E-09  1.91142333E-07  1.72620998E-04
+netwon/GMRES   3   4  2.70391575E-14  1.60961397E-12  1.72620983E-04
+netwon/GMRES   4   4  5.22273090E-15  1.47120680E-18  1.72620983E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.50690366E-06
+netwon/GMRES   1   4  1.88249539E-03  2.48312247E-04  1.70593298E-04
+netwon/GMRES   2   3  1.22014787E-09  1.83719645E-07  1.68781427E-04
+netwon/GMRES   3   4  3.89187126E-14  1.47819676E-12  1.68781413E-04
+netwon/GMRES   4   4  5.98436651E-15  1.74444122E-18  1.68781413E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.48161550E-06
+netwon/GMRES   1   4  1.82099407E-03  2.45845474E-04  1.66832285E-04
+netwon/GMRES   2   3  1.13096967E-09  1.76703917E-07  1.65089423E-04
+netwon/GMRES   3   4  3.95550838E-14  1.35945517E-12  1.65089410E-04
+netwon/GMRES   4   4  6.99473343E-15  2.14143739E-18  1.65089410E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.45700350E-06
+netwon/GMRES   1   4  1.76245935E-03  2.43443736E-04  1.63214553E-04
+netwon/GMRES   2   3  1.04957434E-09  1.70066624E-07  1.61536991E-04
+netwon/GMRES   3   4  4.60017571E-14  1.25198711E-12  1.61536980E-04
+netwon/GMRES   4   4  5.90394805E-15  1.85094031E-18  1.61536980E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.43303893E-06
+netwon/GMRES   1   4  1.70670594E-03  2.41104309E-04  1.59732413E-04
+netwon/GMRES   2   3  9.75150864E-10  1.63781668E-07  1.58116700E-04
+netwon/GMRES   3   4  3.24823031E-14  1.15456565E-12  1.58116689E-04
+netwon/GMRES   4   4  4.96953700E-15  1.96265048E-18  1.58116689E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.40969476E-06
+netwon/GMRES   1   4  1.65356260E-03  2.38824626E-04  1.56378715E-04
+netwon/GMRES   2   3  9.06986630E-10  1.57825138E-07  1.54821631E-04
+netwon/GMRES   3   4  2.36369150E-14  1.06611449E-12  1.54821621E-04
+netwon/GMRES   4   4  7.50278072E-15  1.52460753E-18  1.54821621E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.38694548E-06
+netwon/GMRES   1   4  1.60287092E-03  2.36602267E-04  1.53146803E-04
+netwon/GMRES   2   3  8.44494410E-10  1.52175099E-07  1.51645341E-04
+netwon/GMRES   3   4  2.49502803E-14  9.85685504E-13  1.51645332E-04
+netwon/GMRES   4   4  4.19266314E-15  1.94145717E-18  1.51645332E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.36476707E-06
+netwon/GMRES   1   4  1.55448420E-03  2.34434951E-04  1.50030473E-04
+netwon/GMRES   2   3  7.87159817E-10  1.46811405E-07  1.48581825E-04
+netwon/GMRES   3   4  2.98047605E-14  9.12443820E-13  1.48581816E-04
+netwon/GMRES   4   4  5.21517950E-15  1.66183631E-18  1.48581816E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.34313687E-06
+netwon/GMRES   1   4  1.50826639E-03  2.32320526E-04  1.47023942E-04
+netwon/GMRES   2   3  7.34497216E-10  1.41715529E-07  1.45625480E-04
+netwon/GMRES   3   4  2.76787834E-14  8.45652930E-13  1.45625473E-04
+netwon/GMRES   4   4  3.69488221E-15  2.08672701E-18  1.45625473E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.32203350E-06
+netwon/GMRES   1   4  1.46409124E-03  2.30256962E-04  1.44121815E-04
+netwon/GMRES   2   3  6.86008216E-10  1.36870417E-07  1.42771079E-04
+netwon/GMRES   3   4  3.43150864E-14  7.84660690E-13  1.42771072E-04
+netwon/GMRES   4   4  4.55233618E-15  1.61468515E-18  1.42771072E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.30143679E-06
+netwon/GMRES   1   4  1.42184144E-03  2.28242346E-04  1.41319060E-04
+netwon/GMRES   2   3  6.41303817E-10  1.32260352E-07  1.40013742E-04
+netwon/GMRES   3   4  2.96559197E-14  7.28890032E-13  1.40013735E-04
+netwon/GMRES   4   4  4.68484895E-15  1.58283583E-18  1.40013735E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.28132772E-06
+netwon/GMRES   1   4  1.38140790E-03  2.26274873E-04  1.38610979E-04
+netwon/GMRES   2   3  6.00092663E-10  1.27870838E-07  1.37348913E-04
+netwon/GMRES   3   4  4.70840933E-14  6.77827103E-13  1.37348907E-04
+netwon/GMRES   4   4  5.94298748E-15  1.86372217E-18  1.37348907E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.26168835E-06
+netwon/GMRES   1   4  1.34268904E-03  2.24352845E-04  1.35993189E-04
+netwon/GMRES   2   3  5.62056776E-10  1.23688493E-07  1.34772339E-04
+netwon/GMRES   3   4  4.29225998E-14  6.31017176E-13  1.34772334E-04
+netwon/GMRES   4   4  8.80312416E-15  1.48179350E-18  1.34772334E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.24250181E-06
+netwon/GMRES   1   4  1.30559021E-03  2.22474662E-04  1.33461600E-04
+netwon/GMRES   2   3  5.26870600E-10  1.19700955E-07  1.32280053E-04
+netwon/GMRES   3   4  3.04191949E-14  5.88054008E-13  1.32280048E-04
+netwon/GMRES   4   4  5.41426088E-15  2.21981025E-18  1.32280048E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.22375220E-06
+netwon/GMRES   1   4  1.27002315E-03  2.20638826E-04  1.31012400E-04
+netwon/GMRES   2   3  4.94339520E-10  1.15896794E-07  1.29868355E-04
+netwon/GMRES   3   4  4.33731699E-14  5.48574011E-13  1.29868350E-04
+netwon/GMRES   4   4  5.31610946E-15  1.95234655E-18  1.29868350E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.20542461E-06
+netwon/GMRES   1   4  1.23590542E-03  2.18843932E-04  1.28642038E-04
+netwon/GMRES   2   3  4.64186515E-10  1.12265439E-07  1.27533796E-04
+netwon/GMRES   3   4  3.44616278E-14  5.12254978E-13  1.27533791E-04
+netwon/GMRES   4   4  5.31756454E-15  1.39242771E-18  1.27533791E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.18750508E-06
+netwon/GMRES   1   4  1.20316004E-03  2.17088669E-04  1.26347211E-04
+netwon/GMRES   2   3  4.36240708E-10  1.08797109E-07  1.25273168E-04
+netwon/GMRES   3   4  2.93910617E-14  4.78806581E-13  1.25273163E-04
+netwon/GMRES   4   4  5.08362423E-15  1.58061450E-18  1.25273163E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.16998058E-06
+netwon/GMRES   1   4  1.17171500E-03  2.15371816E-04  1.24124846E-04
+netwon/GMRES   2   3  4.10293443E-10  1.05482746E-07  1.23083489E-04
+netwon/GMRES   3   4  3.29388072E-14  4.47969076E-13  1.23083485E-04
+netwon/GMRES   4   4  5.13606134E-15  1.79619038E-18  1.23083485E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.15283896E-06
+netwon/GMRES   1   4  1.14150289E-03  2.13692245E-04  1.21972096E-04
+netwon/GMRES   2   3  3.86209934E-10  1.02313960E-07  1.20961993E-04
+netwon/GMRES   3   4  3.38615605E-14  4.19509974E-13  1.20961989E-04
+netwon/GMRES   4   4  7.38124262E-15  1.60898037E-18  1.20961989E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.13606902E-06
+netwon/GMRES   1   4  1.11246057E-03  2.12048916E-04  1.19886319E-04
+netwon/GMRES   2   3  3.63771048E-10  9.92829765E-08  1.18906114E-04
+netwon/GMRES   3   4  2.99055483E-14  3.93219313E-13  1.18906111E-04
+netwon/GMRES   4   4  6.52754403E-15  1.61753919E-18  1.18906111E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.11966040E-06
+netwon/GMRES   1   4  1.08452887E-03  2.10440878E-04  1.17865068E-04
+netwon/GMRES   2   3  3.42910912E-10  9.63825825E-08  1.16913477E-04
+netwon/GMRES   3   4  3.82634111E-14  3.68908849E-13  1.16913474E-04
+netwon/GMRES   4   4  5.37733094E-15  1.68714197E-18  1.16913474E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.10360365E-06
+netwon/GMRES   1   4  1.05765226E-03  2.08867261E-04  1.15906078E-04
+netwon/GMRES   2   3  3.23516105E-10  9.36060790E-08  1.14981882E-04
+netwon/GMRES   3   3  2.31846288E-14  3.46408445E-13  1.14981879E-04
+netwon/GMRES   4   4  3.94870515E-15  2.01036684E-18  1.14981879E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.08789014E-06
+netwon/GMRES   1   4  1.03177859E-03  2.07327280E-04  1.14007247E-04
+netwon/GMRES   2   3  3.05379247E-10  9.09472320E-08  1.13109288E-04
+netwon/GMRES   3   3  2.90659255E-14  3.25565605E-13  1.13109285E-04
+netwon/GMRES   4   4  5.29403995E-15  1.95309339E-18  1.13109285E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.07251205E-06
+netwon/GMRES   1   4  1.00685889E-03  2.05820221E-04  1.12166613E-04
+netwon/GMRES   2   3  2.88455323E-10  8.84002235E-08  1.11293790E-04
+netwon/GMRES   3   3  4.15090722E-14  3.06241423E-13  1.11293787E-04
+netwon/GMRES   4   4  4.47098734E-15  1.59506555E-18  1.11293787E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.05746228E-06
+netwon/GMRES   1   4  9.82847084E-04  2.04345436E-04  1.10382335E-04
+netwon/GMRES   2   3  2.72707541E-10  8.59596017E-08  1.09533601E-04
+netwon/GMRES   3   3  3.43858662E-14  2.88310414E-13  1.09533598E-04
+netwon/GMRES   4   4  4.41607652E-15  1.93556070E-18  1.09533598E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.04273441E-06
+netwon/GMRES   1   4  9.59699836E-04  2.02902329E-04  1.08652663E-04
+netwon/GMRES   2   3  2.57949062E-10  8.36202308E-08  1.07827021E-04
+netwon/GMRES   3   3  3.08857886E-14  2.71659385E-13  1.07827018E-04
+netwon/GMRES   4   4  6.22260646E-15  1.50123790E-18  1.07827018E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.02832252E-06
+netwon/GMRES   1   4  9.37376334E-04  2.01490341E-04  1.06975908E-04
+netwon/GMRES   2   3  2.44138760E-10  8.13772410E-08  1.06172410E-04
+netwon/GMRES   3   3  2.50305542E-14  2.56185869E-13  1.06172407E-04
+netwon/GMRES   4   4  4.46569673E-15  1.32492552E-18  1.06172407E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.01422105E-06
+netwon/GMRES   1   4  9.15838122E-04  2.00108933E-04  1.05350416E-04
+netwon/GMRES   2   3  2.31223239E-10  7.92259820E-08  1.04568157E-04
+netwon/GMRES   3   3  2.73579713E-14  2.41796232E-13  1.04568155E-04
+netwon/GMRES   4   4  4.15297981E-15  1.50276583E-18  1.04568155E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  2.00042464E-06
+netwon/GMRES   1   4  8.95048943E-04  1.98757568E-04  1.03774534E-04
+netwon/GMRES   2   3  2.19115177E-10  7.71619818E-08  1.03012656E-04
+netwon/GMRES   3   3  4.65177625E-14  2.28406577E-13  1.03012654E-04
+netwon/GMRES   4   4  4.90751320E-15  1.54309334E-18  1.03012654E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.98692796E-06
+netwon/GMRES   1   4  8.74974589E-04  1.97435692E-04  1.02246598E-04
+netwon/GMRES   2   3  2.07761108E-10  7.51809164E-08  1.01504284E-04
+netwon/GMRES   3   3  2.44666274E-14  2.15939724E-13  1.01504282E-04
+netwon/GMRES   4   4  6.50315659E-15  1.25006275E-18  1.01504282E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.97372551E-06
+netwon/GMRES   1   4  8.55582764E-04  1.96142728E-04  1.00764917E-04
+netwon/GMRES   2   3  1.97159193E-10  7.32785917E-08  1.00041393E-04
+netwon/GMRES   3   3  3.26936949E-14  2.04326795E-13  1.00041391E-04
+netwon/GMRES   4   4  3.85563836E-15  1.85427333E-18  1.00041391E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.96081154E-06
+netwon/GMRES   1   4  8.36842960E-04  1.94878063E-04  9.93277783E-05
+netwon/GMRES   2   3  1.87139459E-10  7.14509393E-08  9.86223067E-05
+netwon/GMRES   3   3  3.80689899E-14  1.93503857E-13  9.86223049E-05
+netwon/GMRES   4   4  7.54945901E-15  2.01004813E-18  9.86223049E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.94817996E-06
+netwon/GMRES   1   4  8.18726338E-04  1.93641056E-04  9.79334541E-05
+netwon/GMRES   2   3  1.77766363E-10  6.96940261E-08  9.72453386E-05
+netwon/GMRES   3   3  3.02806791E-14  1.83412932E-13  9.72453369E-05
+netwon/GMRES   4   4  5.22699511E-15  1.53295554E-18  9.72453369E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.93582439E-06
+netwon/GMRES   1   4  8.01205624E-04  1.92431038E-04  9.65802229E-05
+netwon/GMRES   2   3  1.68938673E-10  6.80040697E-08  9.59088038E-05
+netwon/GMRES   3   3  2.10782795E-14  1.74001398E-13  9.59088022E-05
+netwon/GMRES   4   4  4.01351080E-15  1.57076863E-18  9.59088022E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.92373817E-06
+netwon/GMRES   1   4  7.84255006E-04  1.91247321E-04  9.52663847E-05
+netwon/GMRES   2   3  1.60617901E-10  6.63774564E-08  9.46110374E-05
+netwon/GMRES   3   3  2.86757663E-14  1.65220701E-13  9.46110359E-05
+netwon/GMRES   4   4  6.46140132E-15  1.40007274E-18  9.46110359E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.91191445E-06
+netwon/GMRES   1   4  7.67850042E-04  1.90089201E-04  9.39902699E-05
+netwon/GMRES   2   3  1.52809058E-10  6.48107515E-08  9.33504037E-05
+netwon/GMRES   3   3  2.98968607E-14  1.57024876E-13  9.33504023E-05
+netwon/GMRES   4   4  6.02749343E-15  1.41209622E-18  9.33504023E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.90034621E-06
+netwon/GMRES   1   4  7.51967578E-04  1.88955953E-04  9.27502359E-05
+netwon/GMRES   2   3  1.45478820E-10  6.33006991E-08  9.21252921E-05
+netwon/GMRES   3   3  3.96990084E-14  1.49372042E-13  9.21252907E-05
+netwon/GMRES   4   4  5.35881252E-15  1.97315748E-18  9.21252907E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.88902623E-06
+netwon/GMRES   1   4  7.36585660E-04  1.87846814E-04  9.15446486E-05
+netwon/GMRES   2   3  1.38532578E-10  6.18442075E-08  9.09340988E-05
+netwon/GMRES   3   3  3.20329709E-14  1.42223967E-13  9.09340975E-05
+netwon/GMRES   4   4  7.67593942E-15  1.52812012E-18  9.09340975E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.87794689E-06
+netwon/GMRES   1   4  7.21683472E-04  1.86760955E-04  9.03718528E-05
+netwon/GMRES   2   3  1.31994620E-10  6.04383256E-08  8.97751977E-05
+netwon/GMRES   3   3  3.29983904E-14  1.35541508E-13  8.97751964E-05
+netwon/GMRES   4   4  4.83595800E-15  1.31022182E-18  8.97751964E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.86709995E-06
+netwon/GMRES   1   4  7.07241255E-04  1.85697454E-04  8.92301364E-05
+netwon/GMRES   2   3  1.25831569E-10  5.90802127E-08  8.86469047E-05
+netwon/GMRES   3   3  3.89191549E-14  1.29290062E-13  8.86469035E-05
+netwon/GMRES   4   4  5.36841647E-15  1.38623646E-18  8.86469035E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.85647618E-06
+netwon/GMRES   1   4  6.93240252E-04  1.84655253E-04  8.81176972E-05
+netwon/GMRES   2   3  1.19998184E-10  5.77671103E-08  8.75474450E-05
+netwon/GMRES   3   3  3.32344031E-14  1.23436688E-13  8.75474438E-05
+netwon/GMRES   4   4  4.96882388E-15  1.55422394E-18  8.75474438E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.84606506E-06
+netwon/GMRES   1   4  6.79662644E-04  1.83633132E-04  8.70326186E-05
+netwon/GMRES   2   3  1.14497335E-10  5.64963210E-08  8.64749287E-05
+netwon/GMRES   3   3  3.87249502E-14  1.17948973E-13  8.64749276E-05
+netwon/GMRES   4   4  5.10183471E-15  1.31718571E-18  8.64749276E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.83585438E-06
+netwon/GMRES   1   4  6.66491497E-04  1.82629681E-04  8.59728603E-05
+netwon/GMRES   2   3  1.09293847E-10  5.52651982E-08  8.54273418E-05
+netwon/GMRES   3   3  5.08770539E-14  1.12797911E-13  8.54273408E-05
+netwon/GMRES   4   4  5.87371368E-15  1.45697064E-18  8.54273408E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.82583008E-06
+netwon/GMRES   1   4  6.53710708E-04  1.81643293E-04  8.49362651E-05
+netwon/GMRES   2   3  1.04380559E-10  5.40711481E-08  8.44025528E-05
+netwon/GMRES   3   3  4.38161920E-14  1.07954514E-13  8.44025518E-05
+netwon/GMRES   4   4  8.24796213E-15  1.72604719E-18  8.44025518E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.81597612E-06
+netwon/GMRES   1   4  6.41304958E-04  1.80672164E-04  8.39205808E-05
+netwon/GMRES   2   3  9.97291134E-11  5.29116420E-08  8.33983347E-05
+netwon/GMRES   3   3  3.06689084E-14  1.03392961E-13  8.33983338E-05
+netwon/GMRES   4   4  4.26212310E-15  1.32112802E-18  8.33983338E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.80627445E-06
+netwon/GMRES   1   4  6.29259667E-04  1.79714305E-04  8.29234947E-05
+netwon/GMRES   2   3  9.53338699E-11  5.17842354E-08  8.24123990E-05
+netwon/GMRES   3   3  4.07076359E-14  9.90889785E-14  8.24123981E-05
+netwon/GMRES   4   4  5.98448807E-15  1.57338891E-18  8.24123981E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.79670523E-06
+netwon/GMRES   1   4  6.17560951E-04  1.78767571E-04  8.19426732E-05
+netwon/GMRES   2   3  9.11309492E-11  5.06865908E-08  8.14424353E-05
+netwon/GMRES   3   3  2.75956552E-14  9.50207186E-14  8.14424344E-05
+netwon/GMRES   4   4  5.78716250E-15  1.70538253E-18  8.14424344E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.78724703E-06
+netwon/GMRES   1   4  6.06195585E-04  1.77829691E-04  8.09758038E-05
+netwon/GMRES   2   3  8.71839367E-11  4.96164972E-08  8.04861531E-05
+netwon/GMRES   3   3  3.42479415E-14  9.11665460E-14  8.04861522E-05
+netwon/GMRES   4   4  4.32989538E-15  1.79786984E-18  8.04861522E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.77787713E-06
+netwon/GMRES   1   4  5.95150965E-04  1.76898299E-04  8.00206342E-05
+netwon/GMRES   2   3  8.34525328E-11  4.85718880E-08  7.95413204E-05
+netwon/GMRES   3   3  2.32879927E-14  8.75089934E-14  7.95413196E-05
+netwon/GMRES   4   4  6.48537042E-15  1.23710061E-18  7.95413196E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.76857192E-06
+netwon/GMRES   1   4  5.84415071E-04  1.75970977E-04  7.90750064E-05
+netwon/GMRES   2   3  7.99017857E-11  4.75508520E-08  7.86057981E-05
+netwon/GMRES   3   3  2.60748280E-14  8.40313581E-14  7.86057974E-05
+netwon/GMRES   4   4  6.30726207E-15  1.58317823E-18  7.86057974E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.75930723E-06
+netwon/GMRES   1   4  5.73976440E-04  1.75045293E-04  7.81368867E-05
+netwon/GMRES   2   3  7.64791697E-11  4.65516408E-08  7.76775701E-05
+netwon/GMRES   3   3  2.75108996E-14  8.07183932E-14  7.76775694E-05
+netwon/GMRES   4   4  6.19215937E-15  1.37175637E-18  7.76775694E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.75005873E-06
+netwon/GMRES   1   4  5.63824131E-04  1.74118833E-04  7.72043920E-05
+netwon/GMRES   2   3  7.32910606E-11  4.55726737E-08  7.67547687E-05
+netwon/GMRES   3   3  3.65471936E-14  7.75571252E-14  7.67547680E-05
+netwon/GMRES   4   4  5.39948908E-15  1.50172412E-18  7.67547680E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.74080234E-06
+netwon/GMRES   1   4  5.53947699E-04  1.73189253E-04  7.62758131E-05
+netwon/GMRES   2   3  7.02796510E-11  4.46125397E-08  7.58356985E-05
+netwon/GMRES   3   3  3.83506623E-14  7.45356786E-14  7.58356979E-05
+netwon/GMRES   4   4  6.45178834E-15  1.60005315E-18  7.58356979E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.73151458E-06
+netwon/GMRES   1   4  5.44337169E-04  1.72254309E-04  7.53496351E-05
+netwon/GMRES   2   3  6.73695465E-11  4.36699986E-08  7.49188570E-05
+netwon/GMRES   3   3  4.13493171E-14  7.16441579E-14  7.49188563E-05
+netwon/GMRES   4   4  4.99667053E-15  1.69763271E-18  7.49188563E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.72217306E-06
+netwon/GMRES   1   4  5.34983010E-04  1.71311906E-04  7.44245552E-05
+netwon/GMRES   2   3  6.46283213E-11  4.27439807E-08  7.40029517E-05
+netwon/GMRES   3   3  3.31780765E-14  6.88725981E-14  7.40029511E-05
+netwon/GMRES   4   4  7.32580093E-15  1.54439773E-18  7.40029511E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.71275683E-06
+netwon/GMRES   1   4  5.25876112E-04  1.70360133E-04  7.34994958E-05
+netwon/GMRES   2   3  6.20081827E-11  4.18335840E-08  7.30869140E-05
+netwon/GMRES   3   3  3.71536142E-14  6.62142864E-14  7.30869134E-05
+netwon/GMRES   4   3  7.35188279E-15  1.25687336E-18  7.30869134E-05
+Update computed in 4 newton steps using 14 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.70324678E-06
+netwon/GMRES   1   4  5.17007763E-04  1.69397298E-04  7.25736121E-05
+netwon/GMRES   2   3  5.95006933E-11  4.09380686E-08  7.21699062E-05
+netwon/GMRES   3   3  3.81914685E-14  6.36621062E-14  7.21699056E-05
+netwon/GMRES   4   4  4.76603919E-15  1.83132575E-18  7.21699056E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.69362599E-06
+netwon/GMRES   1   4  5.08369631E-04  1.68421954E-04  7.16462923E-05
+netwon/GMRES   2   3  5.71451554E-11  4.00568476E-08  7.12513223E-05
+netwon/GMRES   3   3  2.48826452E-14  6.12090900E-14  7.12513218E-05
+netwon/GMRES   4   4  4.26784313E-15  1.41051995E-18  7.12513218E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.68388001E-06
+netwon/GMRES   1   4  4.99953742E-04  1.67432922E-04  7.07171514E-05
+netwon/GMRES   2   3  5.48991506E-11  3.91894741E-08  7.03307816E-05
+netwon/GMRES   3   3  2.83168173E-14  5.88505275E-14  7.03307811E-05
+netwon/GMRES   4   4  3.75977421E-15  1.45561518E-18  7.03307811E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.67399705E-06
+netwon/GMRES   1   4  4.91752461E-04  1.66429300E-04  6.97860185E-05
+netwon/GMRES   2   3  5.27327640E-11  3.83356264E-08  6.94081162E-05
+netwon/GMRES   3   3  2.53676558E-14  5.65820944E-14  6.94081157E-05
+netwon/GMRES   4   3  4.39687356E-15  1.39040676E-18  6.94081157E-05
+Update computed in 4 newton steps using 14 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.66396808E-06
+netwon/GMRES   1   4  4.83758480E-04  1.65410464E-04  6.88529182E-05
+netwon/GMRES   2   3  5.06860605E-11  3.74950909E-08  6.84833529E-05
+netwon/GMRES   3   3  5.02103089E-14  5.43994757E-14  6.84833524E-05
+netwon/GMRES   4   4  4.65337752E-15  1.36545662E-18  6.84833524E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.65378687E-06
+netwon/GMRES   1   4  4.75964795E-04  1.64376060E-04  6.79180501E-05
+netwon/GMRES   2   3  4.87310020E-11  3.66677449E-08  6.75566922E-05
+netwon/GMRES   3   3  4.05589202E-14  5.22986655E-14  6.75566917E-05
+netwon/GMRES   4   4  5.52478098E-15  1.46311792E-18  6.75566917E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.64344988E-06
+netwon/GMRES   1   4  4.68364696E-04  1.63325993E-04  6.69817651E-05
+netwon/GMRES   2   3  4.68809173E-11  3.58535396E-08  6.66284855E-05
+netwon/GMRES   3   3  3.27371270E-14  5.02771317E-14  6.66284851E-05
+netwon/GMRES   4   4  7.87913818E-15  1.35997675E-18  6.66284851E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.63295617E-06
+netwon/GMRES   1   4  4.60951749E-04  1.62260409E-04  6.60445431E-05
+netwon/GMRES   2   3  4.50909549E-11  3.50524852E-08  6.56992127E-05
+netwon/GMRES   3   3  2.51123636E-14  4.83311510E-14  6.56992123E-05
+netwon/GMRES   4   4  5.26215473E-15  1.44713207E-18  6.56992123E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.62230718E-06
+netwon/GMRES   1   3  4.53719727E-04  1.61179668E-04  6.51069712E-05
+netwon/GMRES   2   3  4.33833476E-11  3.42646377E-08  6.47694599E-05
+netwon/GMRES   3   3  3.05537621E-14  4.64584986E-14  6.47694595E-05
+netwon/GMRES   4   4  6.52146679E-15  1.51234340E-18  6.47694595E-05
+Update computed in 4 newton steps using 14 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.61150653E-06
+netwon/GMRES   1   3  4.46662830E-04  1.60084328E-04  6.41697234E-05
+netwon/GMRES   2   3  4.17945639E-11  3.34900845E-08  6.38399005E-05
+netwon/GMRES   3   3  3.21683108E-14  4.46559430E-14  6.38399001E-05
+netwon/GMRES   4   3  3.33864973E-15  1.23900125E-18  6.38399001E-05
+Update computed in 4 newton steps using 13 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.60055977E-06
+netwon/GMRES   1   3  4.39775318E-04  1.58975111E-04  6.32335432E-05
+netwon/GMRES   2   3  4.02302786E-11  3.27289394E-08  6.29112767E-05
+netwon/GMRES   3   3  3.77094889E-14  4.29222005E-14  6.29112763E-05
+netwon/GMRES   4   4  3.83871203E-15  1.30316688E-18  6.29112763E-05
+Update computed in 4 newton steps using 14 function evaluations
+Stepping:   1.00000000E+02
+--residual--   0   0  1.58947414E-06
+netwon/GMRES   1   3  4.33051741E-04  1.57852886E-04  6.22992274E-05
+netwon/GMRES   2   3  3.87202688E-11  3.19813313E-08  6.19843838E-05
+netwon/GMRES   3   3  2.24222432E-14  4.12543805E-14  6.19843835E-05
+netwon/GMRES   4   4  4.83198624E-15  9.44785177E-19  6.19843835E-05
+Update computed in 4 newton steps using 14 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  3.15651666E-06
+netwon/GMRES   1   4  3.39181762E-03  6.22367162E-04  2.43968597E-04
+netwon/GMRES   2   3  2.43558056E-09  5.12655109E-07  2.41444499E-04
+netwon/GMRES   3   4  7.88061021E-14  4.51301114E-12  2.41444478E-04
+netwon/GMRES   4   4  9.01028623E-15  5.27143152E-18  2.41444478E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  3.10977304E-06
+netwon/GMRES   1   4  3.29146409E-03  6.12837687E-04  2.36225801E-04
+netwon/GMRES   2   3  2.26355759E-09  4.88134770E-07  2.33822578E-04
+netwon/GMRES   3   4  6.37921788E-14  4.11808308E-12  2.33822560E-04
+netwon/GMRES   4   4  1.27803054E-14  3.73815898E-18  2.33822560E-04
+netwon/GMRES   5   4  9.54883183E-15  1.70958648E-18  2.33822560E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  3.06222524E-06
+netwon/GMRES   1   4  3.19564815E-03  6.03191247E-04  2.28598727E-04
+netwon/GMRES   2   3  2.10588265E-09  4.64654330E-07  2.26311225E-04
+netwon/GMRES   3   4  8.69324721E-14  3.75891324E-12  2.26311208E-04
+netwon/GMRES   4   4  1.03184922E-14  4.68155068E-18  2.26311208E-04
+netwon/GMRES   5   4  7.64378368E-15  1.62191724E-18  2.26311208E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  3.01408855E-06
+netwon/GMRES   1   4  3.10409970E-03  5.93472527E-04  2.21118310E-04
+netwon/GMRES   2   3  1.96129187E-09  4.42226859E-07  2.18941366E-04
+netwon/GMRES   3   4  5.19419970E-14  3.43265689E-12  2.18941351E-04
+netwon/GMRES   4   4  1.13237395E-14  4.55569781E-18  2.18941351E-04
+netwon/GMRES   5   4  6.25326657E-15  1.54084188E-18  2.18941351E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.96558630E-06
+netwon/GMRES   1   4  3.01656691E-03  5.83725824E-04  2.13811653E-04
+netwon/GMRES   2   3  1.82858396E-09  4.20859311E-07  2.11740069E-04
+netwon/GMRES   3   4  6.33195436E-14  3.13671643E-12  2.11740055E-04
+netwon/GMRES   4   4  6.32471368E-15  3.80385458E-18  2.11740055E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.91693994E-06
+netwon/GMRES   1   4  2.93281543E-03  5.73993720E-04  2.06702777E-04
+netwon/GMRES   2   3  1.70644489E-09  4.00551927E-07  2.04731352E-04
+netwon/GMRES   3   4  5.23752400E-14  2.86865314E-12  2.04731339E-04
+netwon/GMRES   4   4  8.18820004E-15  5.71625804E-18  2.04731339E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.86836236E-06
+netwon/GMRES   1   4  2.85262725E-03  5.64316188E-04  1.99812446E-04
+netwon/GMRES   2   3  1.59407385E-09  3.81298052E-07  1.97936012E-04
+netwon/GMRES   3   4  7.12208694E-14  2.62615870E-12  1.97936000E-04
+netwon/GMRES   4   4  6.07258190E-15  5.43121775E-18  1.97936000E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.82005344E-06
+netwon/GMRES   1   4  2.77579955E-03  5.54729928E-04  1.93157962E-04
+netwon/GMRES   2   3  1.49043631E-09  3.63084224E-07  1.91371415E-04
+netwon/GMRES   3   4  8.01416730E-14  2.40705660E-12  1.91371404E-04
+netwon/GMRES   4   4  1.11020680E-14  4.89809367E-18  1.91371404E-04
+netwon/GMRES   5   4  5.33225554E-15  1.50293172E-18  1.91371404E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.77219673E-06
+netwon/GMRES   1   4  2.70214357E-03  5.45267813E-04  1.86753003E-04
+netwon/GMRES   2   3  1.39485604E-09  3.45890469E-07  1.85051337E-04
+netwon/GMRES   3   4  8.06557625E-14  2.20927908E-12  1.85051327E-04
+netwon/GMRES   4   4  1.01002846E-14  5.98239315E-18  1.85051327E-04
+netwon/GMRES   5   4  8.15543181E-15  1.69355857E-18  1.85051327E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.72495666E-06
+netwon/GMRES   1   4  2.63148350E-03  5.35958462E-04  1.80607566E-04
+netwon/GMRES   2   3  1.30657102E-09  3.29690809E-07  1.78985900E-04
+netwon/GMRES   3   4  6.78224236E-14  2.03088670E-12  1.78985891E-04
+netwon/GMRES   4   4  1.04225314E-14  4.90964205E-18  1.78985891E-04
+netwon/GMRES   5   4  6.24357845E-15  1.50334430E-18  1.78985891E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.67847644E-06
+netwon/GMRES   1   4  2.56365547E-03  5.26826001E-04  1.74728056E-04
+netwon/GMRES   2   3  1.22493673E-09  3.14453964E-07  1.73181664E-04
+netwon/GMRES   3   4  4.90346736E-14  1.87005221E-12  1.73181655E-04
+netwon/GMRES   4   4  7.59778705E-15  2.95050300E-18  1.73181655E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.63287682E-06
+netwon/GMRES   1   4  2.49850664E-03  5.17890034E-04  1.69117508E-04
+netwon/GMRES   2   3  1.14932422E-09  3.00144184E-07  1.67641837E-04
+netwon/GMRES   3   4  7.38222852E-14  1.72507973E-12  1.67641830E-04
+netwon/GMRES   4   4  7.84180908E-15  5.26773374E-18  1.67641830E-04
+Update computed in 4 newton steps using 16 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.58825596E-06
+netwon/GMRES   1   4  2.43589432E-03  5.09165813E-04  1.63775877E-04
+netwon/GMRES   2   3  1.07928911E-09  2.86722030E-07  1.62366569E-04
+netwon/GMRES   3   4  6.48136596E-14  1.59439064E-12  1.62366562E-04
+netwon/GMRES   4   4  1.26161762E-14  5.80237319E-18  1.62366562E-04
+netwon/GMRES   5   4  7.86442976E-15  1.44435895E-18  1.62366562E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.54469028E-06
+netwon/GMRES   1   4  2.37568517E-03  5.00664537E-04  1.58700323E-04
+netwon/GMRES   2   3  1.01434189E-09  2.74144963E-07  1.57353225E-04
+netwon/GMRES   3   4  8.18084494E-14  1.47653426E-12  1.57353219E-04
+netwon/GMRES   4   4  1.28962816E-14  3.50754472E-18  1.57353219E-04
+netwon/GMRES   5   4  6.66618763E-15  1.58276692E-18  1.57353219E-04
+Update computed in 5 newton steps using 20 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.50223595E-06
+netwon/GMRES   1   4  2.31775451E-03  4.92393711E-04  1.53885454E-04
+netwon/GMRES   2   3  9.54032718E-10  2.62367763E-07  1.52596638E-04
+netwon/GMRES   3   3  7.24048558E-14  1.37017537E-12  1.52596632E-04
+netwon/GMRES   4   4  9.42548363E-15  4.33678993E-18  1.52596632E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.46093067E-06
+netwon/GMRES   1   4  2.26198565E-03  4.84357537E-04  1.49323597E-04
+netwon/GMRES   2   3  8.97978875E-10  2.51342967E-07  1.48089365E-04
+netwon/GMRES   3   3  7.39991662E-14  1.27410754E-12  1.48089359E-04
+netwon/GMRES   4   4  8.21038530E-15  4.76456565E-18  1.48089359E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.42079564E-06
+netwon/GMRES   1   4  2.20826929E-03  4.76557378E-04  1.45005197E-04
+netwon/GMRES   2   3  8.45898680E-10  2.41021684E-07  1.43822088E-04
+netwon/GMRES   3   3  3.80857941E-14  1.18723418E-12  1.43822083E-04
+netwon/GMRES   4   4  9.36873647E-15  4.40110300E-18  1.43822083E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.38183786E-06
+netwon/GMRES   1   4  2.15650294E-03  4.68992295E-04  1.40919389E-04
+netwon/GMRES   2   3  7.97369918E-10  2.31354894E-07  1.39784184E-04
+netwon/GMRES   3   3  7.68670940E-14  1.10857809E-12  1.39784179E-04
+netwon/GMRES   4   4  1.23646371E-14  5.42276670E-18  1.39784179E-04
+netwon/GMRES   5   4  5.88501843E-15  1.53835340E-18  1.39784179E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.34405281E-06
+netwon/GMRES   1   4  2.10659047E-03  4.61659596E-04  1.37054611E-04
+netwon/GMRES   2   3  7.52186638E-10  2.22294904E-07  1.35964320E-04
+netwon/GMRES   3   3  6.48359571E-14  1.03726164E-12  1.35964315E-04
+netwon/GMRES   4   4  1.15568788E-14  3.39262191E-18  1.35964315E-04
+netwon/GMRES   5   4  1.06378438E-14  1.37883311E-18  1.35964315E-04
+netwon/GMRES   6   4  8.42688905E-15  1.20848653E-18  1.35964315E-04
+Update computed in 6 newton steps using 23 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.30742721E-06
+netwon/GMRES   1   4  2.05844159E-03  4.54555208E-04  1.33398925E-04
+netwon/GMRES   2   3  7.10083682E-10  2.13796217E-07  1.32350781E-04
+netwon/GMRES   3   3  1.04545780E-13  9.72496285E-13  1.32350777E-04
+netwon/GMRES   4   4  1.47087015E-14  6.14841766E-18  1.32350777E-04
+netwon/GMRES   5   4  7.47460128E-15  1.49700125E-18  1.32350777E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.27194086E-06
+netwon/GMRES   1   4  2.01197149E-03  4.47673699E-04  1.29939832E-04
+netwon/GMRES   2   3  6.70744900E-10  2.05815296E-07  1.28931281E-04
+netwon/GMRES   3   3  7.37842528E-14  9.13552828E-13  1.28931277E-04
+netwon/GMRES   4   4  9.82172341E-15  4.25395923E-18  1.28931277E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.23756677E-06
+netwon/GMRES   1   4  1.96710038E-03  4.41007932E-04  1.26663640E-04
+netwon/GMRES   2   3  6.34014066E-10  1.98309392E-07  1.25692340E-04
+netwon/GMRES   3   3  5.17516196E-14  8.59742555E-13  1.25692336E-04
+netwon/GMRES   4   4  7.13690461E-15  3.71612141E-18  1.25692336E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.20426943E-06
+netwon/GMRES   1   4  1.92375320E-03  4.34548556E-04  1.23554755E-04
+netwon/GMRES   2   3  5.99700819E-10  1.91235187E-07  1.22618578E-04
+netwon/GMRES   3   3  1.00540609E-13  8.10417798E-13  1.22618575E-04
+netwon/GMRES   4   4  1.01850114E-14  5.90128590E-18  1.22618575E-04
+netwon/GMRES   5   4  4.56456116E-15  1.49133388E-18  1.22618575E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.17200224E-06
+netwon/GMRES   1   4  1.88185926E-03  4.28283598E-04  1.20595334E-04
+netwon/GMRES   2   3  5.67618347E-10  1.84548118E-07  1.19692375E-04
+netwon/GMRES   3   3  7.37572163E-14  7.64966819E-13  1.19692371E-04
+netwon/GMRES   4   4  9.83806724E-15  4.91888371E-18  1.19692371E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.14070552E-06
+netwon/GMRES   1   4  1.84135191E-03  4.22198423E-04  1.17765550E-04
+netwon/GMRES   2   3  5.37520011E-10  1.78202818E-07  1.16894127E-04
+netwon/GMRES   3   3  6.91105153E-14  7.22836439E-13  1.16894124E-04
+netwon/GMRES   4   4  1.40682192E-14  4.49127700E-18  1.16894124E-04
+netwon/GMRES   5   4  9.30221791E-15  1.47070097E-18  1.16894124E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.11030626E-06
+netwon/GMRES   1   4  1.80216835E-03  4.16276142E-04  1.15044468E-04
+netwon/GMRES   2   3  5.09390840E-10  1.72154596E-07  1.14203123E-04
+netwon/GMRES   3   3  6.07816722E-14  6.83551852E-13  1.14203120E-04
+netwon/GMRES   4   4  9.13520682E-15  3.41995347E-18  1.14203120E-04
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.08072021E-06
+netwon/GMRES   1   4  1.76424927E-03  4.10498427E-04  1.12411339E-04
+netwon/GMRES   2   3  4.83032710E-10  1.66361505E-07  1.11598819E-04
+netwon/GMRES   3   3  7.37667268E-14  6.46719785E-13  1.11598816E-04
+netwon/GMRES   4   4  1.24263873E-14  3.20468350E-18  1.11598816E-04
+netwon/GMRES   5   4  9.84387768E-15  1.54443588E-18  1.11598816E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.05185586E-06
+netwon/GMRES   1   4  1.72753868E-03  4.04846584E-04  1.09846961E-04
+netwon/GMRES   2   3  4.58289429E-10  1.60786409E-07  1.09062197E-04
+netwon/GMRES   3   3  6.68701483E-14  6.12034362E-13  1.09062194E-04
+netwon/GMRES   4   4  1.18553098E-14  4.21761367E-18  1.09062194E-04
+netwon/GMRES   5   4  6.59908943E-15  1.41128094E-18  1.09062194E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  2.02361991E-06
+netwon/GMRES   1   4  1.69198369E-03  3.99302678E-04  1.07334826E-04
+netwon/GMRES   2   3  4.35104475E-10  1.55398466E-07  1.06576898E-04
+netwon/GMRES   3   3  9.68926771E-14  5.79267173E-13  1.06576896E-04
+netwon/GMRES   4   4  1.24698923E-14  4.65188476E-18  1.06576896E-04
+netwon/GMRES   5   4  6.55733556E-15  1.57260963E-18  1.06576896E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.99592278E-06
+netwon/GMRES   1   4  1.65753427E-03  3.93850504E-04  1.04861777E-04
+netwon/GMRES   2   3  4.13265207E-10  1.50173684E-07  1.04129886E-04
+netwon/GMRES   3   3  8.30891202E-14  5.48254378E-13  1.04129884E-04
+netwon/GMRES   4   4  1.00176274E-14  4.24243002E-18  1.04129884E-04
+netwon/GMRES   5   4  6.51275927E-15  1.46194728E-18  1.04129884E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.96868357E-06
+netwon/GMRES   1   4  1.62414309E-03  3.88476241E-04  1.02418118E-04
+netwon/GMRES   2   3  3.92744618E-10  1.45094486E-07  1.01711549E-04
+netwon/GMRES   3   3  6.39377798E-14  5.18867310E-13  1.01711547E-04
+netwon/GMRES   4   4  1.31033305E-14  3.10995117E-18  1.01711547E-04
+netwon/GMRES   5   4  5.89487750E-15  1.39666943E-18  1.01711547E-04
+Update computed in 5 newton steps using 19 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.94183322E-06
+netwon/GMRES   1   4  1.59176536E-03  3.83168709E-04  9.99972250E-05
+netwon/GMRES   2   3  3.73443944E-10  1.40148558E-07  9.93153261E-05
+netwon/GMRES   3   3  7.05220476E-14  4.91013615E-13  9.93153241E-05
+netwon/GMRES   4   4  9.78662354E-15  4.75701224E-18  9.93153241E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.91531590E-06
+netwon/GMRES   1   4  1.56035865E-03  3.77919247E-04  9.75948581E-05
+netwon/GMRES   2   3  3.55259652E-10  1.35327368E-07  9.69370191E-05
+netwon/GMRES   3   3  8.32320907E-14  4.64611235E-13  9.69370173E-05
+netwon/GMRES   4   4  1.46136672E-14  4.09408727E-18  9.69370173E-05
+netwon/GMRES   5   4  1.11687619E-14  1.46536208E-18  9.69370173E-05
+netwon/GMRES   6   4  7.27907490E-15  1.42519959E-18  9.69370173E-05
+Update computed in 6 newton steps using 23 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.88908835E-06
+netwon/GMRES   1   4  1.52988274E-03  3.72721305E-04  9.52083731E-05
+netwon/GMRES   2   3  3.38233906E-10  1.30624769E-07  9.45740162E-05
+netwon/GMRES   3   3  5.32596950E-14  4.39580272E-13  9.45740144E-05
+netwon/GMRES   4   4  9.17252670E-15  3.71009049E-18  9.45740144E-05
+Update computed in 4 newton steps using 15 function evaluations
+Stepping:   2.00000000E+02
+--residual--   0   0  1.86311786E-06
+netwon/GMRES   1   4  1.50029949E-03  3.67569880E-04  9.28360201E-05
+netwon/GMRES   2   3  3.22135068E-10  1.26035908E-07  9.22245927E-05
+netwon/GMRES   3   3  6.89587708E-14  4.15850535E-13  9.22245910E-05
+netwon/GMRES   4   4  7.29049728E-15  4.69136087E-18  9.22245910E-05
+Update computed in 4 newton steps using 15 function evaluations

@@ -1,0 +1,10 @@
+monomer defect 1
+geometry sphere
+migration_energy 0.5
+jump_distance 0.707
+array included
+  0     F
+  1     T
+  4     T
+  5     F
+end included

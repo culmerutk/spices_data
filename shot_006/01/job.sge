@@ -1,6 +1,0 @@
-#$ -N Shot_004_01
-#$ -q medium*
-#$ -V
-#$ -cwd
-spices
-python plot_single.py

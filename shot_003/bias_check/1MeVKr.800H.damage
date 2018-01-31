@@ -1,7 +1,0 @@
-# input_method 		interpolate_by_bin
-interpolation_order     6
-interpolant_range   	100.00000000000000
-damage_bins 		1
-array
-    1    0.042866941	0.0	0.0	0.0	0.0	0.0	0.0
-end

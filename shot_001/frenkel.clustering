@@ -1,7 +1,0 @@
-damage_bins           1
-produced_species      2
-array
-survival_efficiency   4.d-1 
-1	int               1.d0
--1	void              1.d0
-end

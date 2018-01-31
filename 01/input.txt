@@ -1,0 +1,39 @@
+file                         standard.kincfg
+file                         dump.cfg
+temperature                  713
+
+!set up primary damage
+damage_file                  1MeVKr.800H.subcasc.damage
+partition_file               fe.wirth2.clustering
+
+mesh_points                  13
+foil_thickness               1.d2
+!assign void formation_energy  1.5
+
+dose_rate_scale             1.d-3
+lattice_paramter 		0.357d0
+atoms_per_cell                  4
+
+!run to 100 dpa
+total_time                   1.d4
+
+!set up the phase space size
+component_limits defect      -1000000 1000000
+initial_limits   defect      -100 1000
+
+!dump solver information
+verbose_solver               T
+
+!use a grouping scheme
+!compression_style void       defect 3 1.d0 11
+compression_style void       defect 3 50.d-2 400
+compression_style frank      defect 3 50.d-2 100
+compression_style perfect    defect 3 50.d-2 100
+
+!configure the solver
+preconditioner_fill          -1
+dual_sparsity                T
+ordering_axis                -1
+
+!Determine how fast to expand the phase space
+activation_threshold         2.d-6

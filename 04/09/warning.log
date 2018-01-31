@@ -1,0 +1,33 @@
+CONFIGURATION: Unrecognized option relative ignored for computing int_density
+CONFIGURATION: Unrecognized option relative ignored for computing frank_density
+CONFIGURATION: Unrecognized option relative ignored for computing perfect_density
+CONFIGURATION: Unrecognized option relative ignored for computing faulted_density
+CONFIGURATION: Unrecognized option relative ignored for computing void_density
+NEWTON STEP: A step was accepted above threshold at   1.54681911E-12
+NEWTON STEP: A step was accepted above threshold at   3.14865417E-13
+NEWTON STEP: A step was rejected above threshold at   1.64334434E-09
+NEWTON STEP: A step was accepted above threshold at   3.07393753E-14
+NEWTON STEP: A step was accepted above threshold at   1.55006932E-13
+NEWTON STEP: A step was accepted above threshold at   9.42756180E-14
+NEWTON STEP: A step was rejected above threshold at   2.20010136E-09
+NEWTON STEP: A step was accepted above threshold at   7.73784167E-11
+NEWTON STEP: A step was rejected above threshold at   2.43458184E-09
+NEWTON STEP: A step was rejected above threshold at   5.99504622E-09
+NEWTON STEP: A step was accepted above threshold at   2.03972346E-10
+NEWTON STEP: A step was accepted above threshold at   5.47695826E-10
+NEWTON STEP: A step was rejected above threshold at   2.72817811E-09
+NEWTON STEP: A step was accepted above threshold at   1.07108859E-12
+NEWTON STEP: A step was accepted above threshold at   2.85061174E-11
+NEWTON STEP: A step was accepted above threshold at   1.05827946E-10
+NEWTON STEP: A step was accepted above threshold at   2.82584603E-11
+NEWTON STEP: A step was accepted above threshold at   9.26582815E-13
+NEWTON STEP: A step was accepted above threshold at   6.02311704E-13
+NEWTON STEP: A step was accepted above threshold at   5.24846603E-13
+NEWTON STEP: A step was accepted above threshold at   6.90959111E-12
+NEWTON STEP: A step was accepted above threshold at   2.42555193E-12
+NEWTON STEP: A step was accepted above threshold at   1.19714073E-12
+NEWTON STEP: A step was accepted above threshold at   2.15540161E-11
+NEWTON STEP: A step was accepted above threshold at   7.13057420E-12
+NEWTON STEP: A step was accepted above threshold at   5.41689412E-12
+NEWTON STEP: A step was accepted above threshold at   1.97802506E-11
+NEWTON STEP: A step was accepted above threshold at   1.24451655E-11

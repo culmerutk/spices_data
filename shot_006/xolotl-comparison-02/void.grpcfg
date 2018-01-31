@@ -1,6 +1,0 @@
-geometry sphere
-mobile F
-array included
-  -6     T
-  -5     F
-end included
